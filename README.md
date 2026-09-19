@@ -1,5 +1,7 @@
 # 📘 Apostila Digital Completa
 
+🏠 Capa da Apostila
+
 Seja muito bem-vindo(a) a esta jornada de aprendizado! Este material foi estruturado no formato GitBook para oferecer uma navegação fluida, organizada e focada no seu desenvolvimento.
 
 ---
