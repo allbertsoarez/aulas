@@ -5,7 +5,7 @@
   <br>
   <p><strong>Disciplina:</strong> Algoritmos</p>
   <p><strong>Professor:</strong> Albert Soares</p>
-  <p><strong>Versão:</strong> 1.0 | <strong>Ano:</strong> 2024</p>
+  <p><strong>Versão:</strong> 1.0 | <strong>Ano:</strong> 2026</p>
   <br><br>
 </div>
 
