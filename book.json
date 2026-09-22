@@ -1,0 +1,13 @@
+{
+  "root": ".",
+  "structure": {
+    "summary": "SUMMARY.md",
+    "readme": "README.md"
+  },
+  "plugins": ["theme-default"],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": true
+    }
+  }
+}

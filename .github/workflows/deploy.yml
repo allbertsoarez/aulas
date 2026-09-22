@@ -1,38 +1,48 @@
 name: Deploy HonKit to GitHub Pages
+
 on:
-push:
-branches:
-- main
+  push:
+    branches:
+      - main
+
 permissions:
-contents: read
-pages: write
-id-token: write
+  contents: read
+  pages: write
+  id-token: write
+
 concurrency:
-group: "pages"
-cancel-in-progress: false
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-deploy:
-environment:
-name: github-pages
-url: ${{ steps.deployment.outputs.page_url }}
-runs-on: ubuntu-latest
-steps:
-- name: Checkout Código
-uses: actions/checkout@v4
-- name: Configurar Node.js
-uses: actions/setup-node@v4
-with:
-node-version: '20'
-- name: Instalar HonKit globalmente
-run: npm install -g honkit
-- name: Compilar Livro / Apostila
-run: honkit build
-- name: Configurar Páginas
-uses: actions/configure-pages@v4
-- name: Upload dos arquivos compilados
-uses: actions/upload-pages-artifact@v3
-with:
-path: '_book'
-- name: Deploy para GitHub Pages
-id: deployment
-uses: actions/deploy-pages@v4
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Código
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar HonKit
+        run: npm install -g honkit
+
+      - name: Compilar Livro / Apostila
+        run: honkit build
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload dos arquivos compilados
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '_book'
+
+      - name: Deploy para GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
