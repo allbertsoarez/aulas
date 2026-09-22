@@ -4,8 +4,8 @@
   <h2>Fundamentos da Computação, Matemática e Gestão</h2>
   <br>
   <p><strong>Compilação Geral de Estudos e Materiais</strong></p>
-  <p><strong>Autor:</strong> [Seu Nome]</p>
-  <p><strong>Versão:</strong> 1.0 | <strong>Ano:</strong> 2024</p>
+  <p><strong>Autor:</strong> Albert Soares</p>
+  <p><strong>Versão:</strong> 1.0 | <strong>Ano:</strong> 2026</p>
   <br><br>
   <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGni/giphy.gif" width="200" alt="Estudos">
   <br><br>
