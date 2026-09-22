@@ -1,4 +1,4 @@
-# 📘 Apostila Digital Completa
+# 📘 Apostila Digital
 
 🏠 Capa da Apostila
 
