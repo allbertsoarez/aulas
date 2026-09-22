@@ -1,6 +1,8 @@
-# SUMÁRIO
+# APOSTILAS
 
-## ENSINO TÉCNICO
+## SUMÁRIO
+
+### ENSINO TÉCNICO
 
 - [Banco de Dados](apostilas/banco-de-dados)
 - [Empreendedorismo](apostilas/empreendedorismo)
@@ -12,5 +14,5 @@
 
 ---
 
-## ENSINO MÉDIO
+### ENSINO MÉDIO
 - [MATEMÁTICA](apostilas/matematica)
