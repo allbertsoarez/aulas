@@ -1,0 +1,7 @@
+algoritmo "OlaMundo"
+// Seção de Declarações
+inicio
+    escreva("Olá, Mundo!")
+    escreval("")
+    escreva("Bem-vindo ao estudo de Algoritmos!")
+fimalgoritmo
