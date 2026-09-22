@@ -1,20 +1,22 @@
 # SUMÁRIO
 
-## BANCO DE DADOS
+## ENSINO TÉCNICO
 
-## EMPREENDEDORISMO
+### Banco de Dados
 
-## ESTATÍSTICA APLICADA
+### Empreendedorismo
 
-## LINGUAGEM DE PROGRAMAÇÃO
+### Estatística Aplicada
 
-## LINGUAGEM ORIENTADA À OBJETOS
+### Linguagem de Programação
 
-## LÓGICA DE PROGRAMAÇÃO
+### Linguagem Orientada à Objeto
 
-## REDES DE COMPUTADORES
+### Lógica de Programação
 
-## MATEMÁTICA
+### Redes de Computadores
 
 ---
 
+## ENSINO MÉDIO
+### MATEMÁTICA
