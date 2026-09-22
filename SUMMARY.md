@@ -1,7 +1,5 @@
 # Sumário
 
-* [🏠 Capa da Apostila](README.md)
-
 ## 📚 Módulo 1: Introdução e Fundamentos
 * [1.1 Boas-vindas e Objetivos](modulo-01-introducao/1.1-boas-vindas.md)
 * [1.2 Conceitos Fundamentais](modulo-01-introducao/1.2-conceitos-fundamentais.md)
