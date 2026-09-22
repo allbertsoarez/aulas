@@ -5,7 +5,7 @@
   <br>
   <p><strong>Disciplina:</strong> Algoritmos</p>
   <p><strong>Professor:</strong> Albert Soares</p>
-  <p><strong>Versão:</strong> 1.0 | <strong>Ano:</strong> 2026</p>
+  <p><strong>Versão:</strong> 1.0 | <strong>Ano:</strong> 2024</p>
   <br><br>
 </div>
 
@@ -126,3 +126,153 @@ INICIO
     soma <- n1 + n2
     ESCREVA("A soma é: ", soma)
 FIMALGORITMO
+```
+
+> 💻 **Prática:** Baixe este exemplo na [Pasta de Scripts Portugol](./portugol/README.md) como `variaveis_tipos.por`.
+
+---
+
+## 5. Estruturas Condicionais
+
+### 5.1 Simples (SE)
+```portugol
+SE (condição) ENTAO
+    // comandos executados se a condição for VERDADEIRA
+FIMSE
+```
+
+### 5.2 Composta (SE / SENÃO)
+```portugol
+SE (condição) ENTAO
+    // comandos se VERDADEIRO
+SENAO
+    // comandos se FALSO
+FIMSE
+```
+
+### 5.3 Encadeada (SE / SENÃO SE)
+```portugol
+SE (condição1) ENTAO
+    // comandos
+SENAO SE (condição2) ENTAO
+    // comandos
+SENAO
+    // comandos
+FIMSE
+```
+
+### 5.4 Múltipla Escolha (ESCOLHA / CASO)
+```portugol
+ESCOLHA (variável)
+    CASO 1:
+        ESCREVA("Opção 1")
+    CASO 2:
+        ESCREVA("Opção 2")
+    OUTRO CASO:
+        ESCREVA("Opção inválida")
+FIMESCOLHA
+```
+
+---
+
+## 6. Estruturas de Repetição
+
+### 6.1 PARA (Repetição com Contador)
+Usado quando sabemos **quantas vezes** o laço deve executar.
+```portugol
+PARA i DE 1 ATE 10 FACA
+    ESCREVA(i)
+FIMPARA
+```
+
+### 6.2 ENQUANTO (Repetição com Teste no Início)
+Executa **enquanto** a condição for verdadeira. Pode não executar nenhuma vez.
+```portugol
+ENQUANTO (condição) FACA
+    // comandos
+FIMENQUANTO
+```
+
+### 6.3 REPITA (Repetição com Teste no Final)
+Executa **pelo menos uma vez**, até que a condição se torne verdadeira.
+```portugol
+REPITA
+    // comandos
+ATE (condição)
+```
+
+---
+
+## 7. Estruturas Homogêneas (Vetores e Matrizes)
+
+### 7.1 Vetores (Arrays Unidimensionais)
+Um vetor é uma variável que armazena vários valores do **mesmo tipo**, acessados por um **índice**.
+
+```portugol
+VAR
+    notas : VETOR[1..5] DE REAL
+INICIO
+    notas[1] <- 8.5
+    notas[2] <- 7.0
+    // ...
+```
+
+### 7.2 Matrizes (Arrays Bidimensionais)
+Uma matriz é uma tabela com **linhas e colunas**.
+
+```portugol
+VAR
+    tabela : VETOR[1..3, 1..3] DE INTEIRO
+```
+
+---
+
+## 8. Funções e Procedimentos
+
+### 8.1 Procedimento
+Executa uma tarefa mas **não retorna** valor.
+```portugol
+PROCEDIMENTO mostrarMensagem()
+INICIO
+    ESCREVA("Olá, mundo!")
+FIMPROCEDIMENTO
+```
+
+### 8.2 Função
+Executa uma tarefa e **retorna** um valor.
+```portugol
+FUNCAO somar(a, b : INTEIRO) : INTEIRO
+INICIO
+    RETORNE a + b
+FIMFUNCAO
+```
+
+---
+
+## 9. Exercícios Práticos
+
+| # | Exercício | Dificuldade |
+| :---: | :--- | :---: |
+| 1 | Calcular a média de 3 notas e informar se o aluno foi aprovado (média >= 7). | ⭐ |
+| 2 | Ler 10 números e exibir apenas os pares. | ⭐⭐ |
+| 3 | Preencher um vetor com 5 notas e calcular a média geral. | ⭐⭐ |
+| 4 | Criar uma função que retorne o fatorial de um número. | ⭐⭐⭐ |
+| 5 | Ordenar um vetor de 10 números usando Bubble Sort. | ⭐⭐⭐ |
+
+> 💻 **Prática:** As resoluções destes exercícios em Portugol estão disponíveis na [Pasta de Scripts Portugol](./portugol/README.md).
+
+---
+
+## 10. Referências Bibliográficas
+
+- MANZANO, José Augusto N. G.; OLIVEIRA, Jayr Figueiredo de. **Algoritmos: Lógica para Desenvolvimento de Programação de Computadores**. São Paulo: Érica, 2011.
+- ASCENCIO, Ana Fernanda Gomes; CAMPOS, Edilene Aparecida Veneruchi de. **Fundamentos da Programação de Computadores**. São Paulo: Pearson, 2012.
+- FORBELLONE, André Luiz Villar; EBERSPÄCHER, Henri Frederico. **Lógica de Programação: A Construção de Algoritmos e Estruturas de Dados**. São Paulo: Pearson, 2005.
+
+---
+
+<div align="center">
+  <br>
+  <a href="../../README.md">🔙 Voltar para a Apostila Principal</a>
+  <br><br>
+</div>
