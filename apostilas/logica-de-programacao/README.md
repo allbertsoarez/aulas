@@ -1,24 +1,40 @@
-# 📘 Apostila Digital Completa
-
-🏠 Capa da Apostila
-
-Seja muito bem-vindo(a) a esta jornada de aprendizado! Este material foi estruturado no formato GitBook para oferecer uma navegação fluida, organizada e focada no seu desenvolvimento.
-
----
-
-## 🎯 Objetivos deste Material
-* **Praticidade:** Conteúdo direto ao ponto com exemplos do mundo real.
-* **Organização:** Módulos sequenciais que respeitam a sua curva de aprendizado.
-* **Autonomia:** Desafios e atividades para você testar seus conhecimentos.
+<div align="center">
+  <br><br>
+  <h1>📗 APOSTILA DE LÓGICA DE PROGRAMAÇÃO</h1>
+  <h2>Aprendendo e dominando o pensamento lógico</h2>
+  <br>
+  <p><strong>Disciplina:</strong> Lógica de Programação</p>
+  <p><strong>Professor</strong> Albert Soares</p>
+  <br><br>
+</div>
 
 ---
 
-## 🗺️ Como Navegar por aqui?
-Você pode utilizar o **Menu Lateral** (Sumário) para saltar diretamente para qualquer tópico ou seguir o fluxo recomendado utilizando os botões de **Navegação** (⬅️ Anterior / Próxima ➡️) localizados no rodapé de cada página.
+# 📑 SUMÁRIO
+
+## 📖 Conteúdo Programático
+
+1. [Introdução à Matéria](#1-introdução-à-matéria)
+2. [Conceitos Fundamentais](#2-conceitos-fundamentais)
+3. [Tópico Avançado 1](#3-tópico-avançado-1)
+4. [Tópico Avançado 2](#4-tópico-avançado-2)
+5. [Exercícios Práticos](#5-exercícios-práticos)
+6. [Material Complementar e Referências](#6-material-complementar-e-referências)
 
 ---
 
-### 🧭 Iniciar Aprendizado
-* ➡️ **Começar agora:** [1.1 Boas-vindas e Objetivos](modulo-01-introducao/1.1-boas-vindas.md)
+## 1. Introdução à Matéria
+*(Comece a escrever o conteúdo aqui...)*
+
+## 2. Conceitos Fundamentais
+*(Continue o conteúdo...)*
+
+<!-- Adicione quantos capítulos precisar -->
 
 ---
+
+<div align="center">
+  <br>
+  <a href="../../APOSTILA_PRINCIPAL.md">🔙 Voltar para a Apostila Mestra</a>
+  <br><br>
+</div>
