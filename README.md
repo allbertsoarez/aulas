@@ -22,11 +22,11 @@ Bem-vindo à sua jornada de aprendizado! Este documento consolida todo o materia
 2. [Algoritmos e Portugol](./algoritmos/portugol/README.md)
 
 ## 💻 2. Linguagens e Paradigmas de Programação
-3. [Linguagem de Programação (C/C++)](./apostilas/linguagem-de-programacao/README.md)
+3. [Linguagem de Programação](./apostilas/linguagem-de-programacao/README.md)
 4. [Programação Orientada a Objetos (POO)](./apostilas/linguagem-orientada-a-objetos/README.md)
 5. [Códigos Fonte e Práticas (ASM, C, C++, Python)](./codigo-fonte/README.md)
 
-## 🗄️ 3. Dados, Redes e Sistemas
+## 🗄️ 3. Banco de Dados, e Redes de Computadores
 6. [Banco de Dados e SQL](./apostilas/banco-de-dados/README.md)
 7. [Redes de Computadores](./apostilas/redes-de-computadores/README.md)
 
