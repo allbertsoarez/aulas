@@ -1,0 +1,46 @@
+Ideias para criar curso de programação
+
+MÓDULO 1
+O que é programação?
+Introdução básica à linguagem Assembler
+https://github.com/VILHALVA/CURSO-DE-ASSEMBLY/blob/main/CURSO%20COMPLETO/04)%20PRIMEIRO%20PROGRAMA/hello.asm
+https://mentebinaria.gitbook.io/assembly
+https://github.com/andreluispy/assembly4noobs
+https://cs.lmu.edu/~ray/notes/nasmtutorial/
+https://github.com/mschwartz/assembly-tutorial
+
+Introdução a Linguagem C
+https://www.inf.ufpr.br/hexsel/ci067/01_intro.html
+
+Quem inventou, onde e quando
+O que é um compilador, linkador e linguagem objeto
+Linguagem de máquina
+Estrutura básica de um código em linguagem C
+Comentários na linguagem C
+Instalando o compilador  
+IDE (Geany, Dev-C++ e VS CODE)
+IDE Online
+Conhecendo a documentação da linguagem
+
+MÓDULO 2
+Primeiro programa - Olá Mundo
+Vários exercícios usando comando printf
+Declaração de variáveis
+Vários exemplos usando printf e variáveis
+Tipos de variáveis
+Comando scanf
+
+-----
+https://scratch.mit.edu/
+https://github.com/RaspberryPiFoundation/blockly
+
+
+MÓDULO ALFA(AVANÇADO)
+
+Editor HEX DECIMAL
+https://web.imhex.werwolv.net/
+https://github.com/WerWolv/ImHex
+
+Engenharia Reversa
+https://mentebinaria.gitbook.io/engenharia-reversa
+https://github.com/mentebinaria/fundamentos-engenharia-reversa
