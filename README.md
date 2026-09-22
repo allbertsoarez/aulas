@@ -1,24 +1,44 @@
-# 📘 Apostila Digital Completa
-
-🏠 Capa da Apostila
-
-Seja muito bem-vindo(a) a esta jornada de aprendizado! Este material foi estruturado no formato GitBook para oferecer uma navegação fluida, organizada e focada no seu desenvolvimento.
-
----
-
-## 🎯 Objetivos deste Material
-* **Praticidade:** Conteúdo direto ao ponto com exemplos do mundo real.
-* **Organização:** Módulos sequenciais que respeitam a sua curva de aprendizado.
-* **Autonomia:** Desafios e atividades para você testar seus conhecimentos.
+<div align="center">
+  <br><br>
+  <h1>📘 APOSTILA MESTRA</h1>
+  <h2>Fundamentos da Computação, Matemática e Gestão</h2>
+  <br>
+  <p><strong>Compilação Geral de Estudos e Materiais</strong></p>
+  <p><strong>Autor:</strong> Albert Soares</p>
+  <p><strong>Versão:</strong> 1.0 | <strong>Ano:</strong> 2026</p>
+  <br><br>
+</div>
 
 ---
 
-## 🗺️ Como Navegar por aqui?
-Você pode utilizar o **Menu Lateral** (Sumário) para saltar diretamente para qualquer tópico ou seguir o fluxo recomendado utilizando os botões de **Navegação** (⬅️ Anterior / Próxima ➡️) localizados no rodapé de cada página.
+# 📑 SUMÁRIO GERAL
+
+Bem-vindo à sua jornada de aprendizado! Este documento consolida todo o material didático organizado neste repositório. Clique nos links abaixo para navegar diretamente para a apostila de cada matéria.
+
+## 🧠 1. Fundamentos e Lógica
+1. [Lógica de Programação](./aulas/apostilas/logica-de-programacao/README.md)
+2. [Algoritmos e Pensamento Computacional](./aulas/algoritmos/README.md)
+   - 💻 [Prática: Arquivos em Portugol](./aulas/algoritmos/portugol/README.md)
+
+## 💻 2. Linguagens e Paradigmas de Programação
+3. [Linguagem de Programação](./aulas/apostilas/linguagem-de-programacao/README.md)
+4. [Programação Orientada a Objetos (POO)](./aulas/apostilas/linguagem-orientada-a-objetos/README.md)
+5. [Códigos Fonte e Práticas (ASM, C, C++, Python)](./aulas/codigo-fonte/README.md)
+
+## 🗄️ 3. Banco de Dados e Redes de Computadores
+6. [Banco de Dados e SQL](./aulas/apostilas/banco-de-dados/README.md)
+   - 💻 [Prática: Scripts SQL](./aulas/apostilas/banco-de-dados/sql/README.md)
+7. [Redes de Computadores](./aulas/apostilas/redes-de-computadores/README.md)
+
+## 📐 4. Ciências Exatas
+8. [Matemática e GeoGebra](./aulas/apostilas/matematica/README.md)
+   - 💻 [Prática: Arquivos GeoGebra](./aulas/apostilas/matematica/geogebra/README.md)
+9. [Estatística Aplicada](./aulas/apostilas/estatistica-aplicada/README.md)
+
+## 💼 5. Gestão e Negócios
+10. [Empreendedorismo](./aulas/apostilas/empreendedorismo/README.md)
 
 ---
-
-### 🧭 Iniciar Aprendizado
-* ➡️ **Começar agora:** [1.1 Boas-vindas e Objetivos](modulo-01-introducao/1.1-boas-vindas.md)
-
----
+<div align="center">
+  <i>"A educação é a arma mais poderosa que você pode usar para mudar o mundo." - Nelson Mandela</i>
+</div>
