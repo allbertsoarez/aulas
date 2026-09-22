@@ -3,7 +3,7 @@
 ## ENSINO TÉCNICO
 
 - [Banco de Dados](apostilas/banco-de-dados)
-- Empreendedorismo
+- [Empreendedorismo](apostilas/empreendedorismo)
 - Estatística Aplicada
 - Linguagem de Programação
 - Linguagem Orientada à Objeto
