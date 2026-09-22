@@ -1,6 +1,7 @@
 <div align="center">
   <br><br>
-  <h1>📗 APOSTILA DE BANCO DE DADOS</h1>
+  <h1>🗄️ APOSTILA DE BANCO DE DADOS</h1>
+  <h2>Modelagem, SQL e Administração</h2>
   <br>
   <p><strong>Disciplina:</strong> Banco de Dados</p>
   <p><strong>Professor:</strong> Albert Soares</p>
@@ -13,22 +14,21 @@
 
 ## 📖 Conteúdo Programático
 
-1. [Introdução à Matéria](#1-introdução-à-matéria)
-2. [Conceitos Fundamentais](#2-conceitos-fundamentais)
-3. [Tópico Avançado 1](#3-tópico-avançado-1)
-4. [Tópico Avançado 2](#4-tópico-avançado-2)
-5. [Exercícios Práticos](#5-exercícios-práticos)
-6. [Material Complementar e Referências](#6-material-complementar-e-referências)
+1. [Introdução a Banco de Dados](#1-introdução-a-banco-de-dados)
+2. [Modelagem Entidade-Relacionamento (MER)](#2-modelagem-entidade-relacionamento-mer)
+3. [Linguagem SQL (DDL e DML)](#3-linguagem-sql-ddl-e-dml)
+4. [Normalização de Tabelas](#4-normalização-de-tabelas)
+5. [Laboratório Prático](./sql/README.md) *(Link para a subpasta sql)*
 
 ---
 
-## 1. Introdução à Matéria
-*(Comece a escrever o conteúdo aqui...)*
+## 1. Introdução a Banco de Dados
+O que é um SGBD? Diferença entre arquivo de dados e banco de dados...
 
-## 2. Conceitos Fundamentais
-*(Continue o conteúdo...)*
+## 2. Modelagem Entidade-Relacionamento (MER)
+Entidades, Atributos e Relacionamentos...
 
-<!-- Adicione quantos capítulos precisar -->
+<!-- ... resto do conteúdo ... -->
 
 ---
 
