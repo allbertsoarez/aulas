@@ -2,7 +2,7 @@
 
 ## ENSINO TÉCNICO
 
-- Banco de Dados
+- [Banco de Dados](apostilas/banco-de-dados)
 - Empreendedorismo
 - Estatística Aplicada
 - Linguagem de Programação
