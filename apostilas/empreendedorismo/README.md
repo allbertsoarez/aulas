@@ -35,6 +35,6 @@
 
 <div align="center">
   <br>
-  <a href="../../APOSTILA_PRINCIPAL.md">🔙 Voltar para a Apostila Mestra</a>
+  <a href="../../README.md">🔙 Voltar para a Apostila Mestra</a>
   <br><br>
 </div>
