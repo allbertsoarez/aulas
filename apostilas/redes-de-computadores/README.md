@@ -2,7 +2,7 @@
   <br><br>
   <h1>📗 APOSTILA DE REDES DE COMPUTADORES</h1>
   <br>
-  <p><strong>Disciplina:</strong> Redes de COmputadores</p>
+  <p><strong>Disciplina:</strong> Redes de Computadores</p>
   <p><strong>Professor:</strong> Albert Soares</p>
   <br><br>
 </div>
