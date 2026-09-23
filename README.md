@@ -16,7 +16,7 @@
 Bem-vindo à sua jornada de aprendizado! Este documento consolida todo o material didático organizado neste repositório. Clique nos links abaixo para navegar diretamente para a apostila de cada matéria.
 
 ## 🧠 1. Fundamentos e Lógica
-1. [Lógica de Programação](./aulas/apostilas/logica-de-programacao/README.md)
+1. [Lógica de Programação](apostilas/logica-de-programacao/README.md)
 2. [Algoritmos e Pensamento Computacional](algoritmos/README.md)
    - 💻 [Prática: Arquivos em Portugol](./aulas/algoritmos/portugol/README.md)
 
