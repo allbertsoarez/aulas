@@ -14,8 +14,10 @@
 📦 REPOSITÓRIO "aulas" (Raiz)
 │
 ├── 📘 README.md                                  ← APOSTILA MESTRA (Capa e Sumário Geral)
-├── 🗺️ ESTRUTURA.md                               ← Este arquivo (Mapa Visual)
+├── 👋 GUIA_DO_ALUNO.md                           ← Boas-vindas e instruções de uso
+├── 🏆 PROJETO_INTEGRADOR.md                      ← Desafio final interdisciplinar
 ├── 🔗 RECURSOS.md                                ← HUB DE LINKS, FERRAMENTAS E REPOSITÓRIOS
+├── 🗺️ ESTRUTURA.md                               ← Este arquivo (Mapa Visual)
 │
 ├── 📁 algoritmos/
 │   ├── 📗 README.md                              ← Apostila de Algoritmos (Teoria)
