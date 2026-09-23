@@ -18,7 +18,7 @@ Bem-vindo à sua jornada de aprendizado! Este documento consolida todo o materia
 ## 🧠 1. Fundamentos e Lógica
 1. [Lógica de Programação](apostilas/logica-de-programacao/README.md)
 2. [Algoritmos e Pensamento Computacional](algoritmos/README.md)
-   - 💻 [Prática: Arquivos em Portugol](./aulas/algoritmos/portugol/README.md)
+   - 💻 [Prática: Arquivos em Portugol](algoritmos/portugol/README.md)
 
 ## 💻 2. Linguagens e Paradigmas de Programação
 3. [Linguagem de Programação (Assembly + C)](./aulas/apostilas/linguagem-de-programacao/README.md)
