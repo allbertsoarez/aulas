@@ -3,39 +3,46 @@
 -- Exemplos de JOINs, GROUP BY e HAVING
 -- ==========================================
 
--- 1. Listar todos os alunos e suas respectivas disciplinas matriculadas (INNER JOIN)
+-- 1. Listar todos os livros e suas respectivas categorias (INNER JOIN 1:N)
 SELECT 
-    a.nome AS Aluno, 
-    d.nome AS Disciplina, 
-    m.nota AS Nota
-FROM alunos a
-JOIN matriculas m ON a.id_aluno = m.id_aluno
-JOIN disciplinas d ON m.id_disciplina = d.id_disciplina
-ORDER BY a.nome, d.nome;
+    l.titulo AS Livro, 
+    c.nome AS Categoria, 
+    l.preco AS Preco
+FROM livros l
+JOIN categorias c ON l.id_categoria = c.id_categoria
+ORDER BY c.nome, l.titulo;
 
--- 2. Calcular a média de notas por disciplina (GROUP BY)
+-- 2. Listar livros e seus autores (INNER JOIN N:N usando tabela pivô)
 SELECT 
-    d.nome AS Disciplina, 
-    COUNT(m.id_aluno) AS Total_Alunos,
-    ROUND(AVG(m.nota), 2) AS Media_Turma
-FROM disciplinas d
-JOIN matriculas m ON d.id_disciplina = m.id_disciplina
-GROUP BY d.nome
-ORDER BY Media_Turma DESC;
+    l.titulo AS Livro, 
+    a.nome AS Autor
+FROM livros l
+JOIN livros_autores la ON l.id_livro = la.id_livro
+JOIN autores a ON la.id_autor = a.id_autor
+ORDER BY l.titulo;
 
--- 3. Encontrar alunos com média geral acima de 8.0 (HAVING)
+-- 3. Calcular a média de preço e a quantidade de livros por categoria (GROUP BY)
 SELECT 
-    a.nome AS Aluno, 
-    ROUND(AVG(m.nota), 2) AS Media_Geral
-FROM alunos a
-JOIN matriculas m ON a.id_aluno = m.id_aluno
-GROUP BY a.nome
-HAVING AVG(m.nota) > 8.0;
+    c.nome AS Categoria, 
+    COUNT(l.id_livro) AS Total_Livros,
+    CONCAT('R$ ', ROUND(AVG(l.preco), 2)) AS Preco_Medio
+FROM categorias c
+JOIN livros l ON c.id_categoria = l.id_categoria
+GROUP BY c.nome
+ORDER BY Preco_Medio DESC;
 
--- 4. Listar alunos que NÃO estão matriculados em 'Banco de Dados' (LEFT JOIN / IS NULL)
+-- 4. Encontrar categorias que possuem mais de 1 livro cadastrado (HAVING)
 SELECT 
-    a.nome AS Aluno
-FROM alunos a
-LEFT JOIN matriculas m ON a.id_aluno = m.id_aluno
-LEFT JOIN disciplinas d ON m.id_disciplina = d.id_disciplina AND d.nome = 'Banco de Dados'
-WHERE d.id_disciplina IS NULL;
+    c.nome AS Categoria, 
+    COUNT(l.id_livro) AS Total
+FROM categorias c
+JOIN livros l ON c.id_categoria = l.id_categoria
+GROUP BY c.nome
+HAVING COUNT(l.id_livro) > 1;
+
+-- 5. Listar autores que ainda NÃO têm livros cadastrados na editora (LEFT JOIN / IS NULL)
+SELECT 
+    a.nome AS Autor
+FROM autores a
+LEFT JOIN livros_autores la ON a.id_autor = la.id_autor
+WHERE la.id_livro IS NULL;
