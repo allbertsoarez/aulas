@@ -273,6 +273,6 @@ FIMFUNCAO
 
 <div align="center">
   <br>
-  <a href="./README.md">🔙 Voltar para a Apostila Principal</a>
+  <a href="README.md">🔙 Voltar para a Apostila Principal</a>
   <br><br>
 </div>
