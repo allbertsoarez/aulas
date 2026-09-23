@@ -268,6 +268,15 @@ for forma in formas:
 
 ---
 
+## 🟡 Apêndice: Material Complementar (Java)
+
+> *Caso haja atualização da ementa do curso, o material de Java está disponível como um apêndice interno.*
+
+- ☕ [Apostila de Java (Plano B)](./java.md)
+- 💻 [Códigos Fonte em Java](../../codigo-fonte/java/README.md)
+
+---
+
 <div align="center">
   <br>
   <a href="../../README.md">🔙 Voltar para a Apostila Principal</a>
