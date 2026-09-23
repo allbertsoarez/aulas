@@ -4,8 +4,8 @@
   <h2>Fundamentos da Computação, Matemática e Gestão</h2>
   <br>
   <p><strong>Compilação Geral de Estudos e Materiais</strong></p>
-  <p><strong>Autor:</strong> [Seu Nome]</p>
-  <p><strong>Versão:</strong> 1.0 | <strong>Ano:</strong> 2024</p>
+  <p><strong>Autor:</strong> Albert Soares</p>
+  <p><strong>Versão:</strong> 1.0 | <strong>Ano:</strong> 2026</p>
   <br><br>
 </div>
 
@@ -29,7 +29,7 @@ Bem-vindo à sua jornada de aprendizado! Este documento consolida todo o materia
    - 💻 [Prática: Códigos Python](./codigo-fonte/python/README.md)
    - 📓 [Notebooks Jupyter](./codigo-fonte/notebooks/README.md)
 
-## 🗄️ 3. Dados, Redes e Sistemas
+## 🗄️ 3. Banco de Dados e Redes de Computadores
 5. [Banco de Dados e SQL](./apostilas/banco-de-dados/README.md)
    - 💻 [Prática: Scripts SQL](./apostilas/banco-de-dados/sql/README.md)
 6. [Redes de Computadores e Linux](./apostilas/redes-de-computadores/README.md)
@@ -60,6 +60,14 @@ Bem-vindo à sua jornada de aprendizado! Este documento consolida todo o materia
 - **🟡 Apêndices Internos:** Algumas apostilas possuem apêndices internos (como o Java na apostila de POO) que servem como "Plano B" caso haja mudança na ementa do curso.
 - **💻 Pastas de Prática:** Todo material teórico está conectado a pastas de códigos/scripts prontos para execução.
 - **📓 Notebooks Jupyter:** Os notebooks podem ser executados diretamente no Google Colab, ideal para laboratórios de informática.
+
+---
+
+## 🔗 Hub de Recursos Externos
+
+Além do material deste repositório, preparamos uma lista curada das melhores ferramentas, cursos gratuitos, documentações e repositórios da comunidade para acelerar seus estudos:
+
+- 🌐 **[Hub de Recursos e Links Úteis](./RECURSOS.md)**: Ferramentas, cursos, "Awesome Lists" do GitHub e documentações oficiais.
 
 ---
 
