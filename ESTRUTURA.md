@@ -15,6 +15,7 @@
 │
 ├── 📘 README.md                                  ← APOSTILA MESTRA (Capa e Sumário Geral)
 ├── 🗺️ ESTRUTURA.md                               ← Este arquivo (Mapa Visual)
+├── 🔗 RECURSOS.md                                ← HUB DE LINKS, FERRAMENTAS E REPOSITÓRIOS
 │
 ├── 📁 algoritmos/
 │   ├── 📗 README.md                              ← Apostila de Algoritmos (Teoria)
