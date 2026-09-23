@@ -23,6 +23,7 @@ Os notebooks podem ser executados localmente ou diretamente no navegador via **G
 | 10 | [`10_modulos_bibliotecas.ipynb`](./python-basico/10_modulos_bibliotecas.ipynb) | **🔴 Essencial:** Importação de módulos e uso do `pip`. |
 | 11 | [`11_strings_metodos.ipynb`](./python-basico/11_strings_metodos.ipynb) | 🟡 Opcional: Métodos de manipulação de strings. |
 | 12 | [`12_list_comprehensions.ipynb`](./python-basico/12_list_comprehensions.ipynb) | 🟡 Opcional: Sintaxe idiomática para criar listas. |
+| 13 | [`13_fstrings_avancadas.ipynb`](./python-basico/13_fstrings_avancadas.ipynb) | 🟡 Opcional: Formatação profissional de números, datas e tabelas. |
 
 ### 📊 Módulo 2: Estatística Aplicada e Ciência de Dados
 *Integração de Python com Estatística e Banco de Dados (Cenário da Editora).*
@@ -43,7 +44,7 @@ Os notebooks podem ser executados localmente ou diretamente no navegador via **G
 ```
 Semana 1-2: Notebooks 01 a 07 (Fundamentos)
 Semana 3:   Notebooks 08 a 10 (Essenciais - não pule!)
-Semana 4:   Notebooks 11 a 12 (Opcionais - para aprofundar)
+Semana 4:   Notebooks 11 a 13 (Opcionais - para aprofundar)
 Semana 5+:  Módulo 2 (Estatística + Ciência de Dados)
 ```
 
