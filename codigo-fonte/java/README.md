@@ -21,6 +21,7 @@ Os arquivos podem ser compilados em qualquer terminal com o JDK instalado (`java
 > 2. Executar: `java NomeDaClasse` (sem o `.class` no final!)
 
 ---
+
 <div align="center">
-  <a href="../../apostilas/linguagem-java/README.md">🔙 Voltar para a Apostila de Java</a>
+  <a href="../../apostilas/linguagem-orientada-a-objetos/java.md">🔙 Voltar para o Apêndice de Java</a>
 </div>
