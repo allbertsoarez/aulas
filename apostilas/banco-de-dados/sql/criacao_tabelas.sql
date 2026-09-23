@@ -1,32 +1,39 @@
 -- ==========================================
 -- SCRIPT DE CRIAÇÃO DE TABELAS (DDL)
--- Cenário: Sistema Escolar
+-- Cenário: Sistema de uma Editora
 -- ==========================================
 
--- Tabela de Alunos
-CREATE TABLE alunos (
-    id_aluno INT PRIMARY KEY AUTO_INCREMENT,
+-- Tabela de Autores
+CREATE TABLE autores (
+    id_autor INT PRIMARY KEY AUTO_INCREMENT,
     nome VARCHAR(100) NOT NULL,
-    email VARCHAR(100) UNIQUE NOT NULL,
-    data_nascimento DATE
+    nacionalidade VARCHAR(50)
 );
 
--- Tabela de Disciplinas
-CREATE TABLE disciplinas (
-    id_disciplina INT PRIMARY KEY AUTO_INCREMENT,
-    nome VARCHAR(100) NOT NULL,
-    carga_horaria INT NOT NULL
+-- Tabela de Categorias (1:N com Livros)
+CREATE TABLE categorias (
+    id_categoria INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(50) NOT NULL UNIQUE
 );
 
--- Tabela de Matrículas (Tabela associativa / Relacionamento N:N)
-CREATE TABLE matriculas (
-    id_matricula INT PRIMARY KEY AUTO_INCREMENT,
-    id_aluno INT NOT NULL,
-    id_disciplina INT NOT NULL,
-    nota DECIMAL(4,2),
-    data_matricula DATE DEFAULT (CURRENT_DATE),
+-- Tabela de Livros
+CREATE TABLE livros (
+    id_livro INT PRIMARY KEY AUTO_INCREMENT,
+    titulo VARCHAR(150) NOT NULL,
+    isbn VARCHAR(20) UNIQUE,
+    ano_publicacao INT,
+    preco DECIMAL(6,2),
+    id_categoria INT,
     
-    -- Chaves Estrangeiras (Foreign Keys)
-    FOREIGN KEY (id_aluno) REFERENCES alunos(id_aluno) ON DELETE CASCADE,
-    FOREIGN KEY (id_disciplina) REFERENCES disciplinas(id_disciplina) ON DELETE CASCADE
+    -- Chave Estrangeira (Relacionamento 1:N)
+    FOREIGN KEY (id_categoria) REFERENCES categorias(id_categoria) ON DELETE SET NULL
+);
+
+-- Tabela Pivô para Relacionamento N:N (Livros <-> Autores)
+CREATE TABLE livros_autores (
+    id_livro INT,
+    id_autor INT,
+    PRIMARY KEY (id_livro, id_autor),
+    FOREIGN KEY (id_livro) REFERENCES livros(id_livro) ON DELETE CASCADE,
+    FOREIGN KEY (id_autor) REFERENCES autores(id_autor) ON DELETE CASCADE
 );
