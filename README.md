@@ -28,7 +28,7 @@ Bem-vindo à sua jornada de aprendizado! Este documento consolida todo o materia
    - 💻 [Prática: Códigos C++](codigo-fonte/c++/README.md)
    - 💻 [Prática: Códigos Python](codigo-fonte/python/README.md)
 
-## 🗄️ 3. Dados, Redes e Sistemas
+## 🗄️ 3. Banco de Dados e Redes de Computadores
 5. [Banco de Dados e SQL](apostilas/banco-de-dados/README.md)
    - 💻 [Prática: Scripts SQL](apostilas/banco-de-dados/sql/README.md)
 6. [Redes de Computadores](apostilas/redes-de-computadores/README.md)
