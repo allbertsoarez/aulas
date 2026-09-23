@@ -1,29 +1,43 @@
 -- ==========================================
 -- SCRIPT DE INSERÇÃO DE DADOS (DML)
--- Populando as tabelas com dados fictícios
+-- Populando o banco da Editora
 -- ==========================================
 
--- Inserindo Alunos
-INSERT INTO alunos (nome, email, data_nascimento) VALUES
-('Ana Silva', 'ana.silva@email.com', '2005-03-15'),
-('Bruno Souza', 'bruno.souza@email.com', '2004-07-22'),
-('Carla Oliveira', 'carla.oliveira@email.com', '2005-11-10'),
-('Diego Santos', 'diego.santos@email.com', '2004-01-30');
+-- Inserindo Autores
+INSERT INTO autores (nome, nacionalidade) VALUES
+('Machado de Assis', 'Brasil'),
+('J.K. Rowling', 'Reino Unido'),
+('George Orwell', 'Reino Unido'),
+('Clarice Lispector', 'Brasil'),
+('Stephen King', 'EUA'),
+('Mario Triola', 'EUA'),
+('Wes McKinney', 'EUA');
 
--- Inserindo Disciplinas
-INSERT INTO disciplinas (nome, carga_horaria) VALUES
-('Algoritmos', 80),
-('Banco de Dados', 100),
-('Matemática', 60),
-('Redes de Computadores', 80);
+-- Inserindo Categorias
+INSERT INTO categorias (nome) VALUES
+('Clássico Nacional'),
+('Fantasia'),
+('Distopia'),
+('Terror'),
+('Romance Moderno'),
+('Tecnologia');
 
--- Inserindo Matrículas e Notas
-INSERT INTO matriculas (id_aluno, id_disciplina, nota) VALUES
--- Ana (id 1)
-(1, 1, 8.5), (1, 2, 9.0), (1, 3, 7.5),
--- Bruno (id 2)
-(2, 1, 6.0), (2, 2, 7.0), (2, 4, 8.0),
--- Carla (id 3)
-(3, 2, 8.0), (3, 3, 9.5),
--- Diego (id 4)
-(4, 1, 5.5), (4, 4, 7.5);
+-- Inserindo Livros
+INSERT INTO livros (titulo, isbn, ano_publicacao, preco, id_categoria) VALUES
+('Dom Casmurro', '978-85-359-0277-7', 1899, 29.90, 1),
+('Harry Potter e a Pedra Filosofal', '978-85-325-1101-6', 1997, 49.90, 2),
+('1984', '978-85-359-0277-8', 1949, 39.90, 3),
+('It - A Coisa', '978-85-325-1102-3', 1986, 69.90, 4),
+('A Hora da Estrela', '978-85-325-1103-0', 1977, 24.90, 5),
+('Introdução à Estatística com Python', '978-85-00-00000-0', 2020, 89.90, 6);
+
+-- Relacionando Livros e Autores (N:N)
+-- Note que o livro 6 tem DOIS autores (Triola e McKinney)
+INSERT INTO livros_autores (id_livro, id_autor) VALUES
+(1, 1), -- Dom Casmurro -> Machado
+(2, 2), -- Harry Potter -> Rowling
+(3, 3), -- 1984 -> Orwell
+(4, 5), -- It -> King
+(5, 4), -- Hora da Estrela -> Clarice
+(6, 6), -- Estatística -> Triola
+(6, 7); -- Estatística -> McKinney
