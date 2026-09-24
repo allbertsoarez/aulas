@@ -1,4 +1,4 @@
-# 1.1 Boas-vindas e Objetivos
+# 1. Boas-vindas e Objetivos
 
 Seja muito bem-vindo(a) ao primeiro módulo do nosso treinamento! Este é o ponto de partida para transformar a maneira como você organiza suas tarefas, gerencia seu tempo e entrega resultados de valor.
 
