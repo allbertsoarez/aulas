@@ -1,3 +1,5 @@
+Organizar arquivos no disco seguindo o formato de uma apostila
+
 1-TÓPICO 
 1.1-TÓPICO
 1.2-TÓPICO
@@ -16,3 +18,7 @@
 
 3 - CONSIDERACOES
 3.1 - REFERENCIAS
+
+--------------------------------------------------------------------------------------------------------------------
+
+Estudar formatação do SUMÁRIO das apostilas e pedir IA para organizar.

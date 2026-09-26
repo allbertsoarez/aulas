@@ -11,6 +11,8 @@ https://github.com/mschwartz/assembly-tutorial
 
 Introdução a Linguagem C
 https://www.inf.ufpr.br/hexsel/ci067/01_intro.html
+https://embarcados.com.br/linguagem-c-guia-completo/
+
 
 Quem inventou, onde e quando
 O que é um compilador, linkador e linguagem objeto
