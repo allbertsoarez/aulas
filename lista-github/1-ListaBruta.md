@@ -22,7 +22,6 @@ https://github.com/apache/netbeans
 https://github.com/cursoemvideo
 https://github.com/Embarcadero/Dev-Cpp
 https://github.com/folke/lazy.nvim
-https://github.com/geany
 https://github.com/glacambre/firenvim
 https://github.com/gralco/mojo-ide
 https://github.com/jesseduffield/lazygit
