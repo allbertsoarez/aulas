@@ -9,6 +9,13 @@ date: 2026-09-27
 
 # 📚 Classificação e Organização de Repositórios (Roteiro de Estudos)
 
+![Markdown](https://img.shields.io/badge/Formato-Markdown-blue)
+![Status](https://img.shields.io/badge/Status-Ativo-green)
+![Curadoria](https://img.shields.io/badge/Curadoria-IA-orange)
+
+> 🎯 **Sobre este repositório:**
+> Este é um roteiro de estudos dinâmico e curado, contendo os melhores repositórios do GitHub focados em Programação, IA, Ciência de Dados e Ferramentas de Produtividade. O objetivo é centralizar referências de alta qualidade, eliminando ruído e organizando o aprendizado por ordem de prioridade.
+
 > 🔄 **GUIA RÁPIDO DE ATUALIZAÇÃO (Fluxo de Trabalho)**
 > Para manter este roteiro sempre atualizado, siga estes 3 passos simples:
 > 1. 📥 **Adicionar:** Achou um link novo? Cole-o no final do arquivo `📥 ListaURLs.md` (no seu cofre do Obsidian ou localmente).
