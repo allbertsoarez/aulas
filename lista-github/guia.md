@@ -3,17 +3,17 @@
 Crie estas 3 notas no seu Obsidian (ou bloco de notas) nesta ordem exata:
 
 #### **Passo 1: Crie o arquivo de "Entrada"**
-- **Nome do arquivo:** `📥 Lista Bruta de URLs.md`
+- **Nome do arquivo:** `📥 1-ListaBruta.md`
 - **O que fazer:** Crie o arquivo e cole dentro dele a lista de URLs que já temos (a versão limpa e deduplicada). 
 - **Para que serve:** Este será seu "depósito". Sempre que achar um link novo na internet, você cola aqui embaixo dos outros, sem se preocupar com formatação.
 
 #### **Passo 2: Crie o arquivo "Final" (Seu Roteiro)**
-- **Nome do arquivo:** `📚 Roteiro de Estudos - Repositórios.md`
+- **Nome do arquivo:** `📚 Roteiro de Estudos - 2-Repositórios.md`
 - **O que fazer:** Crie o arquivo e cole dentro dele o **último bloco de código Markdown** que eu gerei para você (aquele com as categorias em caixa alta, prioridades e espaçamento).
 - **Para que serve:** Este é o seu documento de consulta diária. É ele que você vai ler e estudar.
 
 #### **Passo 3: Crie o arquivo "Ferramenta" (O Motor)**
-- **Nome do arquivo:** `🛠️ Prompt Mestre - Organização.md`
+- **Nome do arquivo:** `🛠️ 3-Prompt Mestre.md`
 - **O que fazer:** Crie o arquivo e cole dentro dele exatamente o texto do "Prompt Mestre" que eu te passei na mensagem anterior.
 - **Para que serve:** Esta é a "receita do bolo". Você vai copiar o texto deste arquivo sempre que precisar pedir para a IA reorganizar sua lista.
 
