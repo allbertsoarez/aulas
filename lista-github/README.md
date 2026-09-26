@@ -44,10 +44,7 @@ date: 2026-09-27
 - **Ghostfolio**
   - [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 
-- **Jasp Stats**
-  - [Jasp Desktop](https://github.com/jasp-stats/jasp-desktop)
-
-- **Manimcommunity**
+  - **Manimcommunity**
   - 🥉 **[PRIORIDADE MÉDIA]** [Manim](https://github.com/ManimCommunity/manim) *(Excelente para visualização matemática)*
 
 - **Marcusesa**
