@@ -7,9 +7,15 @@ tags:
 date: 2026-09-27
 ---
 
-# 📚 CLASSIFICAÇÃO E ORGANIZAÇÃO DE REPOSITÓRIOS
+# 📚 CLASSIFICAÇÃO E ORGANIZAÇÃO DE REPOSITÓRIOS (Roteiro de Estudos)
 
-Este documento foi formatado para ser 100% compatível com **GitHub** e **Obsidian**. Os links foram agrupados por **Categoria** e **Autor/Organização**. 
+> 🔄 **GUIA RÁPIDO DE ATUALIZAÇÃO (Fluxo de Trabalho)**
+> Para manter este roteiro sempre atualizado, siga estes 3 passos simples:
+> 1. 📥 **Adicionar:** Achou um link novo? Cole-o no final do arquivo `📥 ListaURLs.md`.
+> 2. 🛠️ **Processar:** Copie o texto do `🛠️ PromptMestre.md` e, logo abaixo dele, cole **toda** a lista atualizada do `📥 ListaURLs.md`. Envie para a IA.
+> 3. 📚 **Atualizar:** Copie o novo código Markdown gerado pela IA e substitua todo o conteúdo deste arquivo (`📚 Repositorios - Roteiro de Estudos.md`).
+
+---
 
 > 💡 **Legenda de Prioridade:**
 > - 🏆 **[PRIORIDADE MÁXIMA]**: O ponto de partida essencial. Estude este primeiro.
