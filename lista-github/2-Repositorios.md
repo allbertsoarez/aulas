@@ -99,9 +99,6 @@ date: 2026-09-27
 - **Folke**
   - 🥈 **[PRIORIDADE ALTA]** [Lazy.Nvim](https://github.com/folke/lazy.nvim) *(Distribuição moderna e altamente recomendada para quem quer dominar o Neovim)*
 
-- **Geany**
-  - [Geany](https://github.com/geany)
-
 - **Glacambre**
   - [Firenvim](https://github.com/glacambre/firenvim)
 
