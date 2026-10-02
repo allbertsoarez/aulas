@@ -389,3 +389,5 @@ https://github.com/ImKennyYip/python-oop
 https://www.kennyyipcoding.com/
 https://github.com/ImKennyYip/python-oop/tree/master
 https://github.com/deepbeepmeep/Wan2GP
+https://github.com/crosstalk-solutions/project-nomad
+https://www.projectnomad.us/
