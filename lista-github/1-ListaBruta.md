@@ -165,7 +165,7 @@ https://github.com/vinta/awesome-python
 https://github.com/marketplace/actions/badges-readme
 https://github.com/topics/pdf-to-markdown?o=asc&s=forks
 https://skillicons.dev
-ADIÇÕES RECENTES
+
 https://github.com/techwithtim/3-Mini-Python-Projects-For-Intermediates/blob/main/currency-converter.py
 https://github.com/techwithtim/3-Mini-Python-Projects-For-Intermediates/blob/main/nba-scores.py
 https://github.com/techwithtim/3-Mini-Python-Projects-For-Intermediates/blob/main/path-finder.py
