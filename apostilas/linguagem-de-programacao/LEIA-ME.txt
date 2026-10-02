@@ -3,16 +3,15 @@ Ideias para criar curso de programação
 MÓDULO 1
 O que é programação?
 Introdução básica à linguagem Assembler
-https://github.com/VILHALVA/CURSO-DE-ASSEMBLY/blob/main/CURSO%20COMPLETO/04)%20PRIMEIRO%20PROGRAMA/hello.asm
-https://mentebinaria.gitbook.io/assembly
-https://github.com/andreluispy/assembly4noobs
-https://cs.lmu.edu/~ray/notes/nasmtutorial/
-https://github.com/mschwartz/assembly-tutorial
+
+Quem foi ADA?
+Máquina analítica de Pascal
+Como era a programação antes das linguagens de programação
+Cronograma das linguagens de programação
 
 Introdução a Linguagem C
 https://www.inf.ufpr.br/hexsel/ci067/01_intro.html
 https://embarcados.com.br/linguagem-c-guia-completo/
-
 
 Quem inventou, onde e quando
 O que é um compilador, linkador e linguagem objeto
@@ -23,6 +22,16 @@ Instalando o compilador
 IDE (Geany, Dev-C++ e VS CODE)
 IDE Online
 Conhecendo a documentação da linguagem
+
+https://github.com/VILHALVA/CURSO-DE-ASSEMBLY/blob/main/CURSO%20COMPLETO/04)%20PRIMEIRO%20PROGRAMA/hello.asm
+https://mentebinaria.gitbook.io/assembly
+https://github.com/andreluispy/assembly4noobs
+https://cs.lmu.edu/~ray/notes/nasmtutorial/
+https://github.com/mschwartz/assembly-tutorial
+
+
+
+
 
 MÓDULO 2
 Primeiro programa - Olá Mundo
