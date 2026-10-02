@@ -145,7 +145,6 @@ https://github.com/techwithtim/Turtle-Racing-V2
 https://github.com/techwithtim/WPM_Typing_Test
 https://github.com/ahmadjoya/github-readme-stats
 https://github.com/alexandresanlim/Badges4-README.md-Profile
-https://github.com/allbertsoarez/template_portfolio
 https://github.com/alvarofpp/validate-docbr
 https://alvarofpp.github.io/validate-docbr
 https://github.com/anuraghazra/github-readme-stats
