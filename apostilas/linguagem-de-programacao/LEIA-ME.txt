@@ -3,6 +3,10 @@ Ideias para criar curso de programação
 MÓDULO 1
 O que é programação?
 Introdução básica à linguagem Assembler
+https://onecompiler.com/assembly/3z9qxqj69
+https://www.mycompiler.io/pt/online-assembly-asm-compiler
+https://www.jdoodle.com/compile-assembler-nasm-online
+
 
 Quem foi ADA?
 Máquina analítica de Pascal
