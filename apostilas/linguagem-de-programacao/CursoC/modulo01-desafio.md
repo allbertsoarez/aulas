@@ -17,3 +17,11 @@ Criar um programa que imprima um "crachá" ou "selo" em formato ASCII no termina
 |   Dev C - 2026         |
 |                        |
 +------------------------+
+```
+
+## 💡 Dicas
+- Lembre-se de que cada `printf` imprime na mesma linha, a menos que você use `\n`.
+- Você pode usar um único `printf` com múltiplos `\n` ou vários `printf`s menores. Escolha a abordagem que achar mais organizada.
+
+---
+🔗 [Retornar ao Sumário](SUMARIO.md)
