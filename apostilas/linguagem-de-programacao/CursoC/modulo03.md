@@ -194,3 +194,5 @@ Digite um numero inteiro maior que 1: 29
 O numero 29 eh PRIMO.
 ```
 *Dica: Lembre-se que para verificar se um número `n` é divisível por `i`, usamos o operador de módulo: `if (n % i == 0)`.*
+
+### 🔗 [Retornar ao Sumário](SUMARIO.md)
