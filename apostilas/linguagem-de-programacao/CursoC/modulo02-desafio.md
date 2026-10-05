@@ -14,3 +14,12 @@ Criar uma "Calculadora de Área de Círculo" interativa, praticando variáveis, 
 Digite o valor do raio: 5.5
 Calculando...
 A area do circulo com raio 5.5000 eh: 95.0332
+```
+
+## 💡 Dicas
+- Lembre-se de usar o operador `&` no `scanf` para variáveis numéricas.
+- Para formatar com 4 casas decimais no `printf`, use `%.4f`.
+- Para elevar ao quadrado, basta multiplicar a variável por ela mesma (`raio * raio`).
+
+---
+🔗 [Retornar ao Sumário](SUMARIO.md)
