@@ -145,3 +145,5 @@ Agora é a sua vez de testar o que aprendeu.
 ```
 
 *Tente fazer isso sem olhar a resposta. Se travar, releia o item 3.4 sobre o `\n`.*
+
+### 🔗 [Retornar ao Sumário](SUMARIO.md)
