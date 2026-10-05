@@ -59,8 +59,68 @@ int main() {
     printf("Olá, Mundo!\n");
     return 0;
 }
+```
 
+Não se assuste. Vamos dissecar cada linha nas próximas seções.
 
+### 3.2 - A diretiva de pré-processamento [`#include`](https://en.cppreference.com/w/c/preprocessor/include)
+```c
+#include <stdio.h>
+```
+Isso **não é uma função** e não termina com ponto e vírgula. É uma **diretiva de pré-processamento**. 
+
+Quando o compilador lê essa linha na Fase 1 (Pré-processamento), ele literalmente procura o arquivo `stdio.h` (Standard Input Output Header) no seu sistema e **copia e cola** o conteúdo dele para dentro do seu `main.c`. 
+
+O `stdio.h` contém as "plantas" (declarações) de como usar funções de entrada e saída, como o `printf`. Sem essa linha, o compilador não saberia o que é o `printf`.
+
+### 3.3 - A função principal [`main`](https://en.cppreference.com/w/c/language/main_function)
+```c
+int main() {
+    // ...
+}
+```
+Em C, tudo o que executa deve estar dentro de uma **função**. E todo programa em C, sem exceção, **precisa** ter uma função chamada exatamente `main`. 
+
+É o ponto de partida. Quando você clica duas vezes no executável, o Sistema Operacional carrega o programa na memória e diz: "Comece a executar a partir da linha onde está o `main`".
+
+O `int` antes do `main` indica que essa função retorna um número inteiro para o Sistema Operacional quando termina.
+
+### 3.4 - A função de saída formatada [`printf`](https://en.cppreference.com/w/c/io/printf) e o `\n`
+```c
+printf("Olá, Mundo!\n");
+```
+Aqui chamamos a função `printf` (print formatted) para imprimir texto na tela (no terminal).
+
+- O texto deve estar entre aspas duplas `" "`.
+- O `\n` é uma **sequência de escape**. Ele não imprime as letras "barras e n". Ele é um comando invisível que diz ao terminal: "Pule para a próxima linha" (New Line).
+- O `;` (ponto e vírgula) no final é obrigatório. Em C, ele funciona como o ponto final em uma frase. Ele diz ao compilador: "Este comando (statement) acabou".
+
+### 3.5 - Compilando manualmente via terminal
+Vamos executar as fases de compilação e linkagem manualmente para perder o medo do terminal.
+
+Abra o terminal integrado do VS Code (`Terminal > New Terminal`) e, na pasta onde o `main.c` está salvo, digite:
+
+```bash
+gcc main.c -o programa
+```
+
+- `gcc`: Chama o compilador.
+- `main.c`: O arquivo de entrada (código fonte).
+- `-o programa`: A flag `-o` (output) diz ao compilador para nomear o arquivo final de saída como `programa` (ou `programa.exe` no Windows).
+
+Para executar o seu programa recém-criado:
+- **No Windows:** Digite `.\programa.exe`
+- **No Linux/Mac:** Digite `./programa`
+
+Se tudo deu certo, você verá `Olá, Mundo!` brilhando no seu terminal. Parabéns, você acabou de compilar seu primeiro programa em C!
+
+---
+
+## 4. RECURSOS E PRÓXIMOS PASSOS
+
+### Leitura Complementar
+- 📖 [Documentação Oficial de Referência (C) - cppreference](https://en.cppreference.com/w/c) *(Mantenha esta aba sempre aberta. É a bíblia do C).*
+- 📖 [Guia de Instalação Microsoft (PT-BR)](https://learn.microsoft.com/pt-br/cpp/build/vscpp-step-0-installation)
 
 ### 🚀 DESAFIO PRÁTICO DO MÓDULO 1
 Agora é a sua vez de testar o que aprendeu. 
@@ -74,3 +134,14 @@ Agora é a sua vez de testar o que aprendeu.
 4. O código deve compilar sem erros e sem "warnings" (avisos).
 
 **Exemplo de Saída Esperada:**
+
+```text
++-------------------+
+|                   |
+|   SEU NOME AQUI   |
+|   Dev C - 2026    |
+|                   |
++-------------------+
+```
+
+*Tente fazer isso sem olhar a resposta. Se travar, releia o item 3.4 sobre o `\n`.*
