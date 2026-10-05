@@ -1,4 +1,4 @@
-# MÓDULO 0: INTRODUÇÃO E PREPARAÇÃO DO AMBIENTE
+# INTRODUÇÃO E PREPARAÇÃO DO AMBIENTE
 
 ## 1. CONTEXTO E MOTIVAÇÃO
 - 1.1 - Por que aprender C? (A base de linguagens como C++, Java, Python e Rust)
@@ -20,4 +20,4 @@
 ## 4. RECURSOS E PRÓXIMOS PASSOS
 - 📖 [Documentação Oficial de Referência (C)](https://en.cppreference.com/w/c)
 - 📖 [Guia de Instalação Microsoft (PT-BR)](https://learn.microsoft.com/pt-br/cpp/build/vscpp-step-0-installation)
-- 🚀 **DESAFIO PRÁTICO:** Criar um programa que imprima um diagrama ASCII (ex: um quadrado ou um rosto) no terminal, utilizando múltiplas chamadas de `printf`.
+- 🚀 **DESAFIO PRÁTICO:** Criar um programa que imprima um diagrama ASCII (ex: um quadrado ou um rosto) no terminal, utilizando múltiplas chamadas de `printf` e quebras de linha `\n`.
