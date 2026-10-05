@@ -1,8 +1,3 @@
-
----
-
-### 📄 Arquivo: `modulo02-desafio.md`
-```markdown
 # 🚀 DESAFIO PRÁTICO DO MÓDULO 2
 
 ## 🎯 Objetivo
