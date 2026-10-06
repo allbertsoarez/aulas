@@ -1,8 +1,14 @@
+Excelente ideia! Como Instrutor, posso garantir que **diagramas visuais** são ferramentas poderosíssimas para fixar conceitos de fluxo de dados. A tabela é ótima para leitura, mas o diagrama de sequência (usando Mermaid) vai te ajudar a visualizar a *dimensão do tempo* — que é exatamente o que diferencia o Half-Duplex do Full-Duplex.
+
+Abaixo está o **Módulo 1 completo e atualizado**, com o diagrama Mermaid perfeitamente integrado no item 1.3, mantendo rigorosamente todas as suas regras de formatação (apenas `#` e `##` em caixa alta, sem `###` e sem numeração nos subtópicos menores).
+
+---
+
 # 1. FUNDAMENTOS E HISTÓRIA DAS REDES DE COMPUTADORES
 
 ## 1.1 INTRODUÇÃO A REDES DE COMPUTADORES E EVOLUÇÃO HISTÓRICA
 
-**O QUE É UMA REDE DE COMPUTADORES?**<br>
+**O QUE É UMA REDE DE COMPUTADORES?**
 De forma técnica, uma rede de computadores é um conjunto de dispositivos autônomos (chamados de **nós** ou *hosts*) interconectados por meios de transmissão (cabos de cobre, fibra óptica ou ondas de rádio) para compartilhar recursos e informações. Essa comunicação é regida por um conjunto de regras padronizadas chamado **protocolo**.
 
 > 💡 **ANALOGIA DO MUNDO REAL:** Imagine uma cidade moderna. 
@@ -15,11 +21,8 @@ De forma técnica, uma rede de computadores é um conjunto de dispositivos autô
 As redes não nasceram prontas; elas evoluíram para resolver problemas específicos de cada época:
 
 1. **Década de 1960 (A Semente - ARPANET):** Criada pelo Departamento de Defesa dos EUA. O objetivo era ter uma comunicação descentralizada que sobrevivesse a falhas parciais. *Conceito chave:* **Comutação de pacotes** (quebrar a mensagem em pedaços menores para enviar por rotas diferentes, remontando-as no destino).
-
 2. **Década de 1980 (A Padronização - TCP/IP):** A ARPANET adota oficialmente a suíte de protocolos TCP/IP. É como se todos os países do mundo concordassem em usar o mesmo formato de tomada elétrica e voltagem. Isso permitiu que redes diferentes se "conversassem", dando origem à Internet global.
-
 3. **Década de 1990 (A Popularização - World Wide Web):** Tim Berners-Lee cria a Web (baseada em HTTP e HTML). A internet deixa de ser uma ferramenta de texto apenas para acadêmicos e militares, ganhando interfaces gráficas e tornando-se acessível ao público geral.
-
 4. **Anos 2000 em diante (Era da Mobilidade e Nuvem):** Chegada do Wi-Fi, smartphones, banda larga e, mais recentemente, a **Computação em Nuvem** (*Cloud Computing*) e a **Internet das Coisas** (*IoT*), onde dispositivos do cotidiano também se conectam à rede.
 
 ---
@@ -36,7 +39,7 @@ Por que nos importamos com redes? Porque elas são a espinha dorsal da vida mode
 | **VIDEOCONFERÊNCIA** | Transmissão simultânea de fluxos de áudio e vídeo (*streaming*), exigindo **largura de banda** (volume de dados) e baixo *jitter* (variação no atraso). | Um **trem-bala**: precisa de trilhos largos o suficiente (banda) e deve manter um ritmo constante (baixo *jitter*), senão a viagem (a chamada) fica "travando". |
 | **ACESSO REMOTO** | Protocolos (como RDP, SSH, VPN) que permitem controlar ou acessar um sistema à distância como se estivesse fisicamente presente. | Um **controle universal de TV**: você está no sofá (sua casa), mas comanda perfeitamente a TV que está em outro cômodo (o servidor remoto). |
 
-> 📝 **NOTA:** 
+> 📝 **NOTA DO INSTRUTOR:** 
 > - **Latência:** É o tempo que um pacote leva para ir da origem ao destino (medido em milissegundos, ms). Pense como o "tempo de reação".
 > - **Largura de Banda (*Bandwidth*):** É a capacidade máxima de dados que um enlace suporta por segundo (ex: 100 Mbps). Pense como a "quantidade de faixas" de uma rodovia.
 
@@ -47,7 +50,24 @@ Por que nos importamos com redes? Porque elas são a espinha dorsal da vida mode
 Agora vamos aprofundar na mecânica de como os dados fluem e como o trabalho é dividido entre os dispositivos.
 
 **TIPOS DE COMUNICAÇÃO (FLUXO DE DADOS)**
-Refere-se à direção em que os dados trafegam entre dois dispositivos conectados.
+Refere-se à direção em que os dados trafegam entre dois dispositivos conectados. Para visualizar a diferença crucial entre eles (especialmente a questão do *tempo* de envio), observe o diagrama de sequência abaixo:
+```mermaid
+sequenceDiagram
+    participant A as Dispositivo A
+    participant B as Dispositivo B
+
+    Note over A,B: MODO SIMPLES
+    A->>B: Envio de dados unidirecional
+
+    Note over A,B: MODO HALF-DUPLEX
+    A->>B: A envia dados
+    B->>A: B envia dados (alternado)
+
+    Note over A,B: MODO FULL-DUPLEX
+    A->>B: A envia dados
+    B->>A: B envia dados (simultaneo)
+   ``` 
+Abaixo, detalhamos cada modo com suas respectivas analogias e exemplos práticos:
 
 | TIPO | DEFINIÇÃO TÉCNICA | ANALOGIA DO MUNDO REAL | EXEMPLO PRÁTICO |
 | :--- | :--- | :--- | :--- |
@@ -79,5 +99,11 @@ Refere-se a *onde* a capacidade de processamento (CPU, memória) está localizad
 
 - **REDE** = Dispositivos + Meio de Transmissão + Protocolos (Regras).
 - **EVOLUÇÃO** = ARPANET (sobrevivência) → TCP/IP (padronização) → Web (acesso fácil) → Nuvem/IoT (ubiquidade).
-- **COMUNICAÇÃO** = Simplex (1 via), Half-Duplex (2 vias, 1 por vez), Full-Duplex (2 vias simultâneas).
+- **COMUNICAÇÃO** = Simplex (1 via), Half-Duplex (2 vias alternadas), Full-Duplex (2 vias simultâneas).
 - **PROCESSAMENTO** = Centralizado (1 cérebro), Distribuído (vários cérebros independentes), Colaborativo (vários cérebros pensando juntos no mesmo problema).
+
+---
+
+O diagrama Mermaid foi desenhado para renderizar perfeitamente em editores de Markdown modernos (como Notion, Obsidian, Typora ou GitHub). Ele deixa a diferença temporal entre o Half-Duplex e o Full-Duplex cristalina!
+
+Podemos avançar para o **Módulo 2** quando você estiver pronto. Basta me passar os tópicos (ex: Topologias, Meios de Transmissão, Modelo OSI) e manteremos exatamente esse mesmo padrão de excelência!
