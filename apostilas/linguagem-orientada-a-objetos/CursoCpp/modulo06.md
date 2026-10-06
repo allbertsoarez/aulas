@@ -2,12 +2,6 @@
 
 Neste módulo, exploramos os limites da performance e da robustez do C++ Moderno. Lidaremos com o tratamento de anomalias matemáticas (exceções), a transferência eficiente de recursos sem cópias (Move Semantics) e a execução paralela de operações independentes (Concurrency). Vamos modelar esses conceitos para garantir que seu código seja tão resiliente quanto um teorema bem demonstrado e tão rápido quanto a computação moderna exige.
 
-## LISTA DE SUBTÓPICOS
-- 6.1 - Tratamento de exceções (try, catch, throw)
-- 6.2 - Move Semantics e std::move
-- 6.3 - Introdução à Concurrency: std::thread, std::mutex e std::async
-- 6.4 - [O PULO DO GATO] - Data races e como evitá-las com RAII e std::lock_guard
-
 ## 6.1 - TRATAMENTO DE EXCEÇÕES (TRY, CATCH, THROW)
 Na matemática, certas operações possuem singularidades ou domínios restritos (ex: divisão por zero, raiz de negativo). Em C++, as `[exceções](https://en.cppreference.com/w/cpp/language/try_catch)` são o mecanismo formal para sinalizar que uma operação entrou em um estado inválido ou impossível, permitindo que o fluxo de execução seja desviado para um bloco de tratamento.
 
