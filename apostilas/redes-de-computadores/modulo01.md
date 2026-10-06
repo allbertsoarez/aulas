@@ -1,9 +1,3 @@
-Excelente ideia! Como Instrutor, posso garantir que **diagramas visuais** são ferramentas poderosíssimas para fixar conceitos de fluxo de dados. A tabela é ótima para leitura, mas o diagrama de sequência (usando Mermaid) vai te ajudar a visualizar a *dimensão do tempo* — que é exatamente o que diferencia o Half-Duplex do Full-Duplex.
-
-Abaixo está o **Módulo 1 completo e atualizado**, com o diagrama Mermaid perfeitamente integrado no item 1.3, mantendo rigorosamente todas as suas regras de formatação (apenas `#` e `##` em caixa alta, sem `###` e sem numeração nos subtópicos menores).
-
----
-
 # 1. FUNDAMENTOS E HISTÓRIA DAS REDES DE COMPUTADORES
 
 ## 1.1 INTRODUÇÃO A REDES DE COMPUTADORES E EVOLUÇÃO HISTÓRICA
@@ -101,9 +95,3 @@ Refere-se a *onde* a capacidade de processamento (CPU, memória) está localizad
 - **EVOLUÇÃO** = ARPANET (sobrevivência) → TCP/IP (padronização) → Web (acesso fácil) → Nuvem/IoT (ubiquidade).
 - **COMUNICAÇÃO** = Simplex (1 via), Half-Duplex (2 vias alternadas), Full-Duplex (2 vias simultâneas).
 - **PROCESSAMENTO** = Centralizado (1 cérebro), Distribuído (vários cérebros independentes), Colaborativo (vários cérebros pensando juntos no mesmo problema).
-
----
-
-O diagrama Mermaid foi desenhado para renderizar perfeitamente em editores de Markdown modernos (como Notion, Obsidian, Typora ou GitHub). Ele deixa a diferença temporal entre o Half-Duplex e o Full-Duplex cristalina!
-
-Podemos avançar para o **Módulo 2** quando você estiver pronto. Basta me passar os tópicos (ex: Topologias, Meios de Transmissão, Modelo OSI) e manteremos exatamente esse mesmo padrão de excelência!
