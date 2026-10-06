@@ -103,6 +103,29 @@ Refere-se a *onde* a capacidade de processamento (CPU, memória) está localizad
    - **Definição:** Um subconjunto avançado do processamento distribuído, onde múltiplos nós trabalham **ativamente no mesmo problema ou tarefa em tempo real**, compartilhando carga de processamento e estado da aplicação.
    - **Analogia:** Uma **equipe de cirurgiões em uma mesma sala de operação** ou múltiplas pessoas editando o **mesmo documento no Google Docs** simultaneamente. Todos contribuem para o resultado final no mesmo instante.
    - **Vantagem/Desvantagem:** Maximiza a eficiência e a velocidade para tarefas complexas (ex: renderização de filmes, simulações científicas), mas exige protocolos de sincronização muito sofisticados.
+```mermaid
+graph TD
+    subgraph CENTRALIZADO
+        C1((Mainframe Central))
+        C1 --- T1[Terminal Burro]
+        C1 --- T2[Terminal Burro]
+        C1 --- T3[Terminal Burro]
+    end
+
+    subgraph DISTRIBUÍDO
+        D1((Nó 1)) <-->|Comunicação| D2((Nó 2))
+        D2 <-->|Comunicação| D3((Nó 3))
+        D3 <-->|Comunicação| D1
+    end
+
+    subgraph COLABORATIVO
+        Col1((Nó A)) ===|Trabalho em Tempo Real| Col2((Nó B))
+        Col2 ===|Trabalho em Tempo Real| Col3((Nó C))
+        Col3 ===|Trabalho em Tempo Real| Col1
+    end
+```
+
+
 
 ---
 
