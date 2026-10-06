@@ -12,12 +12,29 @@ De forma técnica, uma rede de computadores é um conjunto de dispositivos autô
 > - Os **protocolos** (como o TCP/IP) são as leis de trânsito e a sinalização (semáforos, placas), garantindo que todos cheguem ao destino sem colisões e na ordem correta.
 
 **EVOLUÇÃO HISTÓRICA (DO BÁSICO AO AVANÇADO)**
+```mermaid
+graph LR
+    A[1960s: ARPANET] -->|Comutação de Pacotes| B[1980s: TCP/IP]
+    B -->|Padronização Global| C[1990s: World Wide Web]
+    C -->|Interfaces Gráficas| D[2000s+: Nuvem e IoT]
+    
+    style A fill:#f9d0c4,stroke:#333,stroke-width:2px
+    style B fill:#fff2cc,stroke:#333,stroke-width:2px
+    style C fill:#d9ead3,stroke:#333,stroke-width:2px
+    style D fill:#c9daf8,stroke:#333,stroke-width:2px
+```
 As redes não nasceram prontas; elas evoluíram para resolver problemas específicos de cada época:
 
 1. **Década de 1960 (A Semente - ARPANET):** Criada pelo Departamento de Defesa dos EUA. O objetivo era ter uma comunicação descentralizada que sobrevivesse a falhas parciais. *Conceito chave:* **Comutação de pacotes** (quebrar a mensagem em pedaços menores para enviar por rotas diferentes, remontando-as no destino).
+
 2. **Década de 1980 (A Padronização - TCP/IP):** A ARPANET adota oficialmente a suíte de protocolos TCP/IP. É como se todos os países do mundo concordassem em usar o mesmo formato de tomada elétrica e voltagem. Isso permitiu que redes diferentes se "conversassem", dando origem à Internet global.
+
 3. **Década de 1990 (A Popularização - World Wide Web):** Tim Berners-Lee cria a Web (baseada em HTTP e HTML). A internet deixa de ser uma ferramenta de texto apenas para acadêmicos e militares, ganhando interfaces gráficas e tornando-se acessível ao público geral.
+
 4. **Anos 2000 em diante (Era da Mobilidade e Nuvem):** Chegada do Wi-Fi, smartphones, banda larga e, mais recentemente, a **Computação em Nuvem** (*Cloud Computing*) e a **Internet das Coisas** (*IoT*), onde dispositivos do cotidiano também se conectam à rede.
+
+
+
 
 ---
 
