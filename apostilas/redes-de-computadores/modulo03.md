@@ -133,7 +133,7 @@ graph LR
 
 ---
 
-## 3.4 RESUMO DO MÓDULO 3 (PARA FIXAÇÃO)
+## 3.4 RESUMO
 
 - **PROTOCOLO:** Regras de comunicação. **RFC:** O documento oficial que descreve essas regras.
 
