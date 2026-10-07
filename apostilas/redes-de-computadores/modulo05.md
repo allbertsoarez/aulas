@@ -106,7 +106,16 @@ As ferramentas de rede também são armas de dois gumes. Um invasor usa as mesma
 
 **A MATEMÁTICA POR TRÁS DA DIVISÃO (EMPRÉSTIMO DE BITS)**
 
+**O QUE É E POR QUE USAR?**
+
+Subnetting é a prática de dividir uma rede grande (como uma Classe C) em redes menores e mais gerenciáveis, chamadas de sub-redes. 
 Para criar sub-redes na prática, nós "emprestamos" bits da parte do *Host* (máquina) e os adicionamos à parte da *Rede*, alterando a Máscara de Sub-rede.
+
+- **Analogia:** Imagine um **grande salão de festas aberto** (uma rede única). Se alguém gritar "Atenção!" (um pacote de *broadcast*), todas as 500 pessoas param para ouvir, gerando caos e lentidão. O Subnetting é como **construir paredes e portas**, dividindo o salão em 5 salas de 100 pessoas. O grito fica contido na sala, e a porta (o Roteador) só é aberta quando é necessário comunicar com outra sala.
+
+**A LÓGICA DO CÁLCULO (EMPRÉSTIMO DE BITS)**
+
+Para criar sub-redes, "emprestamos" bits da parte do *Host* (máquina) e os adicionamos à parte da *Rede*, alterando a Máscara de Sub-rede.
 
 - **Exemplo Prático:** Temos a rede `192.168.1.0` com máscara `255.255.255.0` (ou `/24`, pois 24 bits são de rede). Ela suporta 254 hosts úteis.
 - **O Objetivo:** Dividir em 2 sub-redes menores para separar o setor administrativo do setor de convidados.
