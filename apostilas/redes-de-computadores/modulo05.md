@@ -75,21 +75,6 @@ graph TD
     H -- Sim --> J[Rede 100% operacional. O problema é no aplicativo/site específico]
 ```
 
-**FALLBACK EM TEXTO (ASCII) - FLUXO DE DIAGNÓSTICO:**
-```text
-[Sem Internet] 
-   |
-   +-> 1. Ping no meu próprio IP? (NÃO = Placa de rede com defeito)
-   |
-   +-> 2. Ping no Gateway (Roteador)? (NÃO = Cabo solto ou Wi-Fi desconectado)
-   |
-   +-> 3. Ping em 8.8.8.8 (IP Externo)? (NÃO = Provedor de Internet derrubado)
-   |
-   +-> 4. Ping em google.com (Nome)? (NÃO = Problema no servidor DNS)
-   |
-   +-> SE PASSOU POR TODOS: A rede está ótima. O problema é o navegador ou o site caiu.
-```
-
 ---
 
 ## 5.3 NOÇÕES PRÁTICAS DE SUB-REDES E SEGURANÇA
@@ -97,20 +82,27 @@ graph TD
 Embora o cálculo matemático de sub-redes seja um tópico avançado, o profissional de TI precisa entender a **lógica prática** por trás disso e como ela se relaciona com a segurança e as ferramentas que acabamos de ver.
 
 **A LÓGICA PRÁTICA DO SUBNETTING (DIVISÃO DE REDES)**
+
 - **O que é:** Pegar uma rede grande (ex: Classe C, que suporta 254 hosts) e dividi-la em redes menores usando a Máscara de Sub-rede.
+
 - **Por que fazer?** 
   1. **Desempenho:** Reduz o "domínio de broadcast". Em uma rede gigante, quando um computador manda uma mensagem para "todos", 1000 máquinas param para processar. Em sub-redes pequenas, esse ruído é contido.
+
   2. **Organização:** Separa departamentos (ex: Rede 192.168.10.x para o RH, 192.168.20.x para a TI).
+
 - **Analogia:** Transformar um **grande salão de festas aberto** (uma rede única, barulhenta e caótica) em **várias salas de reunião com portas** (sub-redes). O tráfego de cada sala fica contido, e você só abre a porta (roteador) quando é necessário comunicar com outra sala.
 
 **SEGURANÇA NO DIAGNÓSTICO PRÁTICO**
+
 As ferramentas de rede também são armas de dois gumes. Um invasor usa as mesmas ferramentas que você para mapear uma rede antes de atacar.
+
 - **O "Ping Silencioso":** Muitos firewalls corporativos são configurados para **bloquear requisições ICMP (Ping)**. Portanto, se um `ping` falha, *não significa necessariamente* que o servidor está desligado; pode ser apenas uma regra de segurança (Firewall) ocultando sua existência.
+
 - **Portas Abertas (Netstat):** Se o `netstat` mostrar uma porta estranha (ex: porta 4444) ouvindo conexões ("LISTENING") em um computador que deveria ser apenas uma estação de trabalho, é um forte indício de malware ou um serviço não autorizado rodando em segundo plano.
 
 ---
 
-## 5.4 RESUMO DO MÓDULO 5 (PARA FIXAÇÃO)
+## 5.4 RESUMO
 
 - **PING:** Testa se o destino responde (ICMP). É o "Alô!" da rede.
 - **TRACERT:** Mostra o caminho e onde a conexão falha (os saltos).
