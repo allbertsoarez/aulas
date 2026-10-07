@@ -119,10 +119,14 @@ Esta é uma distinção crucial no mundo corporativo, referente a como os recurs
 
 ---
 
-## 2.6 RESUMO DO MÓDULO 2 (PARA FIXAÇÃO)
+## 2.6 RESUMO
 
 - **ÁREA DE ABRANGÊNCIA:** PAN (pessoal) < LAN (local) < MAN (metropolitana) < WAN (global). SAN é uma rede especializada em armazenamento.
+
 - **TOPOLOGIA:** Física (cabos) vs. Lógica (fluxo de dados). A **Estrela** domina as LANs; a **Malha** garante a resistência da Internet.
+
 - **ARQUITETURA:** **Ponto a Ponto** (todos são iguais, descentralizado) vs. **Cliente-Servidor** (papéis definidos, centralizado e seguro).
+
 - **COMPONENTES:** O **Servidor** fornece, o **Cliente** pede, e a **Estação de Trabalho** é um computador potente focado em processamento local.
+
 - **DEDICAÇÃO:** Servidores **Dedicados** só servem à rede (melhor desempenho). Servidores **Não Dedicados** acumulam funções (mais barato, mas menos estável).
