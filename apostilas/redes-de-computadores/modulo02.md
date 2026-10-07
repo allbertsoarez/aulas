@@ -68,15 +68,6 @@ graph TD
     end
 ```
 
-```text
-[ESTRELA]          [ANEL]               [MALHA]              [ÁRVORE]
-   [Switch]         (Nó 1) ---> (Nó 2)   (Nó 1) <====> (Nó 2)    [Switch Raiz]
-   /  |  \            ^          |         ^  \        /  ^        /       \
-  /   |   \           |          v         |   \      /   |    [Sw N2]   [Sw N2]
-[PC1][PC2][PC3]     (Nó 3) <--- (Nó 4)   (Nó 3) <====> (Nó 4)  /  \      /   \
-                                                           [PC][PC]  [PC] [PC]
-```
-
 ---
 
 ## 2.3 MODELOS DE ARQUITETURA (PONTO A PONTO VS. CLIENTE-SERVIDOR)
