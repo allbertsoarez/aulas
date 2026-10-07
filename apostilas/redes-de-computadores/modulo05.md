@@ -102,12 +102,104 @@ As ferramentas de rede também são armas de dois gumes. Um invasor usa as mesma
 
 ---
 
-## 5.4 RESUMO
+## 5.4 CÁLCULO PRÁTICO DE SUB-REDES (SUBNETTING)
 
-- **PING:** Testa se o destino responde (ICMP). É o "Alô!" da rede.
-- **TRACERT:** Mostra o caminho e onde a conexão falha (os saltos).
-- **IPCONFIG:** Mostra seus próprios dados de identidade na rede (IP, Máscara, Gateway, DNS).
-- **NSLOOKUP:** Testa se a "lista telefônica" (DNS) está funcionando e traduzindo nomes corretamente.
-- **NETSTAT:** Revela quais portas e conexões estão ativas no seu computador agora.
-- **SUB-REDES:** Dividem redes grandes em menores para reduzir ruído (broadcast) e melhorar a organização e segurança.
-- **SEGURANÇA:** Firewalls podem bloquear Pings de propósito. Sempre correlacione os resultados de múltiplas ferramentas antes de concluir um diagnóstico.
+**A MATEMÁTICA POR TRÁS DA DIVISÃO (EMPRÉSTIMO DE BITS)**
+Para criar sub-redes na prática, nós "emprestamos" bits da parte do *Host* (máquina) e os adicionamos à parte da *Rede*, alterando a Máscara de Sub-rede.
+
+- **Exemplo Prático:** Temos a rede `192.168.1.0` com máscara `255.255.255.0` (ou `/24`, pois 24 bits são de rede). Ela suporta 254 hosts úteis.
+- **O Objetivo:** Dividir em 2 sub-redes menores para separar o setor administrativo do setor de convidados.
+- **A Ação:** Emprestamos 1 bit do host. A nova máscara vira `/25` (ou `255.255.255.128`).
+- **O Resultado:** Agora temos duas redes isoladas:
+  1. `192.168.1.0` a `192.168.1.127` (126 hosts úteis)
+  2. `192.168.1.128` a `192.168.1.255` (126 hosts úteis)
+
+> 💡 **VISUALIZAÇÃO DO SUBNETTING**
+
+```mermaid
+graph TD
+    subgraph rede_original ["REDE ORIGINAL /24 (254 Hosts)"]
+        R1[192.168.1.0 até 192.168.1.255]
+    end
+
+    subgraph divisao ["DIVISÃO DA MÁSCARA /25"]
+        D1[Sub-rede 0: 192.168.1.0 a .127]
+        D2[Sub-rede 1: 192.168.1.128 a .255]
+    end
+
+    rede_original ==>|Empresta 1 bit do Host| divisao
+```
+
+**FALLBACK EM TEXTO (ASCII):**
+```text
+REDE ORIGINAL (/24):  [ 192.168.1.0  -----------------  192.168.1.255 ] (254 hosts, muito ruído)
+                             |
+                             | (Aplica-se a máscara /25)
+                             v
+SUB-REDE 0 (/25):       [ 192.168.1.0   a   192.168.1.127 ] (126 hosts, setor A)
+SUB-REDE 1 (/25):       [ 192.168.1.128 a   192.168.1.255 ] (126 hosts, setor B)
+```
+
+---
+
+## 5.5 PROTOCOLOS DE APLICAÇÃO E SERVIÇOS
+
+Estes são os protocolos da **Camada 7 (Aplicação)** do modelo OSI. Eles são a interface direta entre o software do usuário e a rede.
+
+**DHCP (DYNAMIC HOST CONFIGURATION PROTOCOL)**
+- **Função:** Distribui automaticamente endereços IP, máscaras e gateways para os dispositivos, evitando conflitos manuais.
+- **Analogia:** O **recepcionista de um hotel**. Quando você chega, ele verifica um quarto vago, te entrega a chave com o número do quarto (IP) e anota até quando você pode ficar (lease time).
+- **Processo DORA:** *Discover* (Descobrir), *Offer* (Oferecer), *Request* (Solicitar), *Acknowledge* (Confirmar).
+
+**DNS (DOMAIN NAME SYSTEM)**
+- **Função:** Traduz nomes de domínio legíveis por humanos (ex: `www.google.com`) em endereços IP numéricos que os computadores entendem.
+- **Analogia:** A **lista telefônica** da internet. Você busca pelo nome, o DNS retorna o número (IP).
+
+**HTTP E HTTPS (HYPERTEXT TRANSFER PROTOCOL)**
+- **Função:** Regula a transferência de páginas web. O "S" no final significa *Secure* (Seguro), indicando que os dados são criptografados.
+- **Analogia:** O **garçom em um restaurante**. O HTTP leva seu pedido à cozinha. O HTTPS é esse mesmo garçom, mas colocando o pedido dentro de uma **caixa forte trancada**, impedindo que alguém espione o conteúdo no caminho.
+
+**FTP (FILE TRANSFER PROTOCOL)**
+- **Função:** Transferência eficiente de arquivos.
+- **Analogia:** Uma **empresa de mudanças com dois caminhões**. Um caminhão (porta 21) leva a lista de inventário e as instruções (canal de controle). O outro caminhão (porta 20) carrega efetivamente os móveis (canal de dados).
+
+> 💡 **VISUALIZAÇÃO DO PROCESSO DHCP (DORA)**
+
+```mermaid
+sequenceDiagram
+    participant C as Cliente (Sem IP)
+    participant S as Servidor DHCP
+
+    C->>S: 1. DHCP DISCOVER ("Alguém tem um IP para mim?")
+    S->>C: 2. DHCP OFFER ("Tenho o IP 192.168.1.50 disponível")
+    C->>S: 3. DHCP REQUEST ("Ótimo, quero reservar esse IP!")
+    S->>C: 4. DHCP ACK ("Confirmado. O IP é seu por 24h")
+```
+
+---
+
+## 5.6 INTRODUÇÃO À SEGURANÇA DE REDES
+
+**A TRÍADE CID (CONFIDENCIALIDADE, INTEGRIDADE, DISPONIBILIDADE)**
+Toda estratégia de segurança de rede gira em torno de proteger estes três pilares:
+1. **Confidencialidade:** Apenas pessoas autorizadas podem ler os dados.
+2. **Integridade:** Os dados não foram alterados ou corrompidos durante o trânsito.
+3. **Disponibilidade:** Os dados e a rede estão acessíveis quando necessários.
+
+**FIREWALL (PAREDE DE FOGO)**
+- **Função:** Filtra o tráfego de rede com base em regras de segurança pré-definidas (ex: "Bloquear toda entrada na porta 23").
+- **Analogia:** O **segurança na porta de uma balada**. Ele tem uma lista de convidados (regras). Se você não estiver na lista, ele barra sua entrada, protegendo quem está lá dentro.
+
+**VPN (VIRTUAL PRIVATE NETWORK)**
+- **Função:** Cria um "túnel" criptografado através de uma rede pública (como a Internet), permitindo acesso remoto seguro à rede corporativa.
+- **Analogia:** Um **túnel blindado e secreto** atravessando uma cidade perigosa. Mesmo que alguém veja o caminhão passando, não consegue ver o que está dentro dele nem alterar a carga.
+
+---
+
+## 5.7 RESUMO
+
+- **FERRAMENTAS:** **Ping** testa conectividade. **Tracert** mostra o caminho. **Ipconfig** mostra sua identidade na rede. **Nslookup** testa o DNS. **Netstat** mostra portas abertas.
+- **SUBNETTING:** Divide redes grandes em menores "emprestando" bits do host para a rede, reduzindo ruído (broadcast) e melhorando a organização.
+- **PROTOCOLOS:** **DHCP** entrega IPs automaticamente (Processo DORA). **DNS** traduz nomes em IPs. **HTTP/HTTPS** transfere páginas web (HTTPS é criptografado). **FTP** transfere arquivos usando duas portas (controle e dados).
+- **SEGURANÇA:** Baseia-se na Tríade CID. **Firewalls** filtram tráfego indesejado. **VPNs** criam túneis seguros através da internet pública.
+- **DIAGNÓSTICO:** Firewalls podem bloquear Pings de propósito. Sempre correlacione os resultados de múltiplas ferramentas antes de concluir que um servidor está offline.
