@@ -1,29 +1,20 @@
-Excelente "caça ao bug"! Você tem um ótimo olho para detalhes. O que você identificou é uma diferença clássica de comportamento entre renderizadores de Markdown.
-
-**O Diagnóstico:**
-O Obsidian usa um parser (interpretador) do Mermaid mais moderno e "permissivo", que tolera espaços e parênteses no título do `subgraph`. 
-O **GitHub**, no entanto, é extremamente rigoroso. No Mermaid, o nome do `subgraph` funciona como um ID de programação. Se ele tiver espaços ou caracteres especiais (como parênteses) sem a sintaxe correta de aspas, o parser do GitHub quebra e gera o "Parse error".
-
-**A Solução:**
-A sintaxe oficial e 100% compatível com o GitHub para títulos de subgrafos com espaços é usar um ID simples seguido do título entre colchetes e aspas: `subgraph id_do_grupo ["Título com Espaços"]`.
-
-Abaixo está o **Módulo 3 completo e corrigido**. O último diagrama foi ajustado para essa sintaxe blindada, garantindo que ele renderize perfeitamente tanto no Obsidian quanto no GitHub.
-
----
-
 # 3. MODELOS DE REFERÊNCIA E PROTOCOLOS
 
 ## 3.1 VISÃO GERAL DE PROTOCOLOS
 
 **O QUE É UM PROTOCOLO?**
+
 Um protocolo é um conjunto formal de regras, convenções e estruturas de dados que governam como os dispositivos de uma rede se comunicam. Sem protocolos, os dispositivos seriam como pessoas falando idiomas diferentes em uma sala: haveria ruído, mas nenhuma comunicação real.
 - **Analogia:** As **regras de etiqueta e gramática** de uma conversa. Para haver diálogo, é preciso saber quando falar, quando ouvir, em qual idioma falar e como se despedir.
 
 **PADRÕES (STANDARDS)**
+
 Para que um protocolo funcione globalmente, ele precisa ser um "padrão". Organizações como a **ISO** (International Organization for Standardization), **IEEE** (Institute of Electrical and Electronics Engineers) e **IETF** (Internet Engineering Task Force) criam e mantêm esses padrões.
+
 - **Analogia:** O **padrão de tomada elétrica**. Não importa se você comprou uma TV no Brasil, no Japão ou nos EUA; se ela tiver o adaptador do padrão local, ela funcionará na parede. O padrão garante a interoperabilidade.
 
 **RFCS (REQUEST FOR COMMENTS)**
+
 São os documentos oficiais que definem os protocolos da Internet (como IP, TCP, HTTP). Apesar do nome modesto ("Pedido de Comentários"), eles são, na prática, as "leis" ou "plantas arquitetônicas" da Internet, escritos por engenheiros para engenheiros.
 - **Analogia:** A **Constituição ou o Código de Trânsito** da Internet. É o documento escrito onde está registrado exatamente como uma determinada tecnologia deve funcionar para ser considerada válida.
 
@@ -32,9 +23,11 @@ São os documentos oficiais que definem os protocolos da Internet (como IP, TCP,
 ## 3.2 MODELO DE REFERÊNCIA OSI
 
 **O QUE É O MODELO OSI?**
+
 Criado pela ISO na década de 1980, o modelo OSI (*Open Systems Interconnection*) é um modelo **teórico e didático** de 7 camadas. Seu objetivo não era criar um protocolo novo, mas sim fornecer um "mapa mental" universal para que diferentes fabricantes pudessem desenvolver tecnologias que se encaixassem em camadas específicas, garantindo a comunicação.
 
 **AS 7 CAMADAS DO MODELO OSI (DO TOPO À BASE)**
+
 Para facilitar, vamos usar a **Analogia do Envio de uma Encomenda Registrada**:
 
 **CAMADA 7: APLICAÇÃO**  
@@ -83,9 +76,11 @@ graph TD
 ## 3.3 MODELO TCP/IP
 
 **O QUE É O MODELO TCP/IP?**
+
 Enquanto o OSI é um modelo *teórico* criado por um comitê, o modelo **TCP/IP** (*Transmission Control Protocol/Internet Protocol*) é o modelo **prático** que foi desenvolvido pelo Departamento de Defesa dos EUA e que **realmente roda a Internet hoje**. 
 
 **COMPARAÇÃO: OSI VS. TCP/IP**
+
 O TCP/IP é mais "pragmático". Ele condensou as 7 camadas teóricas do OSI em 4 camadas mais enxutas e funcionais, agrupando funções semelhantes.
 
 | MODELO OSI (7 CAMADAS) | MODELO TCP/IP (4 CAMADAS) | PROTOCOLOS PRINCIPAIS | FUNÇÃO RESUMIDA |
@@ -126,27 +121,14 @@ graph LR
     O1 --- T1
 ```
 
-**FALLBACK EM TEXTO (ASCII) - COMPARAÇÃO:**
-*(Caso o diagrama acima ainda não renderize no seu visualizador específico, este texto garante a compreensão)*
-```text
-MODELO OSI (7 Camadas)      MODELO TCP/IP (4 Camadas)
-====================        =========================
-7. Aplicação                \
-6. Apresentação              }--> 4. APLICAÇÃO
-5. Sessão                   /
-                            |
-4. Transporte               |--> 3. TRANSPORTE
-                            |
-3. Rede                     |--> 2. INTERNET (Rede)
-                            |
-2. Enlace de Dados          \
-1. Física                    }--> 1. ACESSO À REDE
-```
-
 **FOCO NAS CAMADAS PRINCIPAIS DO TCP/IP:**
+
 1. **Acesso à Rede:** É o "último salto". Garante que o quadro saia da placa de rede e chegue ao próximo dispositivo (ex: do seu PC ao roteador Wi-Fi).
+
 2. **Internet:** É a camada do **Roteador**. O protocolo IP não se importa com o meio (cabo ou Wi-Fi), ele só quer saber o endereço de destino final e encontrar o melhor caminho através da "nuvem" da internet.
+
 3. **Transporte:** É a camada da **Confiabilidade**. O **TCP** garante que os dados chegaram na ordem certa (como uma carta registrada). O **UDP** envia os dados o mais rápido possível, sem garantir a entrega (como um postcard ou uma transmissão de vídeo ao vivo, onde perder um quadro é melhor do que travar o vídeo todo esperando por ele).
+
 4. **Aplicação:** É onde os protocolos que você usa todos os dias residem. O **HTTP** busca páginas web, o **DNS** traduz "google.com" para um endereço IP, e o **SMTP** envia seus e-mails.
 
 ---
@@ -154,16 +136,11 @@ MODELO OSI (7 Camadas)      MODELO TCP/IP (4 Camadas)
 ## 3.4 RESUMO DO MÓDULO 3 (PARA FIXAÇÃO)
 
 - **PROTOCOLO:** Regras de comunicação. **RFC:** O documento oficial que descreve essas regras.
+
 - **MODELO OSI:** Mapa teórico de 7 camadas. Essencial para *aprender* e *diagnosticar* problemas (ex: "É um problema de cabo? Camada 1. É um problema de site fora do ar? Camada 7").
+
 - **ENCAPSULAMENTO:** O processo de adicionar cabeçalhos às camadas inferiores (como colocar um envelope dentro de outro).
+
 - **MODELO TCP/IP:** A implementação prática e real da Internet, com 4 camadas que agrupam as funções do OSI.
+
 - **TCP vs UDP:** TCP é confiável e ordenado (e-mail, web). UDP é rápido e sem garantias (streaming, jogos online, VoIP).
-
----
-
-**Próximo Passo:**
-O bug do GitHub foi neutralizado! A sintaxe `subgraph id ["Título"]` é o padrão-ouro para compatibilidade cruzada.
-
-O **Módulo 3** está pronto para ser publicado. Quando quiser, podemos avançar para o **Módulo 4**. O cronograma natural seria **ENDEREÇAMENTO IP, MÁSCARAS DE SUB-REDE E ROTEAMENTO BÁSICO**. 
-
-Me confirme se podemos seguir para o Módulo 4 ou se há outros tópicos que você deseja ajustar!
