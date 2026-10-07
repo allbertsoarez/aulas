@@ -105,6 +105,7 @@ As ferramentas de rede também são armas de dois gumes. Um invasor usa as mesma
 ## 5.4 CÁLCULO PRÁTICO DE SUB-REDES (SUBNETTING)
 
 **A MATEMÁTICA POR TRÁS DA DIVISÃO (EMPRÉSTIMO DE BITS)**
+
 Para criar sub-redes na prática, nós "emprestamos" bits da parte do *Host* (máquina) e os adicionamos à parte da *Rede*, alterando a Máscara de Sub-rede.
 
 - **Exemplo Prático:** Temos a rede `192.168.1.0` com máscara `255.255.255.0` (ou `/24`, pois 24 bits são de rede). Ela suporta 254 hosts úteis.
