@@ -140,16 +140,6 @@ graph TD
     rede_original ==>|Empresta 1 bit do Host| divisao
 ```
 
-**FALLBACK EM TEXTO (ASCII):**
-```text
-REDE ORIGINAL (/24):  [ 192.168.1.0  -----------------  192.168.1.255 ] (254 hosts, muito ruído)
-                             |
-                             | (Aplica-se a máscara /25)
-                             v
-SUB-REDE 0 (/25):       [ 192.168.1.0   a   192.168.1.127 ] (126 hosts, setor A)
-SUB-REDE 1 (/25):       [ 192.168.1.128 a   192.168.1.255 ] (126 hosts, setor B)
-```
-
 ---
 
 ## 5.5 PROTOCOLOS DE APLICAÇÃO E SERVIÇOS
