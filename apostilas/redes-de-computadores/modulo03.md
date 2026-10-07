@@ -21,6 +21,7 @@ São os documentos oficiais que definem os protocolos da Internet (como IP, TCP,
 - **Analogia:** A **Constituição ou o Código de Trânsito** da Internet. É o documento escrito onde está registrado exatamente como uma determinada tecnologia deve funcionar para ser considerada válida.
 
 ---
+
 ## 3.2 MODELO DE REFERÊNCIA OSI
 
 **O QUE É O MODELO OSI?**
@@ -65,6 +66,7 @@ graph TD
 ```
 
 ---
+
 ## 3.3 MODELO TCP/IP
 
 **O QUE É O MODELO TCP/IP?**
@@ -111,22 +113,6 @@ graph LR
     O1 --- T1
 ```
 
-**FALLBACK EM TEXTO (ASCII) - COMPARAÇÃO:**
-```text
-MODELO OSI (7 Camadas)      MODELO TCP/IP (4 Camadas)
-====================        =========================
-7. Aplicação                \
-8. Apresentação              }--> 4. APLICAÇÃO
-9. Sessão                   /
-                            |
-10. Transporte               |--> 3. TRANSPORTE
-                            |
-11. Rede                     |--> 2. INTERNET (Rede)
-                            |
-12. Enlace de Dados          \
-13. Física                    }--> 1. ACESSO À REDE
-```
-
 **FOCO NAS CAMADAS PRINCIPAIS DO TCP/IP:**
 
 1. **Acesso à Rede:** É o "último salto". Garante que o quadro saia da placa de rede e chegue ao próximo dispositivo (ex: do seu PC ao roteador Wi-Fi).
@@ -138,6 +124,7 @@ MODELO OSI (7 Camadas)      MODELO TCP/IP (4 Camadas)
 4. **Aplicação:** É onde os protocolos que você usa todos dia residem. O **HTTP** busca páginas web, o **DNS** traduz "google.com" para um endereço IP, e o **SMTP** envia seus e-mails.
 
 ---
+
 ## 3.4 RESUMO DO MÓDULO 3 (PARA FIXAÇÃO)
 
 - **PROTOCOLO:** Regras de comunicação. **RFC:** O documento oficial que descreve essas regras.
