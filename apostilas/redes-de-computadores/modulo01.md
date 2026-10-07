@@ -3,6 +3,7 @@
 ## 1.1 INTRODUÇÃO A REDES DE COMPUTADORES E EVOLUÇÃO HISTÓRICA
 
 **O QUE É UMA REDE DE COMPUTADORES?**
+
 De forma técnica, uma rede de computadores é um conjunto de dispositivos autônomos (chamados de **nós** ou *hosts*) interconectados por meios de transmissão (cabos de cobre, fibra óptica ou ondas de rádio) para compartilhar recursos e informações. Essa comunicação é regida por um conjunto de regras padronizadas chamado **protocolo**.
 
 > 💡 **ANALOGIA DO MUNDO REAL:** Imagine uma cidade moderna. 
@@ -33,9 +34,6 @@ As redes não nasceram prontas; elas evoluíram para resolver problemas específ
 
 4. **Anos 2000 em diante (Era da Mobilidade e Nuvem):** Chegada do Wi-Fi, smartphones, banda larga e, mais recentemente, a **Computação em Nuvem** (*Cloud Computing*) e a **Internet das Coisas** (*IoT*), onde dispositivos do cotidiano também se conectam à rede.
 
-
-
-
 ---
 
 ## 1.2 APLICAÇÕES PRÁTICAS DAS REDES
@@ -61,6 +59,7 @@ Por que nos importamos com redes? Porque elas são a espinha dorsal da vida mode
 Agora vamos aprofundar na mecânica de como os dados fluem e como o trabalho é dividido entre os dispositivos.
 
 **TIPOS DE COMUNICAÇÃO (FLUXO DE DADOS)**
+
 Refere-se à direção em que os dados trafegam entre dois dispositivos conectados. Para visualizar a diferença crucial entre eles (especialmente a questão do *tempo* de envio), observe o diagrama de sequência abaixo:
 ```mermaid
 sequenceDiagram
@@ -125,13 +124,13 @@ graph TD
     end
 ```
 
-
-
 ---
 
-## 1.4 RESUMO DO MÓDULO 1 (PARA FIXAÇÃO)
+## 1.4 RESUMO
 
 - **REDE** = Dispositivos + Meio de Transmissão + Protocolos (Regras).
+
 - **EVOLUÇÃO** = ARPANET (sobrevivência) → TCP/IP (padronização) → Web (acesso fácil) → Nuvem/IoT (ubiquidade).
+
 - **COMUNICAÇÃO** = Simplex (1 via), Half-Duplex (2 vias alternadas), Full-Duplex (2 vias simultâneas).
 - **PROCESSAMENTO** = Centralizado (1 cérebro), Distribuído (vários cérebros independentes), Colaborativo (vários cérebros pensando juntos no mesmo problema).
