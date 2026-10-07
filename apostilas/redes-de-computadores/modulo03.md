@@ -29,6 +29,7 @@ São os documentos oficiais que definem os protocolos da Internet (como IP, TCP,
 Criado pela ISO na década de 1980, o modelo OSI (*Open Systems Interconnection*) é um modelo **teórico e didático** de 7 camadas. Seu objetivo não era criar um protocolo novo, mas sim fornecer um "mapa mental" universal para que diferentes fabricantes pudessem desenvolver tecnologias que se encaixassem em camadas específicas, garantindo a comunicação.
 
 **AS 7 CAMADAS DO MODELO OSI (DO TOPO À BASE)**
+
 Para facilitar, vamos usar a **Analogia do Envio de uma Encomenda Registrada**:
 
 7. **APLICAÇÃO:** É a camada mais próxima do usuário. Fornece a interface para aplicativos de rede (ex: navegador, e-mail).
@@ -64,8 +65,6 @@ graph TD
     E -->|Adiciona cabeçalho MAC| F[2. ENLACE: Quadro]
     F -->|Converte em sinais| G[1. FÍSICA: Bits 010101]
 ```
-
----
 
 ## 3.3 MODELO TCP/IP
 
