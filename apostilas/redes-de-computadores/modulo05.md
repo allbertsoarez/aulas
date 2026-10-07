@@ -194,6 +194,11 @@ Toda estratégia de segurança de rede gira em torno de proteger estes três pil
 - **Função:** Cria um "túnel" criptografado através de uma rede pública (como a Internet), permitindo acesso remoto seguro à rede corporativa.
 - **Analogia:** Um **túnel blindado e secreto** atravessando uma cidade perigosa. Mesmo que alguém veja o caminhão passando, não consegue ver o que está dentro dele nem alterar a carga.
 
+**AUTENTICAÇÃO E CRIPTOGRAFIA**
+
+- **Autenticação:** Verificar a identidade do usuário (ex: senhas, biometria, tokens). É a pergunta: "Você é realmente quem diz ser?".
+- **Criptografia:** A arte de embaralhar dados para que fiquem ilegíveis para qualquer pessoa que não possua a "chave" correta para desembaralhá-los.
+
 ---
 
 ## 5.7 RESUMO
