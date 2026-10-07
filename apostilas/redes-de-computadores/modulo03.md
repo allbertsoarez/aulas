@@ -32,25 +32,25 @@ Criado pela ISO na década de 1980, o modelo OSI (*Open Systems Interconnection*
 
 Para facilitar, vamos usar a **Analogia do Envio de uma Encomenda Registrada**:
 
-7. **APLICAÇÃO:** É a camada mais próxima do usuário. Fornece a interface para aplicativos de rede (ex: navegador, e-mail).
+**APLICAÇÃO:** É a camada mais próxima do usuário. Fornece a interface para aplicativos de rede (ex: navegador, e-mail).
    - *Analogia:* Você escreve a carta e decide o que quer enviar.
 
-6. **APRESENTAÇÃO:** Traduz, criptografa e comprime os dados para que o sistema receptor os entenda.
+**APRESENTAÇÃO:** Traduz, criptografa e comprime os dados para que o sistema receptor os entenda.
    - *Analogia:* Você traduz a carta para o idioma do destinatário e a coloca em um envelope seguro (criptografia).
 
-5. **SESSÃO:** Estabelece, gerencia e encerra a conexão (diálogo) entre os dois dispositivos.
+**SESSÃO:** Estabelece, gerencia e encerra a conexão (diálogo) entre os dois dispositivos.
    - *Analogia:* Você liga para o destinatário para avisar que a carta está a caminho e combina a entrega.
 
-4. **TRANSPORTE:** Garante a entrega confiável dos dados, dividindo-os em partes menores (segmentos) e controlando erros e fluxo. (Protocolos: TCP, UDP).
+**TRANSPORTE:** Garante a entrega confiável dos dados, dividindo-os em partes menores (segmentos) e controlando erros e fluxo. (Protocolos: TCP, UDP).
    - *Analogia:* Os Correios dividem uma carga grande em caixas menores, numeram cada uma e exigem aviso de recebimento (confiabilidade).
 
-3. **REDE:** Responsável pelo endereçamento lógico (endereços IP) e pelo melhor caminho (roteamento) através de redes interconectadas.
+**REDE:** Responsável pelo endereçamento lógico (endereços IP) e pelo melhor caminho (roteamento) através de redes interconectadas.
    - *Analogia:* O centro de triagem dos Correios lê o CEP e decide a melhor rota (caminhão, avião) para a carta chegar à cidade destino.
 
-2. **ENLACE DE DADOS:** Responsável pelo endereçamento físico (endereços MAC), detecção de erros no meio local e acesso ao meio. (Dispositivo: Switch).
+**ENLACE DE DADOS:** Responsável pelo endereçamento físico (endereços MAC), detecção de erros no meio local e acesso ao meio. (Dispositivo: Switch).
    - *Analogia:* O carteiro do bairro que conhece cada casa (endereço MAC) e entrega a carta na caixa de correio específica, verificando se o nome está certo.
 
-1. **FÍSICA:** Transmite os bits brutos (0s e 1s) pelo meio físico (cabos, ondas de rádio). (Dispositivos: Hub, cabos, fibras).
+**FÍSICA:** Transmite os bits brutos (0s e 1s) pelo meio físico (cabos, ondas de rádio). (Dispositivos: Hub, cabos, fibras).
    - *Analogia:* O caminhão dos Correios que fisicamente transporta a carta pela estrada (o meio de transmissão).
 
 > 💡 **VISUALIZAÇÃO DO ENCAPSULAMENTO OSI**
