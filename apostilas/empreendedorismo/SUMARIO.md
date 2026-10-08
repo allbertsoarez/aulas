@@ -20,6 +20,6 @@
 * **4.3.** [REDE DE RELAÇÕES](https://www.sebrae.com.br/sites/PortalSebrae/artigos/networking)
 ---
 ### [MÓDULO 5: ASPECTOS FORMAIS, TECNOLÓGICOS E GLOBAIS](https://www.gov.br/empresas-e-negocios/pt-br)
-* **5.1.** [FORMAS JURÍDICAS DA EMPRESA](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor)
+* **5.1.OK** [FORMAS JURÍDICAS DA EMPRESA](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor)
 * **5.2.** [A ATIVIDADE EMPREENDEDORA EM UMA ECONOMIA GLOBALIZADA E AS MUDANÇAS NO MUNDO DO TRABALHO E O EMPREENDEDORISMO](https://www.sebrae.com.br/sites/PortalSebrae/artigos/futuro-do-trabalho)
 * **5.3.** [DEFINIÇÃO E TÉCNICAS DE UTILIZAÇÃO DE SOFTWARES](https://www.sebrae.com.br/sites/PortalSebrae/artigos/transformacao-digital)
