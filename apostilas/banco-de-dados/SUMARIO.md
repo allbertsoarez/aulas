@@ -1,40 +1,43 @@
-# SUMÁRIO DA APOSTILA: FUNDAMENTOS E PRÁTICA EM BANCO DE DADOS
+# SUMÁRIO
 
-## [1. FASES DE UM PROJETO DE BANCO DE DADOS](https://www.postgresql.org/docs/current/tutorial-createdb.html)
+## 1. FUNDAMENTOS DE BANCO DE DADOS
+### 1.1. DIFERENÇA ENTRE BANCO DE DADOS E SGBD
+* **Banco de Dados:** Coleção organizada, estruturada e persistente de dados armazenados eletronicamente.
+* **Sistema de Gerenciamento de Banco de Dados (SGBD):** Software complexo que interage com usuários finais e aplicações para capturar, manipular, proteger e analisar os dados (ex: [`PostgreSQL`](https://www.postgresql.org/), [`MySQL`](https://dev.mysql.com/doc/)).
 
-### [1.1. LEVANTAMENTO DE REQUISITOS E MODELAGEM CONCEITUAL](https://www.postgresql.org/docs/current/tutorial-arch.html)
-### [1.2. MODELAGEM LÓGICA E MODELAGEM FÍSICA](https://www.postgresql.org/docs/current/tutorial-createdb.html)
-
-## [2. DIFERENÇA ENTRE BANCO DE DADOS E SGBD](https://www.postgresql.org/docs/current/tutorial-intro.html)
-*Distinção fundamental entre a coleção organizada de dados persistentes e o software complexo que os gerencia e protege.*
-
-### [2.1. CONCEITO DE BANCO DE DADOS](https://www.postgresql.org/docs/current/tutorial-intro.html)
-### [2.2. SISTEMA DE GERENCIAMENTO DE BANCO DE DADOS (SGBD)](https://www.postgresql.org/docs/current/tutorial-intro.html)
-
-## [3. MODELO DE ENTIDADE-RELACIONAMENTO (MER) E CONCEITOS BÁSICOS](https://www.postgresql.org/docs/current/ddl.html)
-*Fundamentos da representação gráfica e lógica da estrutura de dados, servindo como o "blueprint" independente de tecnologia.*
-
-### [3.1. ENTIDADES, ATRIBUTOS E RELACIONAMENTOS](https://www.postgresql.org/docs/current/ddl.html)
-### [3.2. DIAGRAMA DE ENTIDADE-RELACIONAMENTO (DER) E MODELO RELACIONAL](https://www.postgresql.org/docs/current/ddl.html)
-
-## [4. MAPEAMENTO DE RESTRIÇÕES E USO DE CHAVES](https://www.postgresql.org/docs/current/ddl-constraints.html)
-*Aplicação de regras estritas para garantir a unicidade, a não nulidade e a consistência absoluta dos registros.*
-
-### [4.1. CHAVE PRIMÁRIA (PRIMARY KEY)](https://www.postgresql.org/docs/current/ddl-constraints.html#DDL-CONSTRAINTS-PRIMARY-KEYS)
-### [4.2. CHAVE ESTRANGEIRA (FOREIGN KEY)](https://www.postgresql.org/docs/current/ddl-constraints.html#DDL-CONSTRAINTS-FK)
-
-## [5. INTEGRIDADE REFERENCIAL E LINGUAGEM SQL](https://www.postgresql.org/docs/current/ddl-constraints.html)
-*Garantia de consistência nas relações entre tabelas e introdução à linguagem padrão universal de manipulação de dados.*
-
-### [5.1. PRINCÍPIOS DA INTEGRIDADE REFERENCIAL](https://www.postgresql.org/docs/current/ddl-constraints.html#DDL-CONSTRAINTS-FK)
-### [5.2. INTRODUÇÃO À LINGUAGEM SQL (STRUCTURED QUERY LANGUAGE)](https://www.postgresql.org/docs/current/sql.html)
-
-## [6. MANIPULAÇÃO E CONSULTA DE DADOS EM SQL](https://www.postgresql.org/docs/current/sql.html)
-*Comandos práticos e essenciais para a criação de estruturas e a recuperação eficiente de informações armazenadas.*
-
-### [6.1. CRIAÇÃO DE TABELAS (COMANDO CREATE TABLE)](https://www.postgresql.org/docs/current/sql-createtable.html)
-### [6.2. CONSULTAS ATRAVÉS DO COMANDO SELECT](https://www.postgresql.org/docs/current/sql-select.html)
+### 1.2. FASES DE UM PROJETO DE BANCO DE DADOS
+* **Levantamento de Requisitos:** Compreensão detalhada das regras de negócio e necessidades de dados.
+* **Modelagem Conceitual:** Criação do Modelo de Entidade-Relacionamento (MER), independente de tecnologia.
+* **Modelagem Lógica:** Transformação do MER em um Modelo Relacional, definindo tabelas e tipos de dados.
+* **Modelagem Física:** Implementação efetiva no SGBD, incluindo criação de índices e otimizações de desempenho.
 
 ---
 
-*A estrutura em sumário anotado oferece uma navegação pedagógica excepcional, permitindo que o aluno visualize a progressão lógica do curso antes mesmo de iniciar a leitura. Como sugestão de gancho, incluir ícones ou marcadores de "prática" ao lado dos tópicos de SQL pode aumentar ainda mais o engajamento e a expectativa pela aplicação real dos conceitos.*
+## 2. MODELAGEM DE DADOS
+### 2.1. CONCEITOS BÁSICOS DO MODELO DE ENTIDADE-RELACIONAMENTO (MER)
+* **Entidade:** Objeto ou conceito do mundo real sobre o qual se deseja armazenar dados (ex: `Aluno`, `Curso`).
+* **Atributo:** Característica ou propriedade descritiva de uma entidade (ex: `nome`, `matrícula`).
+* **Relacionamento:** Associação lógica e semântica entre duas ou mais entidades.
+
+### 2.2. DIAGRAMA DE ENTIDADE-RELACIONAMENTO (DER) E MODELO RELACIONAL
+* O **Diagrama de Entidade-Relacionamento (DER)** é a representação visual e gráfica do MER. Na transição para o Modelo Relacional, as entidades tornam-se **tabelas**, os atributos tornam-se **colunas**, e os relacionamentos são materializados através de chaves, estabelecendo a estrutura relacional matemática dos dados.
+
+---
+
+## 3. INTEGRIDADE E REGRAS DE NEGÓCIO
+### 3.1. MAPEAMENTO DE RESTRIÇÕES E USO DE CHAVES
+* [`Chave Primária (Primary Key)`](https://www.postgresql.org/docs/current/ddl-constraints.html#DDL-CONSTRAINTS-PRIMARY-KEYS): Identificador único e não nulo de um registro em uma tabela, garantindo a identificação inequívoca de cada linha.
+* [`Chave Estrangeira (Foreign Key)`](https://www.postgresql.org/docs/current/ddl-constraints.html#DDL-CONSTRAINTS-FK): Campo que cria um vínculo explícito entre os dados de duas tabelas, referenciando a chave primária de outra relação.
+
+### 3.2. INTEGRIDADE REFERENCIAL NO BANCO DE DADOS
+* A [`Integridade Referencial`](https://www.postgresql.org/docs/current/ddl-constraints.html#DDL-CONSTRAINTS-FK) assegura que as relações entre as tabelas permaneçam consistentes, impedindo, por exemplo, a exclusão de um registro "pai" se houver registros "filhos" dependentes, ou a inserção de um registro com referência inexistente.
+
+---
+
+## 4. IMPLEMENTAÇÃO E CONSULTA EM SQL
+### 4.1. TABELAS EM LINGUAGEM SQL
+* A materialização do modelo lógico no SGBD ocorre através do comando [`CREATE TABLE`]. Nesta etapa, definem-se o nome da tabela, as colunas, seus respectivos tipos de dados (ex: `VARCHAR`, `INTEGER`) e as devidas restrições de integridade (ex: `NOT NULL`, `UNIQUE`).
+
+### 4.2. CONSULTAS ATRAVÉS DO COMANDO SELECT
+* Para recuperar, filtrar e manipular os dados armazenados, utiliza-se o comando [`SELECT`](https://www.postgresql.org/docs/current/sql-select.html). Ele permite projetar colunas específicas, aplicar condições de filtro (`WHERE`), ordenar resultados (`ORDER BY`) e agregar informações de uma ou mais tabelas (via `JOIN`), sendo a operação de leitura mais fundamental e poderosa da [`SQL (Structured Query Language)`](https://www.postgresql.org/docs/current/sql.html).
+*A numeração sequencial e hierárquica confere ao material uma estrutura de apostila profissional, facilitando a localização rápida de conteúdos e a construção mental do cronograma de estudos pelo aluno. Como gancho pedagógico, sugiro adicionar um "Desafio do Capítulo" ao final de cada seção principal, incentivando a aplicação imediata dos conceitos de modelagem antes de avançar para a sintaxe SQL.*
