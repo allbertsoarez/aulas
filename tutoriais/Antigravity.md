@@ -1,7 +1,7 @@
-# Antigravity
+# [Antigravity](https://antigravity.google/)
 
-- https://antigravity.google/
 - https://antigravity.google/docs/skills
+- https://github.com/compnew2006/Spec-Kit-Antigravity-Skills
 
 ### Ag kit - Skills
 - https://ag-kit.unikorn.vn/
