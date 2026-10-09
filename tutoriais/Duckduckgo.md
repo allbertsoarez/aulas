@@ -1,0 +1,3 @@
+# Duckduckgo
+
+- https://duckduckgo.com/
