@@ -381,7 +381,7 @@ https://wilsonfreitas.github.io/python-bcb
 https://stackblitz-labs.github.io/bolt.diy
 https://linux.toys/index.pt-BR.html
 https://threejs.org
-https://univali-lite.github.io/Portugol-Studio/
+
 https://docs.rustinel.io/
 https://pranshuparmar.github.io/witr/
 https://www.ricochetrefresh.net/
