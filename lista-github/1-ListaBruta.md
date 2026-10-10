@@ -30,7 +30,7 @@ https://github.com/modular/modular
 https://github.com/neovim/neovim
 https://github.com/python/cpython
 https://github.com/python/pymanager
-https://github.com/quarto-dev/quarto-cli
+
 https://github.com/spyder-ide/spyder
 https://github.com/tauri-apps/tauri
 https://github.com/voideditor/void-forks
