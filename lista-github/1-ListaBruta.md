@@ -13,7 +13,7 @@ https://github.com/mrdoob/three.js
 https://github.com/rafaballerini/meu-site-html
 https://github.com/stackblitz-labs/bolt.diy
 https://github.com/toddynho/jsonlint-core
-https://github.com/apache/netbeans
+
 https://github.com/cursoemvideo
 https://github.com/Embarcadero/Dev-Cpp
 https://github.com/folke/lazy.nvim
