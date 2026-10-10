@@ -34,9 +34,6 @@ date: 2026-10-10
 - **[ManimCommunity]**
   - 🥈 **[PRIORIDADE ALTA]** [manim](https://github.com/ManimCommunity/manim) *(A biblioteca padrão-ouro para animações matemáticas e de dados em Python)*
 
-- **[spyder-ide]**
-  - [spyder](https://github.com/spyder-ide/spyder)
-
 - **[wilsonfreitas]**
   - 🥉 **[PRIORIDADE MÉDIA]** [python-bcb](https://github.com/wilsonfreitas/python-bcb) *(Ferramenta essencial e robusta para coleta de dados do Banco Central do Brasil)*
 
