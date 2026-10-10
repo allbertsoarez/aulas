@@ -69,9 +69,6 @@ date: 2026-10-10
 
 ## 📂 FERRAMENTAS DE DESENVOLVIMENTO, IDES E GIT
 
-- **[apache]**
-  - [netbeans](https://github.com/apache/netbeans)
-
 - **[Embarcadero]**
   - [Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)
 
