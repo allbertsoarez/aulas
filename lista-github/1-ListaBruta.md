@@ -337,7 +337,6 @@ https://github.com/mrdoob/three.js/
 https://github.com/schemahero/schemahero
 https://github.com/harry0703/MoneyPrinterTurbo/blob/main/README-en.md
 https://github.com/TableProApp/TablePro
-https://github.com/dietrichgebert/ponytail
 https://github.com/fleetbase/fleetbase
 https://github.com/dyang886/Game-Cheats-Manager
 https://github.com/voideditor/void-forks/
@@ -349,6 +348,17 @@ https://github.com/ImKennyYip/calculator-python
 https://github.com/ImKennyYip/python-oop
 https://github.com/ImKennyYip/python-oop/tree/master
 https://github.com/deepbeepmeep/Wan2GP
+https://github.com/FatihMakes/Mark-LV
+https://github.com/Twigpine/openclaude
+https://github.com/techjarves/Portable-Local-Studio
+https://github.com/peltonapp/Pelton
+https://github.com/techjarves/ClaudeCode-Portable
+https://github.com/mailcow/mailcow-dockerized
+https://archivebox.io/
+https://github.com/Open-Dev-Society/OpenStock
+https://openstock-ods.vercel.app/
+https://genoffice.ai/pt-br/
+https://github.com/genspark-ai/genoffice
 https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 https://gist.github.com/karpathy
 https://ifpb.github.io/intin-poo/
