@@ -4,501 +4,352 @@ tags:
   - repositorio
   - organizacao
   - roteiro-de-estudos
-date: 2026-09-27
+date: 2026-10-10
 ---
 
-# 📚 Classificação e Organização de Repositórios (Roteiro de Estudos)
+# 📚 CLASSIFICAÇÃO E ORGANIZAÇÃO DE REPOSITÓRIOS (Roteiro de Estudos)
 
-![Markdown](https://img.shields.io/badge/Formato-Markdown-blue)
-![Status](https://img.shields.io/badge/Status-Ativo-green)
-![Curadoria](https://img.shields.io/badge/Curadoria-IA-orange)
-
-> 🎯 **Sobre este repositório:**
-> Este é um roteiro de estudos dinâmico e curado, contendo os melhores repositórios do GitHub focados em Programação, IA, Ciência de Dados e Ferramentas de Produtividade. O objetivo é centralizar referências de alta qualidade, eliminando ruído e organizando o aprendizado por ordem de prioridade.
-
-> 🔄 **GUIA RÁPIDO DE ATUALIZAÇÃO (Fluxo de Trabalho)**
-> Para manter este roteiro sempre atualizado, siga estes 3 passos simples:
-> 1. 📥 **Adicionar:** Achou um link novo? Cole-o no final do arquivo `📥 ListaURLs.md` (no seu cofre do Obsidian ou localmente).
-> 2. 🛠️ **Processar:** Copie o texto do `🛠️ PromptMestre.md` e, logo abaixo dele, cole **toda** a lista atualizada do `📥 ListaURLs.md`. Envie para a IA.
-> 3. 📚 **Atualizar:** Copie o novo código Markdown gerado pela IA e substitua todo o conteúdo deste arquivo (`README.md`).
-
----
-
-> 💡 **Legenda de Prioridade:**
-> - 🏆 **[PRIORIDADE MÁXIMA]**: O ponto de partida essencial. Estude este primeiro.
-> - 🥈 **[PRIORIDADE ALTA]**: Complemento fundamental ou próxima etapa lógica.
-> - 🥉 **[PRIORIDADE MÉDIA]**: Excelente material de referência ou aprofundamento.
+> **Legenda de Prioridade:**
+> 🏆 **[PRIORIDADE MÁXIMA]**: Ponto de partida essencial.
+> 🥈 **[PRIORIDADE ALTA]**: Complemento fundamental ou próxima etapa lógica.
+> 🥉 **[PRIORIDADE MÉDIA]**: Excelente material de referência ou aprofundamento.
 
 ---
 
 ## 📂 CIÊNCIA DE DADOS, FINANÇAS E MATEMÁTICA
 
-- **Codigoquant**
-  - 🥈 **[PRIORIDADE ALTA]** [Python Para Investimentos](https://github.com/codigoquant/python_para_investimentos)
-  - [Python Para Investimentos (Google Colab)](https://github.com/codigoquant/python_para_investimentos/blob/master/01_Python_para_Investimentos_com_Google_Colab_Obtendo_cota%C3%A7%C3%B5es_do_Yahoo_Finance.ipynb)
+- **[arthurgregorio]**
+  - [web-budget](https://github.com/arthurgregorio/web-budget)
 
-- **Eduardo Ono**
-  - [Fundamentos De Matematica](https://github.com/eduardo-ono/Fundamentos-de-Matematica)
+- **[codigoquant]**
+  - [python_para_investimentos](https://github.com/codigoquant/python_para_investimentos)
+
+- **[eduardo-ono]**
+  - [Fundamentos-de-Matematica](https://github.com/eduardo-ono/Fundamentos-de-Matematica)
   - [Matematica](https://github.com/eduardo-ono/Matematica)
 
-- **Ghostfolio**
-  - [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
+- **[ghostfolio]**
+  - 🏆 **[PRIORIDADE MÁXIMA]** [ghostfolio](https://github.com/ghostfolio/ghostfolio) *(Plataforma de código aberto completa para gestão de patrimônio e investimentos)*
 
-  - **Manimcommunity**
-  - 🥉 **[PRIORIDADE MÉDIA]** [Manim](https://github.com/ManimCommunity/manim) *(Excelente para visualização matemática)*
+- **[ManimCommunity]**
+  - 🥈 **[PRIORIDADE ALTA]** [manim](https://github.com/ManimCommunity/manim) *(A biblioteca padrão-ouro para animações matemáticas e de dados em Python)*
 
-- **Marcusesa**
-  - [Loteria Api](https://github.com/marcusesa/loteria-api)
+- **[quarto-dev]**
+  - [quarto-cli](https://github.com/quarto-dev/quarto-cli)
 
-- **Ranaroussi**
-  - 🏆 **[PRIORIDADE MÁXIMA]** [Yfinance](https://ranaroussi.github.io/yfinance) *(A biblioteca padrão-ouro para dados financeiros em Python)*
+- **[spyder-ide]**
+  - [spyder](https://github.com/spyder-ide/spyder)
 
-- **Wilsonfreitas**
-  - [Python Bcb](https://github.com/wilsonfreitas/python-bcb)
-  - [Python Bcb (GitHub Pages)](https://wilsonfreitas.github.io/python-bcb)
+- **[wilsonfreitas]**
+  - 🥉 **[PRIORIDADE MÉDIA]** [python-bcb](https://github.com/wilsonfreitas/python-bcb) *(Ferramenta essencial e robusta para coleta de dados do Banco Central do Brasil)*
 
-- **Yccheok**
-  - [Jstock](https://github.com/yccheok/jstock)
+- **[yccheok]**
+  - [jstock](https://github.com/yccheok/jstock)
 
 ---
 
 ## 📂 DESENVOLVIMENTO WEB E FRONTEND
 
-- **Arthurgregorio**
-  - [Web Budget](https://github.com/arthurgregorio/web-budget)
+- **[mrdoob]**
+  - 🏆 **[PRIORIDADE MÁXIMA]** [three.js](https://github.com/mrdoob/three.js) *(A biblioteca fundamental e mais popular para renderização 3D na web)*
 
-- **Gitbookio**
-  - [Gitbook](https://github.com/GitbookIO/gitbook)
+- **[rafaballerini]**
+  - [AssistentePessoal](https://github.com/rafaballerini/AssistentePessoal)
+  - [GitTutorial](https://github.com/rafaballerini/GitTutorial)
+  - [meu-site-html](https://github.com/rafaballerini/meu-site-html)
+  - [PerfilGithub](https://github.com/rafaballerini/PerfilGithub)
 
-- **Mrdoob**
-  - 🏆 **[PRIORIDADE MÁXIMA]** [Three.Js](https://github.com/mrdoob/three.js) *(A biblioteca definitiva para 3D na web. Estudo obrigatório para gráficos)*
+- **[stackblitz-labs]**
+  - 🥉 **[PRIORIDADE MÉDIA]** [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) *(Ambiente de desenvolvimento web full-stack inovador rodando diretamente no navegador)*
 
-- **Rafaballerini**
-  - [Meu Site Html](https://github.com/rafaballerini/meu-site-html)
-
-- **Stackblitz Labs**
-  - 🥈 **[PRIORIDADE ALTA]** [Bolt.Diy](https://github.com/stackblitz-labs/bolt.diy) *(Ferramenta de ponta para desenvolvimento web moderno)*
-  - [Bolt.Diy (GitHub Pages)](https://stackblitz-labs.github.io/bolt.diy)
-
-- **Toddynho**
-  - [Jsonlint Core](https://github.com/toddynho/jsonlint-core)
-
-- **Diversos (Links Externos)**
-  - [Linux Toys](https://linux.toys/index.pt-BR.html)
-  - [Threejs.Org](https://threejs.org)
+- **[tauri-apps]**
+  - 🥈 **[PRIORIDADE ALTA]** [tauri](https://github.com/tauri-apps/tauri) *(Framework moderno e leve para construção de aplicativos desktop multiplataforma)*
 
 ---
 
 ## 📂 FERRAMENTAS DE DESENVOLVIMENTO, IDES E GIT
 
-- **Apache**
-  - [Netbeans](https://github.com/apache/netbeans)
+- **[apache]**
+  - [netbeans](https://github.com/apache/netbeans)
 
-- **Cursoemvideo**
-  - [Cursoemvideo](https://github.com/cursoemvideo)
+- **[Embarcadero]**
+  - [Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)
 
-- **Embarcadero**
-  - [Dev Cpp](https://github.com/Embarcadero/Dev-Cpp)
+- **[folke]**
+  - 🥈 **[PRIORIDADE ALTA]** [lazy.nvim](https://github.com/folke/lazy.nvim) *(Gerenciador de plugins moderno e extremamente rápido para Neovim)*
 
-- **Folke**
-  - 🥈 **[PRIORIDADE ALTA]** [Lazy.Nvim](https://github.com/folke/lazy.nvim) *(Distribuição moderna e altamente recomendada para quem quer dominar o Neovim)*
+- **[glacambre]**
+  - [firenvim](https://github.com/glacambre/firenvim)
 
-- **Geany**
-  - [Geany](https://github.com/geany)
+- **[jesseduffield]**
+  - [lazydocker](https://github.com/jesseduffield/lazydocker)
+  - 🥉 **[PRIORIDADE MÉDIA]** [lazygit](https://github.com/jesseduffield/lazygit) *(Cliente de terminal simples e intuitivo para comandos complexos do Git)*
 
-- **Glacambre**
-  - [Firenvim](https://github.com/glacambre/firenvim)
+- **[lazyvim]**
+  - [lazyvim](https://github.com/lazyvim/lazyvim)
 
-- **Gralco**
-  - [Mojo Ide](https://github.com/gralco/mojo-ide)
+- **[microsoft]**
+  - 🏆 **[PRIORIDADE MÁXIMA]** [vscode](https://github.com/microsoft/vscode) *(O editor de código mais popular e extensível do mercado, base de grande parte do ecossistema)*
 
-- **Jesseduffield**
-  - 🥉 **[PRIORIDADE MÉDIA]** [Lazygit](https://github.com/jesseduffield/lazygit) *(Revoluciona o fluxo de trabalho no terminal com Git)*
-  - [Lazydocker](https://github.com/jesseduffield/lazydocker)
+- **[modular]**
+  - [modular](https://github.com/modular/modular)
 
-- **Jgraph**
-  - 🥈 **[PRIORIDADE ALTA]** [Drawio](https://github.com/jgraph/drawio) *(Essencial para diagramação e modelagem)*
-  - [Drawio Desktop](https://github.com/jgraph/drawio-desktop)
+- **[neovim]**
+  - [neovim](https://github.com/neovim/neovim)
 
-- **Leonardocides**
-  - [God S Eye](https://github.com/LeonardoCides/God-s-eye)
+- **[vscode-neovim]**
+  - [vscode-neovim](https://github.com/vscode-neovim/vscode-neovim)
 
-- **Llvm**
-  - [Llvm Project](https://github.com/llvm/llvm-project)
-
-- **Microsoft**
-  - 🏆 **[PRIORIDADE MÁXIMA]** [Vscode](https://github.com/microsoft/vscode) *(Entender a arquitetura e extensões da IDE mais usada no mundo é fundamental)*
-
-- **Modular**
-  - [Modular](https://github.com/modular/modular)
-
-- **Neovim**
-  - 🥈 **[PRIORIDADE ALTA]** [Neovim](https://github.com/neovim/neovim) *(Base para editores de texto de alta performance)*
-
-- **Python**
-  - 🥉 **[PRIORIDADE MÉDIA]** [Cpython](https://github.com/python/cpython) *(Para quem deseja entender os fundamentos profundos da linguagem)*
-  - [Pymanager](https://github.com/python/pymanager)
-
-- **Quarto Dev**
-  - [Quarto Cli](https://github.com/quarto-dev/quarto-cli)
-
-- **Spyder Ide**
-  - [Spyder](https://github.com/spyder-ide/spyder)
-
-- **Tauri Apps**
-  - [Tauri](https://github.com/tauri-apps/tauri)
-
-- **Voideditor**
-  - [Void Forks](https://github.com/voideditor/void-forks)
-
-- **Vscode Neovim**
-  - [Vscode Neovim](https://github.com/vscode-neovim/vscode-neovim)
-
-- **Vscodium**
-  - [Vscodium](https://github.com/VSCodium/vscodium)
-
-- **Diversos (Links Externos)**
-  - [Phantom Video (HuMo)](https://phantom-video.github.io/HuMo)
+- **[VSCodium]**
+  - [vscodium](https://github.com/VSCodium/vscodium)
 
 ---
 
 ## 📂 IA, APRENDIZADO DE MÁQUINA E LLMS
 
-- **Aaif Goose**
-  - [Goose](https://github.com/aaif-goose/goose)
+- **[aaif-goose]**
+  - [goose](https://github.com/aaif-goose/goose)
 
-- **Agentskills**
-  - [Agentskills](https://github.com/agentskills/agentskills)
+- **[anomalyco]**
+  - [opencode](https://github.com/anomalyco/opencode)
 
-- **Anomalyco**
-  - [Opencode](https://github.com/anomalyco/opencode)
+- **[carlosfab]**
+  - [sigmoidal_ai](https://github.com/carlosfab/sigmoidal_ai)
 
-- **Carlosfab**
-  - [Sigmoidal Ai](https://github.com/carlosfab/sigmoidal_ai)
+- **[cline]**
+  - [cline](https://github.com/cline/cline)
 
-- **Codebuffai**
-  - [Freebuff](https://github.com/CodebuffAI/freebuff)
+- **[crewAIInc]**
+  - 🥈 **[PRIORIDADE ALTA]** [crewAI](https://github.com/crewAIInc/crewAI) *(Framework líder para orquestração de agentes de IA autônomos e colaborativos)*
 
-- **Creativechain**
-  - [Crea](https://github.com/creativechain/crea)
+- **[datalab-to]**
+  - [marker](https://github.com/datalab-to/marker)
 
-- **Crewaiinc**
-  - 🏆 **[PRIORIDADE MÁXIMA]** [Crewai](https://github.com/crewAIInc/crewAI) *(O melhor ponto de partida prático para construir sistemas multi-agentes de IA hoje)*
+- **[deepseek-ai]**
+  - [awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent)
+  - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
-- **Datalab To**
-  - [Marker](https://github.com/datalab-to/marker)
+- **[docling-project]**
+  - 🥉 **[PRIORIDADE MÉDIA]** [docling](https://github.com/docling-project/docling) *(Ferramenta poderosa e precisa para conversão de documentos complexos em formatos estruturados)*
 
-- **Dbish**
-  - [Dispatchmail](https://github.com/dbish/DispatchMail)
+- **[firecrawl]**
+  - [firecrawl](https://github.com/firecrawl/firecrawl)
 
-- **Deepseek Ai**
-  - 🥈 **[PRIORIDADE ALTA]** [Deepseek Ai](https://github.com/deepseek-ai) *(Repositório oficial de um dos modelos mais relevantes do momento)*
-  - [Awesome Deepseek Agent](https://github.com/deepseek-ai/awesome-deepseek-agent)
-  - [Deepseek Harness](https://github.com/deepseek-ai/deepseek-harness)
+- **[janhq]**
+  - [jan](https://github.com/janhq/jan)
 
-- **Dietrichgebert**
-  - [Ponytail](https://github.com/DietrichGebert/ponytail)
+- **[MoonshotAI]**
+  - [kimi-code](https://github.com/MoonshotAI/kimi-code)
 
-- **Docling Project**
-  - [Docling](https://github.com/docling-project/docling)
-  - [Docling Project (GitHub Pages)](https://docling-project.github.io/docling)
+- **[nomic-ai]**
+  - [gpt4all](https://github.com/nomic-ai/gpt4all)
 
-- **Doxdk**
-  - [Deepseek Desktop](https://github.com/doxdk/deepseek-desktop)
+- **[open-webui]**
+  - 🏆 **[PRIORIDADE MÁXIMA]** [open-webui](https://github.com/open-webui/open-webui) *(Interface de usuário local, rica em recursos e auto-hospedável para diversos modelos LLM)*
 
-- **Fathah**
-  - [Hermes Desktop](https://github.com/fathah/hermes-desktop)
+- **[QwenLM]**
+  - [Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)
 
-- **Firecrawl**
-  - [Firecrawl](https://github.com/firecrawl/firecrawl)
+- **[RaphaelSampaio1]**
+  - [Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-](https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-)
 
-- **Fission Ai**
-  - [Openspec](https://github.com/Fission-AI/OpenSpec)
+- **[RooCodeInc]**
+  - [Roo-Code](https://github.com/RooCodeInc/Roo-Code)
 
-- **Flexpilot Ai**
-  - [Flexpilot Ide](https://github.com/flexpilot-ai/flexpilot-ide)
+- **[techjarves]**
+  - [ClaudeCode-Portable](https://github.com/techjarves/ClaudeCode-Portable)
+  - [Hermes-USB-Portable](https://github.com/techjarves/Hermes-USB-Portable)
+  - [OpenClaude-Portable](https://github.com/techjarves/OpenClaude-Portable)
+  - [Portable-AI-USB](https://github.com/techjarves/Portable-AI-USB)
+  - [Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio)
+  - [Uncensored-Local-Studio](https://github.com/techjarves/Uncensored-Local-Studio)
 
-- **Garrytan**
-  - [Gbrain](https://github.com/garrytan/gbrain)
-
-- **Gitlawb**
-  - [Openclaude](https://github.com/Gitlawb/openclaude)
-
-- **Google Ai Edge**
-  - [Gallery](https://github.com/google-ai-edge/gallery)
-
-- **Katrielmoses**
-  - [Mailaccess](https://github.com/KatrielMoses/MailAccess)
-
-- **Kenvandine**
-  - [Deepseek Desktop](https://github.com/kenvandine/deepseek-desktop)
-
-- **Lmstudio Ai**
-  - 🥉 **[PRIORIDADE MÉDIA]** [Lmstudio Ai](https://github.com/lmstudio-ai) *(Ferramenta essencial para rodar LLMs localmente de forma fácil)*
-
-- **Moonshotai**
-  - [Kimi Code](https://github.com/MoonshotAI/kimi-code)
-  - [Kimi Cli (GitHub Pages)](https://moonshotai.github.io/kimi-cli)
-
-- **Networkbm**
-  - [Pentest Deephat Ai](https://github.com/networkbm/pentest-deephat-ai)
-
-- **Nomic Ai**
-  - 🥈 **[PRIORIDADE ALTA]** [Gpt4All](https://github.com/nomic-ai/gpt4all) *(Ecossistema fantástico para IA local e privada)*
-
-- **Nousresearch**
-  - [Hermes Agent](https://github.com/nousresearch/hermes-agent)
-
-- **Qwenlm**
-  - [Qwen Agentworld](https://github.com/QwenLM/Qwen-AgentWorld)
-
-- **Raphaelsampaio1**
-  - [Analise Carteira De Acoes Com IA](https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-)
-
-- **Sickn33**
-  - [Agentic Awesome Skills](https://github.com/sickn33/agentic-awesome-skills#installation)
-
-- **Simplifaisoul**
-  - [Osiris](https://github.com/simplifaisoul/osiris)
-
-- **Tashfeenahmed**
-  - [Freellmapi](https://github.com/tashfeenahmed/freellmapi)
-
-- **Techjarves**
-  - [Hermes Usb Portable](https://github.com/techjarves/Hermes-USB-Portable)
-  - [Openclaude Portable](https://github.com/techjarves/OpenClaude-Portable)
-  - [Portable Ai Usb](https://github.com/techjarves/Portable-AI-USB)
-
-- **Trexpd**
-  - [Loterias Caixa](https://github.com/TrexPD/loterias_caixa)
-
-- **Xiaomimimo**
-  - [Mimo](https://github.com/xiaomimimo/mimo)
-  - [Mimo Code](https://github.com/XiaomiMiMo/MiMo-Code)
-
-- **Yxuansu**
-  - [Openalpaca](https://github.com/yxuansu/OpenAlpaca)
-
-- **Diversos (Links Externos)**
-  - [Ai Code Review (Topic)](https://github.com/topics/ai-code-review?l=html)
-  - [Osirisai.Live](https://osirisai.live)
-  - [Ponytail.Dev](https://ponytail.dev)
-  - [Spatialintelligence.Ai](https://spatialintelligence.ai)
+- **[xiaomimimo]**
+  - [mimo](https://github.com/xiaomimimo/mimo)
 
 ---
 
 ## 📂 OBSIDIAN, ZETTELKASTEN E PKM
 
-- **Dominikmayer**
-  - [Obsidian Note Id](https://github.com/dominikmayer/obsidian-note-id)
+- **[dominikmayer]**
+  - [obsidian-note-id](https://github.com/dominikmayer/obsidian-note-id)
 
-- **Groepl**
-  - 🏆 **[PRIORIDADE MÁXIMA]** [Obsidian Zettelkasten Starter Kit](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit) *(O melhor ponto de partida prático para aplicar o método Zettelkasten)*
+- **[groepl]**
+  - 🏆 **[PRIORIDADE MÁXIMA]** [Obsidian-Zettelkasten-Starter-Kit](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit) *(Ponto de partida estruturado e didático para implementar o método Zettelkasten)*
 
-- **Johansan**
-  - [Notebook Navigator](https://github.com/johansan/notebook-navigator)
+- **[liamcain]**
+  - 🥈 **[PRIORIDADE ALTA]** [obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) *(Plugin essencial e oficial para gestão de notas diárias, semanais e mensais)*
 
-- **Liamcain**
-  - 🥈 **[PRIORIDADE ALTA]** [Obsidian Periodic Notes](https://github.com/liamcain/obsidian-periodic-notes) *(Plugin essencial para diários e revisões periódicas)*
+- **[skellis46]**
+  - [slipbox](https://github.com/skellis46/slipbox)
 
-- **Luhaifeng666**
-  - [Obsidian Docs Sync](https://github.com/luhaifeng666/obsidian-docs-sync)
-
-- **Skellis46**
-  - 🥉 **[PRIORIDADE MÉDIA]** [Slipbox](https://github.com/skellis46/slipbox) *(Ótima referência sobre a teoria por trás do Zettelkasten)*
-
-- **Tfthacker**
-  - [Obsidian42 Strange New Worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds)
+- **[TfTHacker]**
+  - 🥉 **[PRIORIDADE MÉDIA]** [obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) *(Ferramenta avançada para visualização e análise de conexões no grafo de conhecimento)*
 
 ---
 
 ## 📂 OSINT, SEGURANÇA E PRIVACIDADE
 
-- **Bilawalsidhu**
-  - [Gods Eye View](https://github.com/bilawalsidhu/gods-eye-view)
+- **[celzero]**
+  - [rethink-app](https://github.com/celzero/rethink-app)
 
-- **Celzero**
-  - [Rethink App](https://github.com/celzero/rethink-app)
+- **[digininja]**
+  - [CeWL](https://github.com/digininja/CeWL)
 
-- **Digininja**
-  - [Cewl](https://github.com/digininja/CeWL)
+- **[EduardoFelype]**
+  - [Olho-de-Deus](https://github.com/EduardoFelype/Olho-de-Deus)
 
-- **Eduardofelype**
-  - [Olho De Deus](https://github.com/EduardoFelype/Olho-de-Deus)
+- **[GTFOBins]**
+  - 🥈 **[PRIORIDADE ALTA]** [GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) *(O catálogo definitivo e curado de binários Unix para bypass de restrições de segurança)*
 
-- **Gtfobins**
-  - 🏆 **[PRIORIDADE MÁXIMA]** [Gtfobins.Github.Io](https://github.com/GTFOBins/GTFOBins.github.io) *(A "bíblia" para entendimento de escalonamento de privilégios e uso de binários)*
+- **[hagezi]**
+  - 🏆 **[PRIORIDADE MÁXIMA]** [dns-blocklists](https://github.com/hagezi/dns-blocklists) *(A lista de bloqueio DNS mais abrangente e atualizada para proteção contra rastreamento e malware)*
 
-- **Hagezi**
-  - 🥈 **[PRIORIDADE ALTA]** [Dns Blocklists](https://github.com/hagezi/dns-blocklists) *(Listas de bloqueio de DNS mais respeitadas e atualizadas para privacidade)*
+- **[Kalyel473]**
+  - [Eyes-of-God](https://github.com/Kalyel473/Eyes-of-God)
+  - [JarvvisSecurity](https://github.com/Kalyel473/JarvvisSecurity)
+  - [OSINTCorrelator](https://github.com/Kalyel473/OSINTCorrelator)
 
-- **Kalyel473**
-  - [Eyes Of God](https://github.com/Kalyel473/Eyes-of-God)
-  - [Jarvvissecurity](https://github.com/Kalyel473/JarvvisSecurity)
-  - [Osintcorrelator](https://github.com/Kalyel473/OSINTCorrelator)
+- **[LeonardoCides]**
+  - [God-s-eye](https://github.com/LeonardoCides/God-s-eye)
 
-- **Openosint**
-  - [Openosint](https://github.com/OpenOSINT/OpenOSINT)
+- **[OpenOSINT]**
+  - [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT)
 
-- **Polhenarejos**
-  - [Pico Fido](https://github.com/polhenarejos/pico-fido)
+- **[polhenarejos]**
+  - [pico-fido](https://github.com/polhenarejos/pico-fido)
 
-- **Safing**
-  - 🥉 **[PRIORIDADE MÉDIA]** [Portmaster](https://github.com/safing/portmaster) *(Ferramenta de privacidade de rede de código aberto excepcional)*
+- **[safing]**
+  - 🥉 **[PRIORIDADE MÉDIA]** [portmaster](https://github.com/safing/portmaster) *(Suite de privacidade completa e fácil de usar para monitorar e bloquear conexões no sistema)*
 
-- **Ultrasecurity**
-  - [Storm Breaker](https://github.com/ultrasecurity/Storm-Breaker)
+- **[ultrasecurity]**
+  - [Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker)
 
-- **Zacheller**
-  - [Rockyou](https://github.com/zacheller/rockyou)
-
-- **Diversos (Links Externos)**
-  - [Godseye.World](https://godseye.world)
+- **[zacheller]**
+  - [rockyou](https://github.com/zacheller/rockyou)
 
 ---
 
 ## 📂 PRODUTIVIDADE, UTILITÁRIOS E SISTEMAS OPERACIONAIS
 
-- **Akascape**
-  - [Py Window Styles](https://github.com/Akascape/py-window-styles)
+- **[anyproto]**
+  - [anytype-ts](https://github.com/anyproto/anytype-ts)
 
-- **Anyproto**
-  - [Anytype Ts](https://github.com/anyproto/anytype-ts)
+- **[AppFlowy-IO]**
+  - [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-- **Appflowy Io**
-  - 🥈 **[PRIORIDADE ALTA]** [Appflowy](https://github.com/AppFlowy-IO/appflowy) *(A principal alternativa open-source ao Notion, vale estudar a arquitetura)*
+- **[beekeeper-studio]**
+  - [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-- **Beekeeper Studio**
-  - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
+- **[cake-tech]**
+  - [cake_wallet](https://github.com/cake-tech/cake_wallet)
 
-- **Cake Tech**
-  - [Cake Wallet](https://github.com/cake-tech/cake_wallet)
+- **[eikek]**
+  - [sharry](https://github.com/eikek/sharry)
 
-- **Eikek**
-  - [Sharry](https://github.com/eikek/sharry)
-  - [Sharry (GitHub Pages)](https://eikek.github.io/sharry)
+- **[jellyfin]**
+  - [jellyfin](https://github.com/jellyfin/jellyfin)
 
-- **Electron**
-  - [Electron](https://github.com/electron/electron)
+- **[jgraph]**
+  - [drawio](https://github.com/jgraph/drawio)
+  - [drawio-desktop](https://github.com/jgraph/drawio-desktop)
 
-- **Erickutcher**
-  - [Httpdownloader](https://github.com/erickutcher/httpdownloader)
+- **[jliljebl]**
+  - [flowblade](https://github.com/jliljebl/flowblade)
 
-- **Jellyfin**
-  - [Jellyfin](https://github.com/jellyfin/jellyfin)
+- **[keepassxreboot]**
+  - 🥉 **[PRIORIDADE MÉDIA]** [keepassxc](https://github.com/keepassxreboot/keepassxc) *(Gerenciador de senhas local, seguro e amplamente auditado)*
 
-- **Jliljebl**
-  - [Flowblade](https://github.com/jliljebl/flowblade)
+- **[koreader]**
+  - [koreader](https://github.com/koreader/koreader)
 
-- **Jqssun**
-  - [Android Titanium Browser](https://github.com/jqssun/android-titanium-browser)
+- **[laurent22]**
+  - 🥈 **[PRIORIDADE ALTA]** [joplin](https://github.com/laurent22/joplin) *(Aplicativo de notas de código aberto, com forte criptografia e sincronização flexível)*
 
-- **Koreader**
-  - [Koreader](https://github.com/koreader/koreader)
+- **[localsend]**
+  - [localsend](https://github.com/localsend/localsend)
 
-- **Laurent22**
-  - [Joplin](https://github.com/laurent22/joplin)
+- **[mierak]**
+  - [rmpc](https://github.com/mierak/rmpc)
 
-- **Localsend**
-  - 🏆 **[PRIORIDADE MÁXIMA]** [Localsend](https://github.com/localsend/localsend) *(Ferramenta universal, open-source e cross-platform que todo profissional deveria conhecer e usar)*
+- **[OpenArchive]**
+  - [Save-app-android](https://github.com/OpenArchive/Save-app-android)
 
-- **Mierak**
-  - [Rmpc](https://github.com/mierak/rmpc)
+- **[psygreg]**
+  - [linuxtoys](https://github.com/psygreg/linuxtoys)
 
-- **Openarchive**
-  - [Save App Android](https://github.com/OpenArchive/Save-app-android)
+- **[toeverything]**
+  - [affine](https://github.com/toeverything/affine)
 
-- **Psygreg**
-  - [Linuxtoys](https://github.com/psygreg/linuxtoys)
+- **[ungoogled-software]**
+  - [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 
-- **Thisisshihan**
-  - [Winamp](https://github.com/thisisshihan/Winamp)
-
-- **Toeverything**
-  - 🥉 **[PRIORIDADE MÉDIA]** [Affine](https://github.com/toeverything/affine) *(Suíte de produtividade de próxima geração, interessante para estudar tendências)*
+- **[yt-dlp]**
+  - 🏆 **[PRIORIDADE MÁXIMA]** [yt-dlp](https://github.com/yt-dlp/yt-dlp) *(O fork mais ativo e robusto do youtube-dl, essencial para download de mídia)*
 
 ---
 
 ## 📂 PROJETOS E TUTORIAIS DE PYTHON
 
-- **Caelum**
-  - 🥉 **[PRIORIDADE MÉDIA]** [Apostila Python Orientacao A Objetos](https://github.com/caelum/apostila-python-orientacao-a-objetos) *(Material clássico e sólido para a transição do básico para o intermediário)*
+- **[caelum]**
+  - [apostila-python-orientacao-a-objetos](https://github.com/caelum/apostila-python-orientacao-a-objetos)
 
-- **Dunossauro**
-  - 🏆 **[PRIORIDADE MÁXIMA]** [Live De Python](https://github.com/dunossauro/live-de-python) *(Recurso didático excepcional, profundo e em português. Ponto de partida ideal)*
-  - 🥈 **[PRIORIDADE ALTA]** [Python Funcional](https://github.com/dunossauro/python-funcional)
+- **[dunossauro]**
+  - 🏆 **[PRIORIDADE MÁXIMA]** [live-de-python](https://github.com/dunossauro/live-de-python) *(O curso mais didático e completo sobre Python e ecossistema web em português)*
+  - [python-funcional](https://github.com/dunossauro/python-funcional)
 
-- **Techwithtim**
-  - 🥈 **[PRIORIDADE ALTA]** [5 Python Projects For Beginners](https://github.com/techwithtim/5-Python-Projects-For-Beginners) *(Melhor conjunto prático para fixar a sintaxe e lógica inicial)*
-  - [3 Mini Python Projects](https://github.com/techwithtim/3-Mini-Python-Projects)
-  - [3 Mini Python Projects For Intermediates](https://github.com/techwithtim/3-Mini-Python-Projects-For-Intermediates)
-  - [Python Aim Trainer](https://github.com/techwithtim/Python-Aim-Trainer)
-  - [Python Beginner Automation Projects](https://github.com/techwithtim/Python-Beginner-Automation-Projects)
-  - [Python Scripting Project](https://github.com/techwithtim/Python-Scripting-Project)
-  - [Python Slot Machine](https://github.com/techwithtim/Python-Slot-Machine)
-  - [Turtle Racing V2](https://github.com/techwithtim/Turtle-Racing-V2)
-  - [Wpm Typing Test](https://github.com/techwithtim/WPM_Typing_Test)
+- **[ImKennyYip]**
+  - [calculator-python](https://github.com/ImKennyYip/calculator-python)
+  - [python-oop](https://github.com/ImKennyYip/python-oop)
+
+- **[marcusesa]**
+  - [loteria-api](https://github.com/marcusesa/loteria-api)
+
+- **[python]**
+  - 🥈 **[PRIORIDADE ALTA]** [cpython](https://github.com/python/cpython) *(O repositório oficial da implementação de referência da linguagem Python)*
+  - [pymanager](https://github.com/python/pymanager)
+
+- **[rafaballerini]**
+  - [AssistentePessoal](https://github.com/rafaballerini/AssistentePessoal)
+  - [GitTutorial](https://github.com/rafaballerini/GitTutorial)
+
+- **[techwithtim]**
+  - [3-Mini-Python-Projects](https://github.com/techwithtim/3-Mini-Python-Projects)
+  - [3-Mini-Python-Projects-For-Intermediates](https://github.com/techwithtim/3-Mini-Python-Projects-For-Intermediates)
+  - [5-Python-Projects-For-Beginners](https://github.com/techwithtim/5-Python-Projects-For-Beginners)
+  - [Python-Aim-Trainer](https://github.com/techwithtim/Python-Aim-Trainer)
+  - [Python-Beginner-Automation-Projects](https://github.com/techwithtim/Python-Beginner-Automation-Projects)
+
+- **[TrexPD]**
+  - [loterias_caixa](https://github.com/TrexPD/loterias_caixa)
 
 ---
 
 ## 📂 RECURSOS, LIVROS E TEMPLATES
 
-- **Ahmadjoya**
-  - [Github Readme Stats](https://github.com/ahmadjoya/github-readme-stats)
+- **[alexandresanlim]**
+  - [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
-- **Alexandresanlim**
-  - [Badges4 Readme.Md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+- **[alvarofpp]**
+  - [validate-docbr](https://github.com/alvarofpp/validate-docbr)
 
-- **Allbertsoarez**
-  - [Template Portfolio](https://github.com/allbertsoarez/template_portfolio)
+- **[badges]**
+  - 🥈 **[PRIORIDADE ALTA]** [shields](https://github.com/badges/shields) *(O serviço padrão da indústria para geração de badges (selos) dinâmicos e estáticos)*
 
-- **Alvarofpp**
-  - 🥉 **[PRIORIDADE MÉDIA]** [Validate Docbr](https://github.com/alvarofpp/validate-docbr) *(Biblioteca extremamente útil e específica para validação de documentos brasileiros)*
-  - [Validate Docbr (GitHub Pages)](https://alvarofpp.github.io/validate-docbr)
+- **[carlosfab]**
+  - 🥉 **[PRIORIDADE MÉDIA]** [template_portfolio](https://github.com/carlosfab/template_portfolio) *(Template limpo e bem estruturado para criação de portfólios profissionais no GitHub)*
 
-- **Anuraghazra**
-  - 🥈 **[PRIORIDADE ALTA]** [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) *(Essencial para quem quer profissionalizar o perfil no GitHub)*
+- **[DenverCoder1]**
+  - [custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 
-- **Badges**
-  - [Shields](https://github.com/badges/shields)
+- **[GitbookIO]**
+  - [gitbook](https://github.com/GitbookIO/gitbook)
 
-- **Carlosfab**
-  - [Template Portfolio](https://github.com/carlosfab/template_portfolio)
+- **[tandpfun]**
+  - [skill-icons](https://github.com/tandpfun/skill-icons)
 
-- **Compnew2006**
-  - [Spec Kit Antigravity Skills](https://github.com/compnew2006/Spec-Kit-Antigravity-Skills)
+- **[USP-ZP]**
+  - [document-template](https://github.com/USP-ZP/document-template)
 
-- **Denvercoder1**
-  - [Custom Icon Badges](https://github.com/DenverCoder1/custom-icon-badges)
-
-- **Kayokg**
-  - [Bibliotecadev](https://github.com/KAYOKG/BibliotecaDev)
-
-- **Nvidia**
-  - [Skillspector](https://github.com/nvidia/skillspector)
-
-- **Openaec Foundation**
-  - [Open Pdf Studio](https://github.com/OpenAEC-Foundation/open-pdf-studio)
-
-- **Pyportfolio**
-  - [Pyportfolioopt](https://github.com/PyPortfolio/PyPortfolioOpt)
-
-- **Tandpfun**
-  - [Skill Icons](https://github.com/tandpfun/skill-icons)
-
-- **Usp Zp**
-  - [Document Template](https://github.com/USP-ZP/document-template)
-
-- **Vercel Labs**
-  - [Skills](https://github.com/vercel-labs/skills)
-
-- **Virgiliojr94**
-  - [Book To Skill](https://github.com/virgiliojr94/book-to-skill)
-
-- **Vinta**
-  - 🏆 **[PRIORIDADE MÁXIMA]** [Awesome Python](https://github.com/vinta/awesome-python) *(A lista curada definitiva. Sempre que precisar de uma biblioteca Python, comece por aqui)*
-
-- **Diversos (Links Externos/Topics)**
-  - [Actions (Marketplace)](https://github.com/marketplace/actions/badges-readme)
-  - [Pdf To Markdown (Topic)](https://github.com/topics/pdf-to-markdown?o=asc&s=forks)
-  - [Skillicons.Dev](https://skillicons.dev)
+- **[vinta]**
+  - 🏆 **[PRIORIDADE MÁXIMA]** [awesome-python](https://github.com/vinta/awesome-python) *(A lista curada mais famosa e abrangente de frameworks, bibliotecas e recursos Python)*
