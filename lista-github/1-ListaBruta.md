@@ -179,7 +179,6 @@ https://github.com/apurvsinghgautam/robin
 https://github.com/asgeirtj
 https://github.com/rafaballerini/AssistentePessoal/tree/main/estudos
 https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/hermes.md
-https://github.com/beekeeper-studio/beekeeper-studio/
 https://github.com/beekeeper-studio/beekeeper-studio/blob/master/README.pt-br.md
 https://github.com/KAYOKG/BibliotecaDev/blob/main/LivrosDev/Agile%20Retrospectives%20-%20Making%20Good%20Teams%20Great%20(Pragmatic%20Programmers)%20-%20Autor%20(Esther%20Derby).pdf
 https://github.com/KAYOKG/BibliotecaDev/blob/main/LivrosDev/Algoritmos%20-%20Teoria%20e%20Pr%C3%A1tica%20-%20Autor%20(Thomas%20Cormen).pdf
@@ -210,7 +209,6 @@ https://github.com/eduardo-ono
 https://github.com/eduardo-ono?tab=repositories
 https://github.com/eduardoranucci/validador-cnpj-cpf
 https://github.com/FatihMakes/Mark-LI
-https://github.com/Fission-AI/OpenSpec/
 https://github.com/forem
 https://github.com/forrestknight
 https://github.com/francescopace/espectre
@@ -219,7 +217,6 @@ https://github.com/eduardo-ono/Fundamentos-de-Matematica/tree/main/conteudo/13-g
 https://github.com/eduardo-ono/Fundamentos-de-Matematica/tree/main/conteudo/13-geometria-analitica/conteudo/equacao-da-circunferencia
 https://github.com/ahmadjoya/github-readme-stats/blob/master/docs/readme_pt-BR.md
 https://github.com/github/spec-kit
-https://github.com/Gitlawb/openclaude
 https://github.com/gligen/GLIGEN
 https://github.com/GoogleCloudPlatform/knowledge-catalog
 https://github.com/hagezi/dns-blocklists#fake
@@ -235,14 +232,12 @@ https://github.com/janicicpredrag/gclc
 https://github.com/jorgerojas26/lazysql
 https://github.com/JRonca
 https://github.com/JustVugg/colibri
-https://github.com/Kalyel473/OSINTCorrelator/
 https://github.com/kamillyvm
 https://github.com/Karib0u/rustinel
 https://github.com/keepassxreboot/keepassxc
 https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf
 https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/toolbox/mdcode/demo
 https://github.com/Larissakich/Larissakich
-https://github.com/laurent22/joplin
 https://github.com/lazyvim/lazyvim
 https://github.com/dunossauro/live-de-python/tree/main/codigo
 https://github.com/dunossauro/live-de-python/tree/main/codigo/Live001
@@ -261,7 +256,6 @@ https://github.com/microsoft/markitdown
 https://github.com/microsoft/markitdown/tree/main
 https://github.com/modelcontextprotocol/servers
 https://github.com/can1357/oh-my-pi/issues/3351
-https://github.com/NousResearch/hermes-agent
 https://github.com/can1357/oh-my-pi/tree/main/scripts
 https://github.com/open-jarvis/OpenJarvis
 https://github.com/open-webui/open-webui
@@ -316,7 +310,6 @@ https://github.com/stats-organization/github-stats-extended
 https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset/tree/v1.2
 https://github.com/asgeirtj/system_prompts_leaks/blob/main/README.md
 https://github.com/techjarves/Uncensored-Local-Studio
-https://github.com/techwithtim/5-Python-Projects-For-Beginners/
 https://github.com/carlosfab/template_portfolio/blob/master/README.md
 https://github.com/thomasbuilds/Spectre
 https://github.com/TRC-Loop/Pelton
@@ -331,15 +324,12 @@ https://github.com/yt-dlp/yt-dlp#download-options
 https://github.com/yt-dlp/yt-dlp#update
 https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#installation
 https://github.com/zacheller
-https://github.com/techjarves/OpenClaude-Portable
 https://github.com/python/cpython/tree/main
-https://github.com/mrdoob/three.js/
 https://github.com/schemahero/schemahero
 https://github.com/harry0703/MoneyPrinterTurbo/blob/main/README-en.md
 https://github.com/TableProApp/TablePro
 https://github.com/fleetbase/fleetbase
 https://github.com/dyang886/Game-Cheats-Manager
-https://github.com/voideditor/void-forks/
 https://github.com/honkit/honkit
 https://github.com/naorsabag/openhop
 https://github.com/d2lang/d2
