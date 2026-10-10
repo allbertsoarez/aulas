@@ -21,8 +21,7 @@ date: 2026-10-10
 - **[arthurgregorio]**
   - [web-budget](https://github.com/arthurgregorio/web-budget)
 
-- **[codigoquant]**
-  - [python_para_investimentos](https://github.com/codigoquant/python_para_investimentos)
+- [Python_para_investimentos](https://github.com/codigoquant/python_para_investimentos)
 
 - **[eduardo-ono]**
   - [Fundamentos-de-Matematica](https://github.com/eduardo-ono/Fundamentos-de-Matematica)
