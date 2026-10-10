@@ -196,9 +196,6 @@ date: 2026-10-10
 - **[polhenarejos]**
   - [pico-fido](https://github.com/polhenarejos/pico-fido)
 
-- **[safing]**
-  - 🥉 **[PRIORIDADE MÉDIA]** [portmaster](https://github.com/safing/portmaster) *(Suite de privacidade completa e fácil de usar para monitorar e bloquear conexões no sistema)*
-
 - **[ultrasecurity]**
   - [Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker)
 
