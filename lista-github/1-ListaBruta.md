@@ -96,7 +96,7 @@ https://github.com/Kalyel473/JarvvisSecurity
 https://github.com/Kalyel473/OSINTCorrelator
 https://github.com/OpenOSINT/OpenOSINT
 https://github.com/polhenarejos/pico-fido
-https://github.com/safing/portmaster
+
 https://github.com/ultrasecurity/Storm-Breaker
 https://github.com/zacheller/rockyou
 https://github.com/Akascape/py-window-styles
