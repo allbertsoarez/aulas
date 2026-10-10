@@ -34,9 +34,6 @@ date: 2026-10-10
 - **[ManimCommunity]**
   - 🥈 **[PRIORIDADE ALTA]** [manim](https://github.com/ManimCommunity/manim) *(A biblioteca padrão-ouro para animações matemáticas e de dados em Python)*
 
-- **[quarto-dev]**
-  - [quarto-cli](https://github.com/quarto-dev/quarto-cli)
-
 - **[spyder-ide]**
   - [spyder](https://github.com/spyder-ide/spyder)
 
