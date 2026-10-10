@@ -76,20 +76,9 @@ date: 2026-10-10
 - **[lazyvim]**
   - [lazyvim](https://github.com/lazyvim/lazyvim)
 
-- **[microsoft]**
-  - 🏆 **[PRIORIDADE MÁXIMA]** [vscode](https://github.com/microsoft/vscode) *(O editor de código mais popular e extensível do mercado, base de grande parte do ecossistema)*
-
 - **[modular]**
   - [modular](https://github.com/modular/modular)
 
-- **[neovim]**
-  - [neovim](https://github.com/neovim/neovim)
-
-- **[vscode-neovim]**
-  - [vscode-neovim](https://github.com/vscode-neovim/vscode-neovim)
-
-- **[VSCodium]**
-  - [vscodium](https://github.com/VSCodium/vscodium)
 
 ---
 
