@@ -7,5 +7,12 @@ Ghidra é um framework de engenharia reversa de software (SRE).
 - https://pt.wikipedia.org/wiki/Ghidra
 - https://github.com/NationalSecurityAgency/ghidrahttps://www.google.com/search?q=Ghidra&oq=Ghidra&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIJCAgQABgKGIAEMgcICRAAGIAE0gEJMTEyN2owajE1qAIIsAIB8QUJcN3R8Dm4yg&sourceid=chrome&ie=UTF-8
 - https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass
+- https://github.com/NationalSecurityAgency/ghidra/blob/master/GhidraDocs/GettingStarted.md
 - https://htmlpreview.github.io/?https://github.com/NationalSecurityAgency/ghidra/blob/stable/GhidraDocs/CheatSheet.html
 - https://sourceforge.net/projects/ghidra.mirror/
+
+  ## Cursos e Vídeo Aulas
+
+  - [Curso de Ghidra](https://www.youtube.com/watch?v=af0kbx8KuWo&list=PLIfZMtpPYFP5orPxcOZBn5cLOu7WG8xuF)
+  - [Guia de Instalação](https://seanthegeek.net/posts/ghidra-setup-guide/)
+  - 
