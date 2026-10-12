@@ -98,3 +98,8 @@ Servidor doméstico para auto hospedagem com uma loja de aplicativos. Compre um 
 - https://github.com/getumbrel/umbrel
 - https://diolinux.com.br/tutoriais/seu-servidor-em-casa-com-umbrel-os.html
 - https://blog.areabitcoin.com.br/node-umbrel/
+
+---
+## CalyxOS
+
+- https://calyxos.org/
