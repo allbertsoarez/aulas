@@ -11,7 +11,7 @@
 
 - https://github.com/storytold/filmcraft
 ---
-## Lightcraft(https://getartcraft.com/apps/lightcraft)
+## [Lightcraft](https://getartcraft.com/apps/lightcraft)
 
 - https://github.com/storytold/lightcraft
 
