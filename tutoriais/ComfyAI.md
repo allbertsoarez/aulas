@@ -1,4 +1,4 @@
-# Comfy AI
+# [Comfy AI](https://comfy.org/download/)
 
 - https://comfy.org/
 - https://comfyui.org/
