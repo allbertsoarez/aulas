@@ -4,3 +4,4 @@
 - https://podman-desktop.io/
 - https://medium.com/@habbema/apresentando-o-podman-f30f3bc23493
 - https://zup.com.br/blog/o-que-e-podman/
+- https://www.redhat.com/pt-br/topics/containers/what-is-podman
