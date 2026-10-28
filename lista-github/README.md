@@ -223,9 +223,6 @@ date: 2026-10-10
 - **[psygreg]**
   - [linuxtoys](https://github.com/psygreg/linuxtoys)
 
-- **[toeverything]**
-  - [affine](https://github.com/toeverything/affine)
-
 - **[ungoogled-software]**
   - [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 
