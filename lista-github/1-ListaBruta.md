@@ -111,7 +111,7 @@ https://github.com/erickutcher/httpdownloader
 https://github.com/jqssun/android-titanium-browser
 
 https://github.com/laurent22/joplin
-https://github.com/localsend/localsend
+
 https://github.com/mierak/rmpc
 https://github.com/OpenArchive/Save-app-android
 https://github.com/psygreg/linuxtoys
