@@ -1,5 +1,6 @@
-# Anytype
+# [Anytype](https://anytype.io/)
 Aplicativo de produtividade parecido com Notion porém é open source
 
-- https://anytype.io/
+- https://github.com/anyproto/anytype-ts
 - https://github.com/anyproto/anytype-ts/tree/develop
+
