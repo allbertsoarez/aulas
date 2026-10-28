@@ -372,7 +372,7 @@ https://osirisai.live
 https://ponytail.dev
 https://spatialintelligence.ai
 https://moonshotai.github.io/kimi-cli
-https://docling-project.github.io/docling
+
 https://ranaroussi.github.io/yfinance
 https://wilsonfreitas.github.io/python-bcb
 https://stackblitz-labs.github.io/bolt.diy
