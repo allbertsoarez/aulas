@@ -86,9 +86,6 @@ date: 2026-10-10
 - **[cline]**
   - [cline](https://github.com/cline/cline)
 
-- **[crewAIInc]**
-  - 🥈 **[PRIORIDADE ALTA]** [crewAI](https://github.com/crewAIInc/crewAI) *(Framework líder para orquestração de agentes de IA autônomos e colaborativos)*
-
 - **[datalab-to]**
   - [marker](https://github.com/datalab-to/marker)
 
