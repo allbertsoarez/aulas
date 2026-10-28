@@ -106,7 +106,7 @@ date: 2026-10-10
 
 - **[techjarves]**
   - [ClaudeCode-Portable](https://github.com/techjarves/ClaudeCode-Portable)
-  - [Hermes-USB-Portable](https://github.com/techjarves/Hermes-USB-Portable)
+ 
   - [OpenClaude-Portable](https://github.com/techjarves/OpenClaude-Portable)
   - [Portable-AI-USB](https://github.com/techjarves/Portable-AI-USB)
   - [Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio)
