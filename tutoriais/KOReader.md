@@ -1,4 +1,4 @@
-# KOReader
+# [KOReader](https://koreader.rocks/)
 Aplicativo leitor de e-books com suporte para PDF, DjVu, EPUB, FB2 e muitos outros formatos, rodando em dispositivos Cervantes, Kindle, Kobo, PocketBook e Android
 
 - https://koreader.rocks/
