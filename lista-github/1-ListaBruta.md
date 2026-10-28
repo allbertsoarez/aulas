@@ -83,7 +83,7 @@ https://github.com/johansan/notebook-navigator
 
 https://github.com/luhaifeng666/obsidian-docs-sync
 https://github.com/skellis46/slipbox
-https://github.com/TfTHacker/obsidian42-strange-new-worlds
+
 https://github.com/bilawalsidhu/gods-eye-view
 https://github.com/celzero/rethink-app
 https://github.com/digininja/CeWL
