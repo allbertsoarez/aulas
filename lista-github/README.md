@@ -205,9 +205,6 @@ date: 2026-10-10
 - **[AppFlowy-IO]**
   - [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-- **[cake-tech]**
-  - [cake_wallet](https://github.com/cake-tech/cake_wallet)
-
 - **[eikek]**
   - [sharry](https://github.com/eikek/sharry)
 
