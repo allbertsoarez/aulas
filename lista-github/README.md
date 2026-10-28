@@ -211,9 +211,6 @@ date: 2026-10-10
 - **[eikek]**
   - [sharry](https://github.com/eikek/sharry)
 
-- **[jliljebl]**
-  - [flowblade](https://github.com/jliljebl/flowblade)
-
 - **[keepassxreboot]**
   - 🥉 **[PRIORIDADE MÉDIA]** [keepassxc](https://github.com/keepassxreboot/keepassxc) *(Gerenciador de senhas local, seguro e amplamente auditado)*
 
