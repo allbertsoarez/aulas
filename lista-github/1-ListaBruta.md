@@ -106,7 +106,7 @@ https://github.com/cake-tech/cake_wallet
 https://github.com/eikek/sharry
 https://github.com/electron/electron
 https://github.com/erickutcher/httpdownloader
-https://github.com/jellyfin/jellyfin
+
 https://github.com/jliljebl/flowblade
 https://github.com/jqssun/android-titanium-browser
 https://github.com/koreader/koreader
