@@ -233,7 +233,7 @@ https://github.com/JRonca
 https://github.com/JustVugg/colibri
 https://github.com/kamillyvm
 https://github.com/Karib0u/rustinel
-https://github.com/keepassxreboot/keepassxc
+
 https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf
 https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/toolbox/mdcode/demo
 https://github.com/Larissakich/Larissakich
