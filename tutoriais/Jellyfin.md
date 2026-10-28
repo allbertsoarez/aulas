@@ -1,7 +1,6 @@
-# Jellyfin
+# [Jellyfin](https://jellyfin.org/)
  O Sistema de Mídia de Software Livre
 
-- https://jellyfin.org/
 - https://en.wikipedia.org/wiki/Jellyfin
 - https://jellyfin.org/downloads/server
 - https://github.com/jellyfin/jellyfin
