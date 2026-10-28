@@ -51,7 +51,7 @@ https://github.com/DietrichGebert/ponytail
 
 
 https://github.com/fathah/hermes-desktop
-https://github.com/firecrawl/firecrawl
+
 https://github.com/Fission-AI/OpenSpec
 https://github.com/flexpilot-ai/flexpilot-ide
 https://github.com/garrytan/gbrain
