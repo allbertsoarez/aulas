@@ -80,7 +80,7 @@ https://github.com/topics/ai-code-review?l=html
 
 
 https://github.com/johansan/notebook-navigator
-https://github.com/liamcain/obsidian-periodic-notes
+
 https://github.com/luhaifeng666/obsidian-docs-sync
 https://github.com/skellis46/slipbox
 https://github.com/TfTHacker/obsidian42-strange-new-worlds
