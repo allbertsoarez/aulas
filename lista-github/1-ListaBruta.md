@@ -286,7 +286,7 @@ https://github.com/adventdevinc/kudu/releases
 
 https://github.com/Stuey3D/VibeSDR/releases
 https://github.com/reorproject/reor
-https://github.com/yt-dlp/yt-dlp/issues/16132
+
 https://github.com/zacheller/rockyou/blob/master/README.md
 https://github.com/zacheller/rockyou/blob/master/rockyou.txt.tar.gz
 https://github.com/RooCodeInc/Roo-Code
@@ -316,10 +316,10 @@ https://github.com/uniclipboard/uniclipboard
 https://github.com/vigolium/vigolium
 https://github.com/vitorpamplona/amethyst
 https://github.com/techwithtim/WPM_Typing_Test/blob/main/tutorial.py
-https://github.com/yt-dlp/yt-dlp
-https://github.com/yt-dlp/yt-dlp#download-options
-https://github.com/yt-dlp/yt-dlp#update
-https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#installation
+
+
+
+
 https://github.com/zacheller
 https://github.com/python/cpython/tree/main
 https://github.com/schemahero/schemahero
