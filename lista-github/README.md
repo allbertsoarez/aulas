@@ -211,9 +211,6 @@ date: 2026-10-10
 - **[eikek]**
   - [sharry](https://github.com/eikek/sharry)
 
-- **[jellyfin]**
-  - [jellyfin](https://github.com/jellyfin/jellyfin)
-
 - **[jliljebl]**
   - [flowblade](https://github.com/jliljebl/flowblade)
 
