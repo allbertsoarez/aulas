@@ -102,7 +102,7 @@ https://github.com/Akascape/py-window-styles
 
 https://github.com/AppFlowy-IO/appflowy
 
-https://github.com/cake-tech/cake_wallet
+
 https://github.com/eikek/sharry
 https://github.com/electron/electron
 https://github.com/erickutcher/httpdownloader
