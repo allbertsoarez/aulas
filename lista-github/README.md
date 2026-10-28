@@ -214,10 +214,6 @@ date: 2026-10-10
 - **[jellyfin]**
   - [jellyfin](https://github.com/jellyfin/jellyfin)
 
-- **[jgraph]**
-  - [drawio](https://github.com/jgraph/drawio)
-  - [drawio-desktop](https://github.com/jgraph/drawio-desktop)
-
 - **[jliljebl]**
   - [flowblade](https://github.com/jliljebl/flowblade)
 
