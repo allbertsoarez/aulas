@@ -211,8 +211,6 @@ date: 2026-10-10
 - **[eikek]**
   - [sharry](https://github.com/eikek/sharry)
 
-- **[keepassxreboot]**
-  - 🥉 **[PRIORIDADE MÉDIA]** [keepassxc](https://github.com/keepassxreboot/keepassxc) *(Gerenciador de senhas local, seguro e amplamente auditado)*
 
 - **[koreader]**
   - [koreader](https://github.com/koreader/koreader)
