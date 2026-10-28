@@ -62,7 +62,7 @@ https://github.com/KatrielMoses/MailAccess
 https://github.com/lmstudio-ai
 https://github.com/MoonshotAI/kimi-code
 https://github.com/networkbm/pentest-deephat-ai
-https://github.com/nomic-ai/gpt4all
+
 https://github.com/nousresearch/hermes-agent
 https://github.com/QwenLM/Qwen-AgentWorld
 https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-
