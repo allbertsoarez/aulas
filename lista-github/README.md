@@ -214,9 +214,6 @@ date: 2026-10-10
 - **[laurent22]**
   - 🥈 **[PRIORIDADE ALTA]** [joplin](https://github.com/laurent22/joplin) *(Aplicativo de notas de código aberto, com forte criptografia e sincronização flexível)*
 
-- **[localsend]**
-  - [localsend](https://github.com/localsend/localsend)
-
 - **[mierak]**
   - [rmpc](https://github.com/mierak/rmpc)
 
