@@ -45,5 +45,6 @@ Baixa live desde o início
 - https://plus.diolinux.com.br/t/interface-grafica-para-yt-dlp-youtube-downloder/59674
 - https://manualdousuario.net/baixar-videos-youtube-gratis-cli/
 - https://github.com/kannagi0303/yt-dlp-gui
+
 - https://oleksis.github.io/youtube-dl-gui/
 
