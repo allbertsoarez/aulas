@@ -86,9 +86,6 @@ date: 2026-10-10
 - **[aaif-goose]**
   - [goose](https://github.com/aaif-goose/goose)
 
-- **[anomalyco]**
-  - [opencode](https://github.com/anomalyco/opencode)
-
 - **[carlosfab]**
   - [sigmoidal_ai](https://github.com/carlosfab/sigmoidal_ai)
 
