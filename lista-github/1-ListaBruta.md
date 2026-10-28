@@ -69,7 +69,7 @@ https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Ar
 https://github.com/sickn33/agentic-awesome-skills
 https://github.com/simplifaisoul/osiris
 https://github.com/tashfeenahmed/freellmapi
-https://github.com/techjarves/Hermes-USB-Portable
+
 https://github.com/techjarves/OpenClaude-Portable
 https://github.com/techjarves/Portable-AI-USB
 https://github.com/TrexPD/loterias_caixa
