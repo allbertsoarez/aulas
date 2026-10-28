@@ -1,6 +1,5 @@
 ## [Hermes Agent](https://hermesone.org/)
 
-- https://hermes-agent.org/
 - https://hermes-agent.nousresearch.com/
 - https://hermes-agent.nousresearch.com/desktop
 - https://hermes-agent.nousresearch.com/docs/user-guide/cli
