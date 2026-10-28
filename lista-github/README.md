@@ -208,9 +208,6 @@ date: 2026-10-10
 - **[AppFlowy-IO]**
   - [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-- **[beekeeper-studio]**
-  - [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
-
 - **[cake-tech]**
   - [cake_wallet](https://github.com/cake-tech/cake_wallet)
 
