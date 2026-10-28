@@ -48,7 +48,7 @@ https://github.com/dbish/DispatchMail
 
 
 https://github.com/DietrichGebert/ponytail
-https://github.com/docling-project/docling
+
 
 https://github.com/fathah/hermes-desktop
 https://github.com/firecrawl/firecrawl
