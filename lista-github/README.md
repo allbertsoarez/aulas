@@ -226,9 +226,6 @@ date: 2026-10-10
 - **[ungoogled-software]**
   - [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 
-- **[yt-dlp]**
-  - 🏆 **[PRIORIDADE MÁXIMA]** [yt-dlp](https://github.com/yt-dlp/yt-dlp) *(O fork mais ativo e robusto do youtube-dl, essencial para download de mídia)*
-
 ---
 
 ## 📂 PROJETOS E TUTORIAIS DE PYTHON
