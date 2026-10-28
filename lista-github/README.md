@@ -92,9 +92,6 @@ date: 2026-10-10
 - **[MoonshotAI]**
   - [kimi-code](https://github.com/MoonshotAI/kimi-code)
 
-- **[nomic-ai]**
-  - [gpt4all](https://github.com/nomic-ai/gpt4all)
-
 - **[open-webui]**
   - 🏆 **[PRIORIDADE MÁXIMA]** [open-webui](https://github.com/open-webui/open-webui) *(Interface de usuário local, rica em recursos e auto-hospedável para diversos modelos LLM)*
 
