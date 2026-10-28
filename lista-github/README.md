@@ -119,8 +119,6 @@ date: 2026-10-10
 
 ## 📂 OBSIDIAN, ZETTELKASTEN E PKM
 
-- **[groepl]**
-  - 🏆 **[PRIORIDADE MÁXIMA]** [Obsidian-Zettelkasten-Starter-Kit](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit) *(Ponto de partida estruturado e didático para implementar o método Zettelkasten)*
 
 - **[liamcain]**
   - 🥈 **[PRIORIDADE ALTA]** [obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) *(Plugin essencial e oficial para gestão de notas diárias, semanais e mensais)*
