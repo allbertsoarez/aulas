@@ -226,7 +226,7 @@ https://github.com/imputnet/helium
 https://github.com/ifpb/intin-poo/tree/master/assets
 https://github.com/ifpb/intin-poo/tree/master/docs
 https://github.com/jamiepine/voicebox
-https://github.com/janhq/jan
+
 https://github.com/janicicpredrag/gclc
 https://github.com/jorgerojas26/lazysql
 https://github.com/JRonca
