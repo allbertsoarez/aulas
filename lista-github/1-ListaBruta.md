@@ -102,7 +102,7 @@ https://github.com/zacheller/rockyou
 https://github.com/Akascape/py-window-styles
 https://github.com/anyproto/anytype-ts
 https://github.com/AppFlowy-IO/appflowy
-https://github.com/beekeeper-studio/beekeeper-studio
+
 https://github.com/cake-tech/cake_wallet
 https://github.com/eikek/sharry
 https://github.com/electron/electron
@@ -179,7 +179,7 @@ https://github.com/apurvsinghgautam/robin
 https://github.com/asgeirtj
 https://github.com/rafaballerini/AssistentePessoal/tree/main/estudos
 https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/hermes.md
-https://github.com/beekeeper-studio/beekeeper-studio/blob/master/README.pt-br.md
+
 https://github.com/KAYOKG/BibliotecaDev/blob/main/LivrosDev/Agile%20Retrospectives%20-%20Making%20Good%20Teams%20Great%20(Pragmatic%20Programmers)%20-%20Autor%20(Esther%20Derby).pdf
 https://github.com/KAYOKG/BibliotecaDev/blob/main/LivrosDev/Algoritmos%20-%20Teoria%20e%20Pr%C3%A1tica%20-%20Autor%20(Thomas%20Cormen).pdf
 https://github.com/blueprint-freespeech/ricochet-refresh
