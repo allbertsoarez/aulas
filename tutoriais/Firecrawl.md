@@ -1,7 +1,7 @@
-# Firecrawl
+# [Firecrawl](https://www.firecrawl.dev/)
 🔥 Transforme sites inteiros em dados estruturados ou markdown prontos para LLM. Rastreie, rastreie e extraia com uma única API.
 
-- https://www.firecrawl.dev/
+- https://github.com/firecrawl/firecrawl
 - https://github.com/mendableai/firecrawl
 - https://pypi.org/project/firecrawl-py/
 
