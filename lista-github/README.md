@@ -89,10 +89,6 @@ date: 2026-10-10
 - **[datalab-to]**
   - [marker](https://github.com/datalab-to/marker)
 
-
-- **[firecrawl]**
-  - [firecrawl](https://github.com/firecrawl/firecrawl)
-
 - **[janhq]**
   - [jan](https://github.com/janhq/jan)
 
