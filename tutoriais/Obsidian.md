@@ -12,6 +12,8 @@ O aplicativo tem como objetivo ajudar você a organizar suas anotações e para 
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
 - https://community.obsidian.md/plugins/note-id
 - https://github.com/dominikmayer/obsidian-note-id
+- https://tfthacker.com/SNW
+- https://github.com/TfTHacker/obsidian42-strange-new-worlds
 
 #### Mais Informações
 - https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit
