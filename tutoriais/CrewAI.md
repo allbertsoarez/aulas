@@ -1,8 +1,7 @@
-# CrewAI
+# [CrewAI](https://www.crewai.com/)
 É uma estrutura Python enxuta e extremamente rápida, construída inteiramente do zero, completamente independente do LangChain ou de outras estruturas de agentes.
 
 ## CrewAI
--  https://www.crewai.com/
 - https://www.crewai.com/open-source
 - https://docs.crewai.com/installation
 
