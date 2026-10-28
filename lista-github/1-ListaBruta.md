@@ -44,12 +44,12 @@ https://github.com/creativechain/crea
 
 https://github.com/datalab-to/marker
 https://github.com/dbish/DispatchMail
-https://github.com/deepseek-ai
-https://github.com/deepseek-ai/awesome-deepseek-agent
-https://github.com/deepseek-ai/deepseek-harness
+
+
+
 https://github.com/DietrichGebert/ponytail
 https://github.com/docling-project/docling
-https://github.com/doxdk/deepseek-desktop
+
 https://github.com/fathah/hermes-desktop
 https://github.com/firecrawl/firecrawl
 https://github.com/Fission-AI/OpenSpec
@@ -58,7 +58,7 @@ https://github.com/garrytan/gbrain
 https://github.com/Gitlawb/openclaude
 https://github.com/google-ai-edge/gallery
 https://github.com/KatrielMoses/MailAccess
-https://github.com/kenvandine/deepseek-desktop
+
 https://github.com/lmstudio-ai
 https://github.com/MoonshotAI/kimi-code
 https://github.com/networkbm/pentest-deephat-ai
@@ -177,7 +177,7 @@ https://github.com/caelum/apostila-python-orientacao-a-objetos/blob/master/01-co
 https://github.com/apurvsinghgautam/robin
 https://github.com/asgeirtj
 https://github.com/rafaballerini/AssistentePessoal/tree/main/estudos
-https://github.com/deepseek-ai/awesome-deepseek-agent/blob/main/docs/hermes.md
+
 
 https://github.com/KAYOKG/BibliotecaDev/blob/main/LivrosDev/Agile%20Retrospectives%20-%20Making%20Good%20Teams%20Great%20(Pragmatic%20Programmers)%20-%20Autor%20(Esther%20Derby).pdf
 https://github.com/KAYOKG/BibliotecaDev/blob/main/LivrosDev/Algoritmos%20-%20Teoria%20e%20Pr%C3%A1tica%20-%20Autor%20(Thomas%20Cormen).pdf
