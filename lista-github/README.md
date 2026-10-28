@@ -211,10 +211,6 @@ date: 2026-10-10
 - **[eikek]**
   - [sharry](https://github.com/eikek/sharry)
 
-
-- **[koreader]**
-  - [koreader](https://github.com/koreader/koreader)
-
 - **[laurent22]**
   - 🥈 **[PRIORIDADE ALTA]** [joplin](https://github.com/laurent22/joplin) *(Aplicativo de notas de código aberto, com forte criptografia e sincronização flexível)*
 
