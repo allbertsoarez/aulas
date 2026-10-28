@@ -123,9 +123,6 @@ date: 2026-10-10
 - **[skellis46]**
   - [slipbox](https://github.com/skellis46/slipbox)
 
-- **[TfTHacker]**
-  - 🥉 **[PRIORIDADE MÉDIA]** [obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) *(Ferramenta avançada para visualização e análise de conexões no grafo de conhecimento)*
-
 ---
 
 ## 📂 OSINT, SEGURANÇA E PRIVACIDADE
