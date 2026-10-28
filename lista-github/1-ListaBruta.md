@@ -21,8 +21,7 @@ https://github.com/glacambre/firenvim
 https://github.com/gralco/mojo-ide
 https://github.com/jesseduffield/lazygit
 https://github.com/jesseduffield/lazydocker
-https://github.com/jgraph/drawio
-https://github.com/jgraph/drawio-desktop
+
 https://github.com/LeonardoCides/God-s-eye
 https://github.com/llvm/llvm-project
 
