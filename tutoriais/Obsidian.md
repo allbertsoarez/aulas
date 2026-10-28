@@ -10,6 +10,8 @@ O aplicativo tem como objetivo ajudar você a organizar suas anotações e para 
 
 - [The Best Obsidian Plugins](https://www.alphr.com/best-obsidian-plugins/)
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
+- https://community.obsidian.md/plugins/note-id
+- https://github.com/dominikmayer/obsidian-note-id
 
 # Referências
 
