@@ -120,9 +120,6 @@ date: 2026-10-10
 ## 📂 OBSIDIAN, ZETTELKASTEN E PKM
 
 
-- **[liamcain]**
-  - 🥈 **[PRIORIDADE ALTA]** [obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) *(Plugin essencial e oficial para gestão de notas diárias, semanais e mensais)*
-
 - **[skellis46]**
   - [slipbox](https://github.com/skellis46/slipbox)
 
