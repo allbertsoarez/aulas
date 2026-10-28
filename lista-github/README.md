@@ -89,8 +89,6 @@ date: 2026-10-10
 - **[datalab-to]**
   - [marker](https://github.com/datalab-to/marker)
 
-- **[docling-project]**
-  - 🥉 **[PRIORIDADE MÉDIA]** [docling](https://github.com/docling-project/docling) *(Ferramenta poderosa e precisa para conversão de documentos complexos em formatos estruturados)*
 
 - **[firecrawl]**
   - [firecrawl](https://github.com/firecrawl/firecrawl)
