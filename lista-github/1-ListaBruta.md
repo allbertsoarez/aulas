@@ -41,7 +41,7 @@ https://github.com/agentskills/agentskills
 https://github.com/carlosfab/sigmoidal_ai
 https://github.com/CodebuffAI/freebuff
 https://github.com/creativechain/crea
-https://github.com/crewAIInc/crewAI
+
 https://github.com/datalab-to/marker
 https://github.com/dbish/DispatchMail
 https://github.com/deepseek-ai
