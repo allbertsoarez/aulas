@@ -6,7 +6,7 @@ https://github.com/eduardo-ono/Matematica
 https://github.com/ManimCommunity/manim
 https://github.com/marcusesa/loteria-api
 https://github.com/wilsonfreitas/python-bcb
-https://github.com/yccheok/jstock
+
 https://github.com/arthurgregorio/web-budget
 https://github.com/GitbookIO/gitbook
 https://github.com/mrdoob/three.js
