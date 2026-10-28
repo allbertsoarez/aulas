@@ -38,7 +38,7 @@ https://github.com/voideditor/void-forks
 
 https://github.com/aaif-goose/goose
 https://github.com/agentskills/agentskills
-https://github.com/anomalyco/opencode
+
 https://github.com/carlosfab/sigmoidal_ai
 https://github.com/CodebuffAI/freebuff
 https://github.com/creativechain/crea
@@ -170,7 +170,7 @@ https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Ar
 https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-/blob/main/Analise_Carteira.py
 https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-/blob/main/IA_carteira_acoes.joblib
 https://github.com/andreadcsousa/alura_modelagem-bd-logica_sql
-https://github.com/anomalyco/opencode/tree/dev
+
 https://github.com/anyproto/anytype-ts/tree/develop/.claude
 https://github.com/anyproto/anytype-ts/tree/develop/.claude/agents
 https://github.com/anyproto/anytype-ts/tree/develop/.claude/skills
@@ -260,9 +260,7 @@ https://github.com/can1357/oh-my-pi/tree/main/scripts
 https://github.com/open-jarvis/OpenJarvis
 https://github.com/open-webui/open-webui
 https://github.com/OpenArchive
-https://github.com/anomalyco/opencode/tree/dev/.opencode
-https://github.com/anomalyco/opencode/tree/dev/.opencode/agent
-https://github.com/anomalyco/opencode/blob/dev/README.br.md
+
 https://github.com/pranshuparmar/witr
 https://github.com/PyPortfolio/PyPortfolioOpt/tree/main
 https://github.com/PyPortfolio/PyPortfolioOpt/blob/main/docs/index.rst
@@ -286,7 +284,7 @@ https://github.com/rafaballerini/rafaballerini/blob/main/README.md
 https://github.com/RaphaelSampaio1
 https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-/tree/main
 https://github.com/adventdevinc/kudu/releases
-https://github.com/anomalyco/opencode/releases
+
 https://github.com/Stuey3D/VibeSDR/releases
 https://github.com/reorproject/reor
 https://github.com/yt-dlp/yt-dlp/issues/16132
