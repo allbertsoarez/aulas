@@ -1,4 +1,4 @@
-# OpenCode
+# [OpenCode](https://opencode.ai/)
 O agente de codificação de código aberto.
 
 Instalando IA da NVIDIA no OpenCode
