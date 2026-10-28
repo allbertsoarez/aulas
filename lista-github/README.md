@@ -27,9 +27,6 @@ date: 2026-10-10
   - [Fundamentos-de-Matematica](https://github.com/eduardo-ono/Fundamentos-de-Matematica)
   - [Matematica](https://github.com/eduardo-ono/Matematica)
 
-- **[ghostfolio]**
-  - 🏆 **[PRIORIDADE MÁXIMA]** [ghostfolio](https://github.com/ghostfolio/ghostfolio) *(Plataforma de código aberto completa para gestão de patrimônio e investimentos)*
-
 - **[ManimCommunity]**
   - 🥈 **[PRIORIDADE ALTA]** [manim](https://github.com/ManimCommunity/manim) *(A biblioteca padrão-ouro para animações matemáticas e de dados em Python)*
 
