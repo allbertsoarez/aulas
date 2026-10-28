@@ -89,9 +89,6 @@ date: 2026-10-10
 - **[datalab-to]**
   - [marker](https://github.com/datalab-to/marker)
 
-- **[janhq]**
-  - [jan](https://github.com/janhq/jan)
-
 - **[MoonshotAI]**
   - [kimi-code](https://github.com/MoonshotAI/kimi-code)
 
