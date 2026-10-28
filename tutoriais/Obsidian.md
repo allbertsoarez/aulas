@@ -13,6 +13,10 @@ O aplicativo tem como objetivo ajudar você a organizar suas anotações e para 
 - https://community.obsidian.md/plugins/note-id
 - https://github.com/dominikmayer/obsidian-note-id
 
+#### Mais Informações
+- https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit
+- https://github.com/liamcain/obsidian-periodic-notes
+
 # Referências
 
 - [Documentação Oficial](https://publish.obsidian.md/help-pt-br/Home)
