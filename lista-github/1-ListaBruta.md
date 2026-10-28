@@ -116,7 +116,7 @@ https://github.com/mierak/rmpc
 https://github.com/OpenArchive/Save-app-android
 https://github.com/psygreg/linuxtoys
 https://github.com/thisisshihan/Winamp
-https://github.com/toeverything/affine
+
 https://github.com/caelum/apostila-python-orientacao-a-objetos
 https://github.com/dunossauro/live-de-python
 https://github.com/dunossauro/python-funcional
