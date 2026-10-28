@@ -119,9 +119,6 @@ date: 2026-10-10
 
 ## 📂 OBSIDIAN, ZETTELKASTEN E PKM
 
-- **[dominikmayer]**
-  - [obsidian-note-id](https://github.com/dominikmayer/obsidian-note-id)
-
 - **[groepl]**
   - 🏆 **[PRIORIDADE MÁXIMA]** [Obsidian-Zettelkasten-Starter-Kit](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit) *(Ponto de partida estruturado e didático para implementar o método Zettelkasten)*
 
