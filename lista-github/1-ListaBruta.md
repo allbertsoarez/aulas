@@ -77,7 +77,7 @@ https://github.com/xiaomimimo/mimo
 https://github.com/XiaomiMiMo/MiMo-Code
 https://github.com/yxuansu/OpenAlpaca
 https://github.com/topics/ai-code-review?l=html
-https://github.com/dominikmayer/obsidian-note-id
+
 https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit
 https://github.com/johansan/notebook-navigator
 https://github.com/liamcain/obsidian-periodic-notes
