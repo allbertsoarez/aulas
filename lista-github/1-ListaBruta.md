@@ -100,7 +100,7 @@ https://github.com/polhenarejos/pico-fido
 https://github.com/ultrasecurity/Storm-Breaker
 https://github.com/zacheller/rockyou
 https://github.com/Akascape/py-window-styles
-https://github.com/anyproto/anytype-ts
+
 https://github.com/AppFlowy-IO/appflowy
 
 https://github.com/cake-tech/cake_wallet
@@ -171,9 +171,9 @@ https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Ar
 https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-/blob/main/IA_carteira_acoes.joblib
 https://github.com/andreadcsousa/alura_modelagem-bd-logica_sql
 
-https://github.com/anyproto/anytype-ts/tree/develop/.claude
-https://github.com/anyproto/anytype-ts/tree/develop/.claude/agents
-https://github.com/anyproto/anytype-ts/tree/develop/.claude/skills
+
+
+
 https://github.com/caelum/apostila-python-orientacao-a-objetos/blob/master/01-como-aprender-python.md
 https://github.com/apurvsinghgautam/robin
 https://github.com/asgeirtj
