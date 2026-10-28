@@ -107,7 +107,7 @@ https://github.com/eikek/sharry
 https://github.com/electron/electron
 https://github.com/erickutcher/httpdownloader
 
-https://github.com/jliljebl/flowblade
+
 https://github.com/jqssun/android-titanium-browser
 https://github.com/koreader/koreader
 https://github.com/laurent22/joplin
