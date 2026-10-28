@@ -202,9 +202,6 @@ date: 2026-10-10
 
 ## 📂 PRODUTIVIDADE, UTILITÁRIOS E SISTEMAS OPERACIONAIS
 
-- **[anyproto]**
-  - [anytype-ts](https://github.com/anyproto/anytype-ts)
-
 - **[AppFlowy-IO]**
   - [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
