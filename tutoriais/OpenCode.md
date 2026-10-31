@@ -1,6 +1,8 @@
 # [OpenCode](https://opencode.ai/)
 O agente de codificação de código aberto.
 
+
+
 Instalando IA da NVIDIA no OpenCode
 Acessa build.nvidia.com - Cria conta - Cria chave API
 
@@ -11,13 +13,14 @@ Open Router: https://openrouter.ai/
 - https://github.com/vudovn/ag-kit
 - https://ecc.tools/
 - https://github.com/affaan-m/ecc
+- https://github.com/anomalyco/opencode
 
 ---
 
 # Referências
 
 ## Links
-- https://github.com/anomalyco/opencode
+
 - https://opencode.ai/docs/agents/
 - [Como Instalar o OpenCode no Linux e Integrar ele ao Ollama | Seu Assistente de Codificação Local](https://youtu.be/v3YZ--biSAU)
 - [OpenCode Grátis ILIMITADO com os Melhores Modelos de IA do Mundo + NVIDIA + DEEPSEEK V4](https://youtu.be/De9bHDWM2zQ)
