@@ -47,7 +47,24 @@ Pacote Python para validação de documentos brasileiros.
 - https://github.com/techwithtim/WPM_Typing_Test
 - https://github.com/techwithtim/Python-Aim-Trainer
 - https://github.com/techwithtim/Python-Beginner-Automation-Projects
+- https://github.com/techwithtim/3-Mini-Python-Projects-For-Intermediates/blob/main/currency-converter.py
+- https://github.com/techwithtim/3-Mini-Python-Projects-For-Intermediates/blob/main/nba-scores.py
+- https://github.com/techwithtim/3-Mini-Python-Projects-For-Intermediates/blob/main/path-finder.py
+- https://github.com/techwithtim/3-Mini-Python-Projects/blob/main/project1.py
+- https://github.com/techwithtim/3-Mini-Python-Projects/blob/main/project2.py
+- https://github.com/techwithtim/3-Mini-Python-Projects/blob/main/project3.py
+- https://github.com/techwithtim/3-Mini-Python-Projects/blob/main/story.txt
+- https://github.com/techwithtim/5-Python-Projects-For-Beginners/blob/main/choose_your_own_adventure.py
+- https://github.com/techwithtim/5-Python-Projects-For-Beginners/blob/main/number_guesser.py
+- https://github.com/techwithtim/5-Python-Projects-For-Beginners/blob/main/password_manager.py
+- https://github.com/techwithtim/5-Python-Projects-For-Beginners/blob/main/quiz_game.py
+- https://github.com/techwithtim/5-Python-Projects-For-Beginners/blob/main/rock_paper_scissors.py
+
+
 - https://github.com/vinta/awesome-python
 - https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-
 - https://github.com/codigoquant/python_para_investimentos
 - https://github.com/codigoquant/python_para_investimentos/blob/master/01_Python_para_Investimentos_com_Google_Colab_Obtendo_cota%C3%A7%C3%B5es_do_Yahoo_Finance.ipynb
+
+
+
