@@ -183,9 +183,6 @@ date: 2026-10-10
 - **[DenverCoder1]**
   - [custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 
-- **[GitbookIO]**
-  - [gitbook](https://github.com/GitbookIO/gitbook)
-
 - **[tandpfun]**
   - [skill-icons](https://github.com/tandpfun/skill-icons)
 
