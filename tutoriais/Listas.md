@@ -11,3 +11,4 @@ Listas de bloqueio de DNS: Para uma internet melhor, mantenha a internet limpa!
 
 - https://github.com/zacheller/rockyou
 - https://github.com/zacheller/rockyou/blob/master/README.md
+- https://github.com/zacheller/rockyou/blob/master/rockyou.txt.tar.gz
