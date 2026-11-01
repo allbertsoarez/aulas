@@ -192,6 +192,3 @@ date: 2026-10-10
 
 - **[USP-ZP]**
   - [document-template](https://github.com/USP-ZP/document-template)
-
-- **[vinta]**
-  - 🏆 **[PRIORIDADE MÁXIMA]** [awesome-python](https://github.com/vinta/awesome-python) *(A lista curada mais famosa e abrangente de frameworks, bibliotecas e recursos Python)*
