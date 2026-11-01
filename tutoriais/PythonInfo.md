@@ -12,6 +12,8 @@ Interface Python para serviços web do Banco Central do Brasil
 
 ### Loteria
 - https://github.com/marcusesa/loteria-api
+- https://github.com/TrexPD/loterias_caixa
+- https://pypi.org/project/loteria-caixa/
 
 ### Outros
 - https://github.com/python/cpython
@@ -31,11 +33,9 @@ Interface Python para serviços web do Banco Central do Brasil
 - https://github.com/techwithtim/3-Mini-Python-Projects
 - https://github.com/techwithtim/3-Mini-Python-Projects-For-Intermediates
 - https://github.com/techwithtim/5-Python-Projects-For-Beginners
+- https://github.com/techwithtim/Python-Scripting-Project
+- https://github.com/techwithtim/Python-Slot-Machine
+- https://github.com/techwithtim/Turtle-Racing-V2
+- https://github.com/techwithtim/WPM_Typing_Test
 - https://github.com/techwithtim/Python-Aim-Trainer
 - https://github.com/techwithtim/Python-Beginner-Automation-Projects
-
-
-https://github.com/techwithtim/Python-Scripting-Project
-https://github.com/techwithtim/Python-Slot-Machine
-https://github.com/techwithtim/Turtle-Racing-V2
-https://github.com/techwithtim/WPM_Typing_Test
