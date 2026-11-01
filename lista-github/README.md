@@ -165,7 +165,7 @@ date: 2026-10-10
 ---
 
 - **[rafaballerini]**
-  - [AssistentePessoal](https://github.com/rafaballerini/AssistentePessoal)
+  
   - [GitTutorial](https://github.com/rafaballerini/GitTutorial)
 
 - **[techwithtim]**
