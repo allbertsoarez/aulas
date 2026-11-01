@@ -11,3 +11,8 @@
 Interface Python para serviços web do Banco Central do Brasil
 
 - https://github.com/wilsonfreitas/python-bcb
+
+---
+
+## Cursos & Tutoriais
+- https://github.com/caelum/apostila-python-orientacao-a-objetos
