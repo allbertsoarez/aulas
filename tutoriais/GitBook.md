@@ -1,7 +1,6 @@
-# GitBook
+# [GitBook](https://www.gitbook.com/)
 Plataforma para gerenciamento de conhecimento técnico para equipes.
 
-- https://www.gitbook.com/
 - https://www.gitbook.com/solutions/open-source
 - https://github.com/GitbookIO/gitbook
 - https://www.if.ufrgs.br/~pezzi/exemplo_gitbook/cap2/index.html
