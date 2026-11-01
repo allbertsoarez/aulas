@@ -1,5 +1,5 @@
-https://github.com/codigoquant/python_para_investimentos
-https://github.com/codigoquant/python_para_investimentos/blob/master/01_Python_para_Investimentos_com_Google_Colab_Obtendo_cota%C3%A7%C3%B5es_do_Yahoo_Finance.ipynb
+
+
 https://github.com/eduardo-ono/Fundamentos-de-Matematica
 https://github.com/eduardo-ono/Matematica
 
