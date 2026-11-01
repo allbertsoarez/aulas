@@ -1,6 +1,6 @@
 # As Melhores Informações para Estudo e Aprimoramento em Python
 
-## 📦 Bibliotecas e Frameworks
+## 📦 Bibliotecas & Frameworks
 
 ### [Manim](https://www.manim.community/)
 Biblioteca para animações matemáticas e de dados.
@@ -19,10 +19,10 @@ Biblioteca para obter dados históricos do mercado financeiro (Yahoo Finance).
 - **[yfinance (Repositório):](https://github.com/ranaroussi/yfinance)**
 
 ### APIs de Loteria
-- **[Loteria API (marcusesa):](https://github.com/marcusesa/loteria-api)**
-- **[Loteria Caixa (joabefs):](https://github.com/joabefs/loteria_caixa)**
-- **[Loterias Caixa (TrexPD):](https://github.com/TrexPD/loterias_caixa)**
-- **[Loteria Caixa (PyPI):](https://pypi.org/project/loteria-caixa/)**
+- **[Pacote para instalação (PyPI):](https://pypi.org/project/loteria-caixa/)** *Recomendado para uso direto via `pip install`*
+- **[Loteria API (marcusesa):](https://github.com/marcusesa/loteria-api)** *Código-fonte alternativo no GitHub*
+- **[Loteria Caixa (joabefs):](https://github.com/joabefs/loteria_caixa)** *Código-fonte alternativo no GitHub*
+- **[Loterias Caixa (TrexPD):](https://github.com/TrexPD/loterias_caixa)** *Código-fonte alternativo no GitHub*
 
 ### Projetos Oficiais da Linguagem
 - **[CPython (Código-fonte oficial):](https://github.com/python/cpython)**
