@@ -330,7 +330,7 @@ https://github.com/honkit/honkit
 https://github.com/naorsabag/openhop
 https://github.com/d2lang/d2
 https://github.com/plantuml/plantuml
-https://github.com/ImKennyYip/calculator-python
+
 https://github.com/ImKennyYip/python-oop
 https://github.com/ImKennyYip/python-oop/tree/master
 https://github.com/deepbeepmeep/Wan2GP
