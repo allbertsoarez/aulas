@@ -164,11 +164,6 @@ date: 2026-10-10
 
 ---
 
-## 📂 PROJETOS E TUTORIAIS DE PYTHON
-
-- **[caelum]**
-  - [apostila-python-orientacao-a-objetos](https://github.com/caelum/apostila-python-orientacao-a-objetos)
-
 - **[dunossauro]**
   - 🏆 **[PRIORIDADE MÁXIMA]** [live-de-python](https://github.com/dunossauro/live-de-python) *(O curso mais didático e completo sobre Python e ecossistema web em português)*
   - [python-funcional](https://github.com/dunossauro/python-funcional)
