@@ -4,7 +4,7 @@ https://github.com/eduardo-ono/Fundamentos-de-Matematica
 https://github.com/eduardo-ono/Matematica
 
 
-https://github.com/marcusesa/loteria-api
+
 
 
 https://github.com/arthurgregorio/web-budget
