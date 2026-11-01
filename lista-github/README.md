@@ -100,14 +100,6 @@ date: 2026-10-10
 
 ---
 
-## 📂 OBSIDIAN, ZETTELKASTEN E PKM
-
-
-- **[skellis46]**
-  - [slipbox](https://github.com/skellis46/slipbox)
-
----
-
 ## 📂 OSINT, SEGURANÇA E PRIVACIDADE
 
 - **[celzero]**
