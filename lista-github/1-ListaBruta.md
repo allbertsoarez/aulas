@@ -87,7 +87,7 @@ https://github.com/celzero/rethink-app
 https://github.com/digininja/CeWL
 https://github.com/EduardoFelype/Olho-de-Deus
 https://github.com/GTFOBins/GTFOBins.github.io
-https://github.com/hagezi/dns-blocklists
+
 https://github.com/Kalyel473/Eyes-of-God
 https://github.com/Kalyel473/JarvvisSecurity
 https://github.com/Kalyel473/OSINTCorrelator
@@ -95,7 +95,7 @@ https://github.com/OpenOSINT/OpenOSINT
 https://github.com/polhenarejos/pico-fido
 
 https://github.com/ultrasecurity/Storm-Breaker
-https://github.com/zacheller/rockyou
+
 https://github.com/Akascape/py-window-styles
 
 https://github.com/AppFlowy-IO/appflowy
@@ -275,8 +275,8 @@ https://github.com/adventdevinc/kudu/releases
 https://github.com/Stuey3D/VibeSDR/releases
 https://github.com/reorproject/reor
 
-https://github.com/zacheller/rockyou/blob/master/README.md
-https://github.com/zacheller/rockyou/blob/master/rockyou.txt.tar.gz
+
+
 https://github.com/RooCodeInc/Roo-Code
 https://github.com/RooCodeInc/Roomote
 https://github.com/ruvnet/ruview
