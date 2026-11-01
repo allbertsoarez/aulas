@@ -6,6 +6,8 @@ Programa de anotações inteligentes. Porém o software é proprietário.
 
 O aplicativo tem como objetivo ajudar você a organizar suas anotações e para isso ele trabalha com um gráfico para melhor visualização das suas notas e como elas se relacionam, permitindo assim que através dessas relações, seja possível ter mais ideias.
 
+---
+
 #### Plugins
 
 - [The Best Obsidian Plugins](https://www.alphr.com/best-obsidian-plugins/)
@@ -15,10 +17,14 @@ O aplicativo tem como objetivo ajudar você a organizar suas anotações e para 
 - https://tfthacker.com/SNW
 - https://github.com/TfTHacker/obsidian42-strange-new-worlds
 
+---
+
 #### Mais Informações
 - https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit
 - https://github.com/liamcain/obsidian-periodic-notes
 - https://github.com/skellis46/slipbox
+
+---
 
 # Referências
 
@@ -33,7 +39,9 @@ O aplicativo tem como objetivo ajudar você a organizar suas anotações e para 
 - https://www.alphr.com/best-obsidian-plugins/
 - https://publish.obsidian.md/help-pt-br/Home
 
-  # Segundo cérebro com IA
+---
+
+# Segundo cérebro com IA
 
 Estrutura do Prompt MestreCopie e adapte o modelo abaixo para iniciar suas conversas com a IA (no ChatGPT, Claude ou em plugins do Obsidian):
 
@@ -49,7 +57,3 @@ Estrutura do Prompt MestreCopie e adapte o modelo abaixo para iniciar suas conve
 4. **Nota Atômica:** Reescreva o conteúdo principal em formato de nota curta e objetiva, pronta para eu salvar no meu cofre (vault).
 
 **Regra de Ouro:** Seja direto, use linguagem clara e mantenha a formatação em Markdown.
-
-
-
-
