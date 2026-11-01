@@ -164,8 +164,6 @@ date: 2026-10-10
 
 ---
 
-- **[dunossauro]**
-  - 🏆 **[PRIORIDADE MÁXIMA]** [live-de-python](https://github.com/dunossauro/live-de-python) *(O curso mais didático e completo sobre Python e ecossistema web em português)*
   - [python-funcional](https://github.com/dunossauro/python-funcional)
 
 - **[ImKennyYip]**
