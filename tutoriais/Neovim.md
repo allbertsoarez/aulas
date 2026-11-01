@@ -7,8 +7,11 @@ Vim-fork focado em extensibilidade e usabilidade
 
 ## Plugin ins
 
-[Lazy](https://lazy.folke.io/)
+[Lazy Vim](https://www.lazyvim.org/)
+
+- https://github.com/lazyvim/lazyvim
 - https://github.com/folke/lazy.nvim
+- https://lazy.folke.io/
 
 ---
 
