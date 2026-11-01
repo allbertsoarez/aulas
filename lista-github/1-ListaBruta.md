@@ -82,7 +82,6 @@ https://github.com/topics/ai-code-review?l=html
 https://github.com/johansan/notebook-navigator
 
 https://github.com/luhaifeng666/obsidian-docs-sync
-https://github.com/skellis46/slipbox
 
 https://github.com/bilawalsidhu/gods-eye-view
 https://github.com/celzero/rethink-app
@@ -298,8 +297,8 @@ https://github.com/sickn33/agentic-awesome-skills#installation
 https://github.com/carlosfab/sigmoidal_ai/blob/master/Como%20Tratar%20Dados%20Ausentes%20com%20Pandas.ipynb
 https://github.com/carlosfab/sigmoidal_ai/blob/master/Como_Criar_uma_WordCloud_em_Python.ipynb
 https://github.com/sipeed/picoclaw
-https://github.com/skellis46
-https://github.com/skellis46/slipbox/blob/master/20210317%20-%20possible%20titles.md
+
+
 https://github.com/spectre-project
 https://github.com/spectre-project/spectre-desktop
 https://github.com/thomasbuilds/Spectre/tree/main/metadata/en-US
