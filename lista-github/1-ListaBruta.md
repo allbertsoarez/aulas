@@ -27,7 +27,7 @@ https://github.com/llvm/llvm-project
 
 https://github.com/modular/modular
 
-https://github.com/python/cpython
+
 https://github.com/python/pymanager
 
 
@@ -320,7 +320,7 @@ https://github.com/techwithtim/WPM_Typing_Test/blob/main/tutorial.py
 
 
 https://github.com/zacheller
-https://github.com/python/cpython/tree/main
+
 https://github.com/schemahero/schemahero
 https://github.com/harry0703/MoneyPrinterTurbo/blob/main/README-en.md
 https://github.com/TableProApp/TablePro
