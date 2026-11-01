@@ -164,9 +164,7 @@ date: 2026-10-10
 
 ---
 
-  - [python-funcional](https://github.com/dunossauro/python-funcional)
-
-- **[ImKennyYip]**
+ - **[ImKennyYip]**
   - [calculator-python](https://github.com/ImKennyYip/calculator-python)
   - [python-oop](https://github.com/ImKennyYip/python-oop)
 
