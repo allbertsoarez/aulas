@@ -78,8 +78,6 @@ date: 2026-10-10
 - **[QwenLM]**
   - [Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)
 
-- **[RaphaelSampaio1]**
-  - [Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-](https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-)
 
 - **[RooCodeInc]**
   - [Roo-Code](https://github.com/RooCodeInc/Roo-Code)
