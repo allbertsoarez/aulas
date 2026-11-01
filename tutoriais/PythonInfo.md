@@ -16,6 +16,13 @@ Interface Python para serviços web do Banco Central do Brasil
 - https://github.com/TrexPD/loterias_caixa
 - https://pypi.org/project/loteria-caixa/
 
+### [Validade Doc Br](https://alvarofpp.github.io/validate-docbr/#/)
+Pacote Python para validação de documentos brasileiros.
+
+- https://github.com/alvarofpp/validate-docbr
+
+---
+
 ### Outros
 - https://github.com/python/cpython
 - https://github.com/python/cpython/tree/main
