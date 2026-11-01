@@ -168,9 +168,6 @@ date: 2026-10-10
   
   - [GitTutorial](https://github.com/rafaballerini/GitTutorial)
 
-- **[TrexPD]**
-  - [loterias_caixa](https://github.com/TrexPD/loterias_caixa)
-
 ---
 
 ## 📂 RECURSOS, LIVROS E TEMPLATES
