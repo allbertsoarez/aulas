@@ -9,3 +9,4 @@ Sistema de Controle de Versão
 
 ## Outros
 - https://github.com/jesseduffield/lazygit
+- https://github.com/rafaballerini/GitTutorial
