@@ -121,7 +121,7 @@ https://github.com/thisisshihan/Winamp
 
 https://github.com/ahmadjoya/github-readme-stats
 https://github.com/alexandresanlim/Badges4-README.md-Profile
-https://github.com/alvarofpp/validate-docbr
+
 https://github.com/anuraghazra/github-readme-stats
 https://github.com/badges/shields
 https://github.com/carlosfab/template_portfolio
