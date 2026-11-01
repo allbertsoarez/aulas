@@ -36,7 +36,7 @@ date: 2026-10-10
   - 🏆 **[PRIORIDADE MÁXIMA]** [three.js](https://github.com/mrdoob/three.js) *(A biblioteca fundamental e mais popular para renderização 3D na web)*
 
 - **[rafaballerini]**
-  - [AssistentePessoal](https://github.com/rafaballerini/AssistentePessoal)
+  
   - [GitTutorial](https://github.com/rafaballerini/GitTutorial)
   - [meu-site-html](https://github.com/rafaballerini/meu-site-html)
   - [PerfilGithub](https://github.com/rafaballerini/PerfilGithub)
