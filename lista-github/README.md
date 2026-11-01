@@ -158,12 +158,6 @@ date: 2026-10-10
 
 ---
 
-- **[rafaballerini]**
-  
-  - [GitTutorial](https://github.com/rafaballerini/GitTutorial)
-
----
-
 ## 📂 RECURSOS, LIVROS E TEMPLATES
 
 - **[alexandresanlim]**
