@@ -1,4 +1,4 @@
-# As Melhores Informações para Estudo e Aprimoramento em Python
+# AS MELHORES INFORMAÇÕES PARA ESTUDO E APRIMORAMENTOS EM PYTHON
 
 ## 📦 Bibliotecas e Frameworks
 
