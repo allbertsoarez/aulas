@@ -117,7 +117,7 @@ https://github.com/psygreg/linuxtoys
 https://github.com/thisisshihan/Winamp
 
 
-https://github.com/dunossauro/live-de-python
+
 https://github.com/dunossauro/python-funcional
 https://github.com/techwithtim/5-Python-Projects-For-Beginners
 https://github.com/techwithtim/3-Mini-Python-Projects
