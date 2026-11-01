@@ -9,3 +9,5 @@ Vim-fork focado em extensibilidade e usabilidade
 
 [Lazy](https://lazy.folke.io/)
 - https://github.com/folke/lazy.nvim
+
+- https://github.com/glacambre/firenvim
