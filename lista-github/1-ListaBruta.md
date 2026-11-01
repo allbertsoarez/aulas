@@ -64,7 +64,7 @@ https://github.com/networkbm/pentest-deephat-ai
 
 https://github.com/nousresearch/hermes-agent
 https://github.com/QwenLM/Qwen-AgentWorld
-https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-
+
 https://github.com/sickn33/agentic-awesome-skills
 https://github.com/simplifaisoul/osiris
 https://github.com/tashfeenahmed/freellmapi
