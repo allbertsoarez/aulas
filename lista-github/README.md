@@ -28,9 +28,6 @@ date: 2026-10-10
   - [Matematica](https://github.com/eduardo-ono/Matematica)
 
 
-- **[wilsonfreitas]**
-  - 🥉 **[PRIORIDADE MÉDIA]** [python-bcb](https://github.com/wilsonfreitas/python-bcb) *(Ferramenta essencial e robusta para coleta de dados do Banco Central do Brasil)*
-
 ---
 
 ## 📂 DESENVOLVIMENTO WEB E FRONTEND
