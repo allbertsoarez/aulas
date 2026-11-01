@@ -25,7 +25,6 @@ date: 2026-10-10
   - [Fundamentos-de-Matematica](https://github.com/eduardo-ono/Fundamentos-de-Matematica)
   - [Matematica](https://github.com/eduardo-ono/Matematica)
 
-
 ---
 
 ## 📂 DESENVOLVIMENTO WEB E FRONTEND
@@ -92,40 +91,6 @@ date: 2026-10-10
 
 - **[xiaomimimo]**
   - [mimo](https://github.com/xiaomimimo/mimo)
-
----
-
-## 📂 OSINT, SEGURANÇA E PRIVACIDADE
-
-- **[celzero]**
-  - [rethink-app](https://github.com/celzero/rethink-app)
-
-- **[digininja]**
-  - [CeWL](https://github.com/digininja/CeWL)
-
-- **[EduardoFelype]**
-  - [Olho-de-Deus](https://github.com/EduardoFelype/Olho-de-Deus)
-
-- **[GTFOBins]**
-  - 🥈 **[PRIORIDADE ALTA]** [GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) *(O catálogo definitivo e curado de binários Unix para bypass de restrições de segurança)*
-
-
-- **[Kalyel473]**
-  - [Eyes-of-God](https://github.com/Kalyel473/Eyes-of-God)
-  - [JarvvisSecurity](https://github.com/Kalyel473/JarvvisSecurity)
-  - [OSINTCorrelator](https://github.com/Kalyel473/OSINTCorrelator)
-
-- **[LeonardoCides]**
-  - [God-s-eye](https://github.com/LeonardoCides/God-s-eye)
-
-- **[OpenOSINT]**
-  - [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT)
-
-- **[polhenarejos]**
-  - [pico-fido](https://github.com/polhenarejos/pico-fido)
-
-- **[ultrasecurity]**
-  - [Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker)
 
 ---
 
