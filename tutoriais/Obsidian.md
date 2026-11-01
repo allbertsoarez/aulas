@@ -18,6 +18,7 @@ O aplicativo tem como objetivo ajudar você a organizar suas anotações e para 
 #### Mais Informações
 - https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit
 - https://github.com/liamcain/obsidian-periodic-notes
+- https://github.com/skellis46/slipbox
 
 # Referências
 
