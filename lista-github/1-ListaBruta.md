@@ -174,8 +174,6 @@ https://github.com/andreadcsousa/alura_modelagem-bd-logica_sql
 https://github.com/caelum/apostila-python-orientacao-a-objetos/blob/master/01-como-aprender-python.md
 https://github.com/apurvsinghgautam/robin
 https://github.com/asgeirtj
-https://github.com/rafaballerini/AssistentePessoal/tree/main/estudos
-
 
 https://github.com/KAYOKG/BibliotecaDev/blob/main/LivrosDev/Agile%20Retrospectives%20-%20Making%20Good%20Teams%20Great%20(Pragmatic%20Programmers)%20-%20Autor%20(Esther%20Derby).pdf
 https://github.com/KAYOKG/BibliotecaDev/blob/main/LivrosDev/Algoritmos%20-%20Teoria%20e%20Pr%C3%A1tica%20-%20Autor%20(Thomas%20Cormen).pdf
