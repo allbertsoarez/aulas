@@ -47,3 +47,4 @@ Pacote Python para validação de documentos brasileiros.
 - https://github.com/techwithtim/WPM_Typing_Test
 - https://github.com/techwithtim/Python-Aim-Trainer
 - https://github.com/techwithtim/Python-Beginner-Automation-Projects
+- https://github.com/vinta/awesome-python
