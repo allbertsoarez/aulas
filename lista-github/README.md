@@ -51,8 +51,6 @@ date: 2026-10-10
 
 ## 📂 FERRAMENTAS DE DESENVOLVIMENTO, IDES E GIT
 
-- **[folke]**
-  - 🥈 **[PRIORIDADE ALTA]** [lazy.nvim](https://github.com/folke/lazy.nvim) *(Gerenciador de plugins moderno e extremamente rápido para Neovim)*
 
 - **[glacambre]**
   - [firenvim](https://github.com/glacambre/firenvim)
