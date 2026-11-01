@@ -12,6 +12,7 @@ Interface Python para serviços web do Banco Central do Brasil
 
 ### Loteria
 - https://github.com/marcusesa/loteria-api
+- https://github.com/joabefs/loteria_caixa
 - https://github.com/TrexPD/loterias_caixa
 - https://pypi.org/project/loteria-caixa/
 
