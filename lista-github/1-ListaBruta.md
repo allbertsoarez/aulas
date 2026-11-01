@@ -89,7 +89,6 @@ https://github.com/adventdevinc/kudu
 https://github.com/affaan-m/ecc
 https://github.com/amit9838/mousam
 https://github.com/andreadcsousa/alura_modelagem-bd-logica_sql
-
 https://github.com/apurvsinghgautam/robin
 https://github.com/asgeirtj
 https://github.com/KAYOKG/BibliotecaDev/blob/main/LivrosDev/Agile%20Retrospectives%20-%20Making%20Good%20Teams%20Great%20(Pragmatic%20Programmers)%20-%20Autor%20(Esther%20Derby).pdf
@@ -240,7 +239,6 @@ https://heartmula.github.io/
 https://gligen.github.io/
 https://fga-eps-mds.github.io/GFour-Invext/#/
 https://ecc.tools/
-
 https://cpuvisualsimulator.github.io/
 https://justvugg.github.io/colibri/
 https://gist.github.com/tterb/982ae14a9307b80117dbf49f624ce0e8
@@ -252,8 +250,6 @@ https://osirisai.live
 https://ponytail.dev
 https://spatialintelligence.ai
 https://moonshotai.github.io/kimi-cli
-https://ranaroussi.github.io/yfinance
-
 https://stackblitz-labs.github.io/bolt.diy
 https://linux.toys/index.pt-BR.html
 https://threejs.org
