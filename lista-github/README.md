@@ -164,10 +164,6 @@ date: 2026-10-10
 
 ---
 
-
-- **[marcusesa]**
-  - [loteria-api](https://github.com/marcusesa/loteria-api)
-
 - **[python]**
   - 🥈 **[PRIORIDADE ALTA]** [cpython](https://github.com/python/cpython) *(O repositório oficial da implementação de referência da linguagem Python)*
   - [pymanager](https://github.com/python/pymanager)
