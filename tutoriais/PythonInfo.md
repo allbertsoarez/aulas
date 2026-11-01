@@ -59,6 +59,13 @@ Pacote Python para validação de documentos brasileiros.
 - https://github.com/techwithtim/5-Python-Projects-For-Beginners/blob/main/password_manager.py
 - https://github.com/techwithtim/5-Python-Projects-For-Beginners/blob/main/quiz_game.py
 - https://github.com/techwithtim/5-Python-Projects-For-Beginners/blob/main/rock_paper_scissors.py
+- https://github.com/techwithtim/Python-Aim-Trainer/blob/main/tutorial.py
+- https://github.com/techwithtim/Python-Beginner-Automation-Projects/blob/main/backup.py
+- https://github.com/techwithtim/Python-Beginner-Automation-Projects/blob/main/currency.py
+- https://github.com/techwithtim/Python-Beginner-Automation-Projects/blob/main/youtube.py
+- https://github.com/techwithtim/Python-Scripting-Project/blob/main/get_game_data.py
+- https://github.com/techwithtim/Python-Scripting-Project/blob/main/project.txt
+- https://github.com/techwithtim/Python-Slot-Machine/blob/main/main.py
 
 
 - https://github.com/vinta/awesome-python
