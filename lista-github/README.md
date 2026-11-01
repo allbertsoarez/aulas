@@ -52,10 +52,6 @@ date: 2026-10-10
 ## 📂 FERRAMENTAS DE DESENVOLVIMENTO, IDES E GIT
 
 
-- **[jesseduffield]**
-  - [lazydocker](https://github.com/jesseduffield/lazydocker)
-  - 🥉 **[PRIORIDADE MÉDIA]** [lazygit](https://github.com/jesseduffield/lazygit) *(Cliente de terminal simples e intuitivo para comandos complexos do Git)*
-
 - **[modular]**
   - [modular](https://github.com/modular/modular)
 
