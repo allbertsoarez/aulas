@@ -262,7 +262,7 @@ https://github.com/rafaballerini
 https://github.com/rafaballerini?tab=repositories
 https://github.com/rafaballerini/APIsNavegadores
 https://github.com/rafaballerini/AssistentePessoal
-https://github.com/rafaballerini/GitTutorial
+
 https://github.com/rafaballerini/PerfilGithub
 https://github.com/rafaballerini/rafaballerini/tree/main
 https://github.com/rafaballerini/rafaballerini
