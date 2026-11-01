@@ -58,5 +58,6 @@ Biblioteca para obter dados históricos do mercado financeiro (Yahoo Finance).
 - [Python Beginner Automation Projects](https://github.com/techwithtim/Python-Beginner-Automation-Projects)
 
 ### Finanças e Investimentos com Python
-- **Análise de Carteira de Ações com IA:** https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-
-- **Python para Investimentos (CodigoQuant):** https://github.com/codigoquant/python_para_investimentos
+- **[Análise de Carteira de Ações com IA:](https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-)**
+- **[Python para Investimentos (CodigoQuant):](https://github.com/codigoquant/python_para_investimentos
+)**
