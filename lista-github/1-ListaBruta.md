@@ -19,7 +19,7 @@ https://github.com/cursoemvideo
 
 
 https://github.com/gralco/mojo-ide
-https://github.com/jesseduffield/lazygit
+
 https://github.com/jesseduffield/lazydocker
 
 https://github.com/LeonardoCides/God-s-eye
