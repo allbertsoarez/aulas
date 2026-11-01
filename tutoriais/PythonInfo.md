@@ -1,20 +1,16 @@
-# Bibliotecas e Frameworks para linguagem Python
+# As melhores informações para estudo e aprimoramentos para Python
 
----
+## Bibliotecas e Frameworks
 
-## [Manim](https://www.manim.community/)
+### [Manim](https://www.manim.community/)
 - https://github.com/ManimCommunity/manim
 
----
-
-## [Python BCB](https://wilsonfreitas.github.io/python-bcb/)
+### [Python BCB](https://wilsonfreitas.github.io/python-bcb/)
 Interface Python para serviços web do Banco Central do Brasil
 
 - https://github.com/wilsonfreitas/python-bcb
 
----
-
-## Loteria
+### Loteria
 - https://github.com/marcusesa/loteria-api
 
 ---
