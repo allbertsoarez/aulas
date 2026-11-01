@@ -164,8 +164,6 @@ date: 2026-10-10
 
 ---
 
- - **[ImKennyYip]**
-   - [python-oop](https://github.com/ImKennyYip/python-oop)
 
 - **[marcusesa]**
   - [loteria-api](https://github.com/marcusesa/loteria-api)
