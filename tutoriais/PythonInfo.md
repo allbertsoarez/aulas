@@ -48,7 +48,6 @@ Pacote Python para validação de documentos brasileiros.
 - https://github.com/techwithtim/Python-Aim-Trainer
 - https://github.com/techwithtim/Python-Beginner-Automation-Projects
 - https://github.com/vinta/awesome-python
-
 - https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA
 - https://github.com/codigoquant/python_para_investimentos
--https://github.com/codigoquant/python_para_investimentos/blob/master/01_Python_para_Investimentos_com_Google_Colab_Obtendo_cota%C3%A7%C3%B5es_do_Yahoo_Finance.ipynb
+- https://github.com/codigoquant/python_para_investimentos/blob/master/01_Python_para_Investimentos_com_Google_Colab_Obtendo_cota%C3%A7%C3%B5es_do_Yahoo_Finance.ipynb
