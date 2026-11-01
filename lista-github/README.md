@@ -168,13 +168,6 @@ date: 2026-10-10
   
   - [GitTutorial](https://github.com/rafaballerini/GitTutorial)
 
-- **[techwithtim]**
-  - [3-Mini-Python-Projects](https://github.com/techwithtim/3-Mini-Python-Projects)
-  - [3-Mini-Python-Projects-For-Intermediates](https://github.com/techwithtim/3-Mini-Python-Projects-For-Intermediates)
-  - [5-Python-Projects-For-Beginners](https://github.com/techwithtim/5-Python-Projects-For-Beginners)
-  - [Python-Aim-Trainer](https://github.com/techwithtim/Python-Aim-Trainer)
-  - [Python-Beginner-Automation-Projects](https://github.com/techwithtim/Python-Beginner-Automation-Projects)
-
 - **[TrexPD]**
   - [loterias_caixa](https://github.com/TrexPD/loterias_caixa)
 
