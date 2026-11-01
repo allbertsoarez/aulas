@@ -175,9 +175,6 @@ date: 2026-10-10
 - **[alexandresanlim]**
   - [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
-- **[alvarofpp]**
-  - [validate-docbr](https://github.com/alvarofpp/validate-docbr)
-
 - **[badges]**
   - 🥈 **[PRIORIDADE ALTA]** [shields](https://github.com/badges/shields) *(O serviço padrão da indústria para geração de badges (selos) dinâmicos e estáticos)*
 
