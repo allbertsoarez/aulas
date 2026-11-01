@@ -237,7 +237,7 @@ https://github.com/Karib0u/rustinel
 https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf
 https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/toolbox/mdcode/demo
 https://github.com/Larissakich/Larissakich
-https://github.com/lazyvim/lazyvim
+
 https://github.com/dunossauro/live-de-python/tree/main/codigo
 https://github.com/dunossauro/live-de-python/tree/main/codigo/Live001
 https://github.com/dunossauro/live-de-python/tree/main/codigo/Live001/BDD/features
