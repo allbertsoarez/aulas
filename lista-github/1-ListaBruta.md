@@ -17,7 +17,7 @@ https://github.com/toddynho/jsonlint-core
 https://github.com/cursoemvideo
 
 
-https://github.com/glacambre/firenvim
+
 https://github.com/gralco/mojo-ide
 https://github.com/jesseduffield/lazygit
 https://github.com/jesseduffield/lazydocker
