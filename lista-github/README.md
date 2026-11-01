@@ -164,9 +164,6 @@ date: 2026-10-10
 
 ---
 
-- **[python]**
-  - [pymanager](https://github.com/python/pymanager)
-
 - **[rafaballerini]**
   - [AssistentePessoal](https://github.com/rafaballerini/AssistentePessoal)
   - [GitTutorial](https://github.com/rafaballerini/GitTutorial)
