@@ -88,9 +88,6 @@ https://github.com/adempiere/adempiere
 https://github.com/adventdevinc/kudu
 https://github.com/affaan-m/ecc
 https://github.com/amit9838/mousam
-https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-/blob/main/Analise_Carteira_Jupter.ipynb
-https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-/blob/main/Analise_Carteira.py
-https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-/blob/main/IA_carteira_acoes.joblib
 https://github.com/andreadcsousa/alura_modelagem-bd-logica_sql
 https://github.com/caelum/apostila-python-orientacao-a-objetos/blob/master/01-como-aprender-python.md
 https://github.com/apurvsinghgautam/robin
@@ -175,13 +172,6 @@ https://github.com/OpenArchive
 https://github.com/pranshuparmar/witr
 https://github.com/PyPortfolio/PyPortfolioOpt/tree/main
 https://github.com/PyPortfolio/PyPortfolioOpt/blob/main/docs/index.rst
-https://github.com/techwithtim/Python-Aim-Trainer/blob/main/tutorial.py
-https://github.com/techwithtim/Python-Beginner-Automation-Projects/blob/main/backup.py
-https://github.com/techwithtim/Python-Beginner-Automation-Projects/blob/main/currency.py
-https://github.com/techwithtim/Python-Beginner-Automation-Projects/blob/main/youtube.py
-https://github.com/techwithtim/Python-Scripting-Project/blob/main/get_game_data.py
-https://github.com/techwithtim/Python-Scripting-Project/blob/main/project.txt
-https://github.com/techwithtim/Python-Slot-Machine/blob/main/main.py
 https://github.com/rafaballerini
 https://github.com/rafaballerini?tab=repositories
 https://github.com/rafaballerini/APIsNavegadores
@@ -191,8 +181,6 @@ https://github.com/rafaballerini/rafaballerini/tree/main
 https://github.com/rafaballerini/rafaballerini
 https://github.com/rafaballerini/rafaballerini/blob/main/README.md?plain=1
 https://github.com/rafaballerini/rafaballerini/blob/main/README.md
-https://github.com/RaphaelSampaio1
-https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-/tree/main
 https://github.com/adventdevinc/kudu/releases
 https://github.com/Stuey3D/VibeSDR/releases
 https://github.com/reorproject/reor
