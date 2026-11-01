@@ -118,15 +118,7 @@ https://github.com/thisisshihan/Winamp
 
 
 
-https://github.com/techwithtim/5-Python-Projects-For-Beginners
-https://github.com/techwithtim/3-Mini-Python-Projects
-https://github.com/techwithtim/3-Mini-Python-Projects-For-Intermediates
-https://github.com/techwithtim/Python-Aim-Trainer
-https://github.com/techwithtim/Python-Beginner-Automation-Projects
-https://github.com/techwithtim/Python-Scripting-Project
-https://github.com/techwithtim/Python-Slot-Machine
-https://github.com/techwithtim/Turtle-Racing-V2
-https://github.com/techwithtim/WPM_Typing_Test
+
 https://github.com/ahmadjoya/github-readme-stats
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 https://github.com/alvarofpp/validate-docbr
