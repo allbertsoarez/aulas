@@ -118,7 +118,7 @@ https://github.com/thisisshihan/Winamp
 
 
 
-https://github.com/dunossauro/python-funcional
+
 https://github.com/techwithtim/5-Python-Projects-For-Beginners
 https://github.com/techwithtim/3-Mini-Python-Projects
 https://github.com/techwithtim/3-Mini-Python-Projects-For-Intermediates
