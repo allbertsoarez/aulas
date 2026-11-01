@@ -3,9 +3,9 @@ https://github.com/codigoquant/python_para_investimentos/blob/master/01_Python_p
 https://github.com/eduardo-ono/Fundamentos-de-Matematica
 https://github.com/eduardo-ono/Matematica
 
-https://github.com/ManimCommunity/manim
+
 https://github.com/marcusesa/loteria-api
-https://github.com/wilsonfreitas/python-bcb
+
 
 https://github.com/arthurgregorio/web-budget
 https://github.com/GitbookIO/gitbook
