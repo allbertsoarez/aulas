@@ -1,6 +1,6 @@
-# As Melhores Informações para Estudo e Aprimoramento em Python
+# AS MELHORES INFORMAÇÕES PARA ESTUDO E APRIMORAMENTO EM PYTHON
 
-## 📦 Bibliotecas & Frameworks
+## 📦 BIBLIOTECAS E FRAMEWORKS
 
 ### [Manim](https://www.manim.community/)
 Biblioteca para animações matemáticas e de dados.
@@ -30,7 +30,7 @@ Biblioteca para obter dados históricos do mercado financeiro (Yahoo Finance).
 
 ---
 
-## 🎓 Cursos, Tutoriais e Material Didático
+## 🎓 CURSOS, TUTORIAIS E MATERIAL DIDÁTICO
 
 - **[Apostila Python Orientação a Objetos (Caelum):](https://github.com/caelum/apostila-python-orientacao-a-objetos)**
 - **[Live de Python (Dunossauro):](https://github.com/dunossauro/live-de-python)**
@@ -39,7 +39,7 @@ Biblioteca para obter dados históricos do mercado financeiro (Yahoo Finance).
 
 ---
 
-## 💻 Projetos Práticos e Exercícios
+## 💻 PROJETOS PRÁTICOS E EXERCÍCIOS
 
 ### Projetos Diversos
 - **[Calculator Python (ImKennyYip):](https://github.com/ImKennyYip/calculator-python)**
