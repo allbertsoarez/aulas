@@ -113,8 +113,6 @@ date: 2026-10-10
 - **[GTFOBins]**
   - 🥈 **[PRIORIDADE ALTA]** [GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) *(O catálogo definitivo e curado de binários Unix para bypass de restrições de segurança)*
 
-- **[hagezi]**
-  - 🏆 **[PRIORIDADE MÁXIMA]** [dns-blocklists](https://github.com/hagezi/dns-blocklists) *(A lista de bloqueio DNS mais abrangente e atualizada para proteção contra rastreamento e malware)*
 
 - **[Kalyel473]**
   - [Eyes-of-God](https://github.com/Kalyel473/Eyes-of-God)
@@ -132,9 +130,6 @@ date: 2026-10-10
 
 - **[ultrasecurity]**
   - [Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker)
-
-- **[zacheller]**
-  - [rockyou](https://github.com/zacheller/rockyou)
 
 ---
 
