@@ -18,3 +18,6 @@ Interface Python para serviços web do Banco Central do Brasil
 - https://github.com/caelum/apostila-python-orientacao-a-objetos
 - https://github.com/dunossauro/live-de-python
 - https://github.com/dunossauro/python-funcional
+- https://github.com/ImKennyYip/calculator-python
+- https://github.com/ImKennyYip/python-oop
+- https://github.com/ImKennyYip/python-oop/tree/master
