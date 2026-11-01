@@ -165,7 +165,6 @@ date: 2026-10-10
 ---
 
 - **[python]**
-  - 🥈 **[PRIORIDADE ALTA]** [cpython](https://github.com/python/cpython) *(O repositório oficial da implementação de referência da linguagem Python)*
   - [pymanager](https://github.com/python/pymanager)
 
 - **[rafaballerini]**
