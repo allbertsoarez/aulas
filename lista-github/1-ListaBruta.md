@@ -28,7 +28,6 @@ https://github.com/llvm/llvm-project
 https://github.com/modular/modular
 
 
-https://github.com/python/pymanager
 
 
 https://github.com/tauri-apps/tauri
