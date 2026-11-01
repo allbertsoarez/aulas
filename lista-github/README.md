@@ -37,8 +37,7 @@ date: 2026-10-10
 
 - **[rafaballerini]**
   
-  - [GitTutorial](https://github.com/rafaballerini/GitTutorial)
-  - [meu-site-html](https://github.com/rafaballerini/meu-site-html)
+   - [meu-site-html](https://github.com/rafaballerini/meu-site-html)
   - [PerfilGithub](https://github.com/rafaballerini/PerfilGithub)
 
 - **[stackblitz-labs]**
