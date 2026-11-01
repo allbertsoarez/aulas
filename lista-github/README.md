@@ -56,9 +56,6 @@ date: 2026-10-10
   - [lazydocker](https://github.com/jesseduffield/lazydocker)
   - 🥉 **[PRIORIDADE MÉDIA]** [lazygit](https://github.com/jesseduffield/lazygit) *(Cliente de terminal simples e intuitivo para comandos complexos do Git)*
 
-- **[lazyvim]**
-  - [lazyvim](https://github.com/lazyvim/lazyvim)
-
 - **[modular]**
   - [modular](https://github.com/modular/modular)
 
