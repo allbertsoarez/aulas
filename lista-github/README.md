@@ -52,9 +52,6 @@ date: 2026-10-10
 ## 📂 FERRAMENTAS DE DESENVOLVIMENTO, IDES E GIT
 
 
-- **[glacambre]**
-  - [firenvim](https://github.com/glacambre/firenvim)
-
 - **[jesseduffield]**
   - [lazydocker](https://github.com/jesseduffield/lazydocker)
   - 🥉 **[PRIORIDADE MÉDIA]** [lazygit](https://github.com/jesseduffield/lazygit) *(Cliente de terminal simples e intuitivo para comandos complexos do Git)*
