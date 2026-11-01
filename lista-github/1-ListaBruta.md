@@ -135,7 +135,7 @@ https://github.com/tandpfun/skill-icons
 https://github.com/USP-ZP/document-template
 https://github.com/vercel-labs/skills
 https://github.com/virgiliojr94/book-to-skill
-https://github.com/vinta/awesome-python
+
 https://github.com/marketplace/actions/badges-readme
 https://github.com/topics/pdf-to-markdown?o=asc&s=forks
 https://github.com/techwithtim/3-Mini-Python-Projects-For-Intermediates/blob/main/currency-converter.py
