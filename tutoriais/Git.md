@@ -6,3 +6,6 @@ Sistema de Controle de Versão
 - https://github.com/apps/desktop?locale=pt-br
 - https://pt.wikipedia.org/wiki/Git
 - https://github.com/rafaballerini/GitTutorial
+
+## Outros
+- https://github.com/jesseduffield/lazygit
