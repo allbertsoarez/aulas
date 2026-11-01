@@ -71,7 +71,7 @@ https://github.com/tashfeenahmed/freellmapi
 
 https://github.com/techjarves/OpenClaude-Portable
 https://github.com/techjarves/Portable-AI-USB
-https://github.com/TrexPD/loterias_caixa
+
 https://github.com/xiaomimimo/mimo
 https://github.com/XiaomiMiMo/MiMo-Code
 https://github.com/yxuansu/OpenAlpaca
