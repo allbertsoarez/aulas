@@ -21,6 +21,10 @@ Pacote Python para validação de documentos brasileiros.
 
 - https://github.com/alvarofpp/validate-docbr
 
+### yfinance
+- https://ranaroussi.github.io/yfinance
+
+
 ---
 
 ### Outros
@@ -34,6 +38,10 @@ Pacote Python para validação de documentos brasileiros.
 - https://github.com/caelum/apostila-python-orientacao-a-objetos
 - https://github.com/dunossauro/live-de-python
 - https://github.com/dunossauro/python-funcional
+- https://github.com/dunossauro/live-de-python/tree/main/codigo
+- https://github.com/dunossauro/live-de-python/tree/main/codigo/Live001
+- https://github.com/dunossauro/live-de-python/tree/main/codigo/Live001/BDD/features
+- https://github.com/dunossauro/live-de-python/tree/main/codigo/Live242
 - https://github.com/ImKennyYip/calculator-python
 - https://github.com/ImKennyYip/python-oop
 - https://github.com/ImKennyYip/python-oop/tree/master
@@ -74,6 +82,7 @@ Pacote Python para validação de documentos brasileiros.
 - https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-/tree/main
 - https://github.com/codigoquant/python_para_investimentos
 - https://github.com/codigoquant/python_para_investimentos/blob/master/01_Python_para_Investimentos_com_Google_Colab_Obtendo_cota%C3%A7%C3%B5es_do_Yahoo_Finance.ipynb
+- https://github.com/caelum/apostila-python-orientacao-a-objetos/blob/master/01-como-aprender-python.md
 
 
 
