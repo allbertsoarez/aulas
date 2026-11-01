@@ -169,7 +169,6 @@ https://github.com/PyPortfolio/PyPortfolioOpt/blob/main/docs/index.rst
 https://github.com/rafaballerini
 https://github.com/rafaballerini?tab=repositories
 https://github.com/rafaballerini/APIsNavegadores
-
 https://github.com/rafaballerini/PerfilGithub
 https://github.com/rafaballerini/rafaballerini/tree/main
 https://github.com/rafaballerini/rafaballerini
@@ -197,12 +196,10 @@ https://github.com/techjarves/Uncensored-Local-Studio
 https://github.com/carlosfab/template_portfolio/blob/master/README.md
 https://github.com/thomasbuilds/Spectre
 https://github.com/TRC-Loop/Pelton
-
 https://github.com/ungoogled-software/ungoogled-chromium
 https://github.com/uniclipboard/uniclipboard
 https://github.com/vigolium/vigolium
 https://github.com/vitorpamplona/amethyst
-
 https://github.com/zacheller
 https://github.com/schemahero/schemahero
 https://github.com/harry0703/MoneyPrinterTurbo/blob/main/README-en.md
@@ -243,7 +240,6 @@ https://cpuvisualsimulator.github.io/
 https://justvugg.github.io/colibri/
 https://gist.github.com/tterb/982ae14a9307b80117dbf49f624ce0e8
 https://skillicons.dev
-
 https://eikek.github.io/sharry
 https://godseye.world
 https://osirisai.live
