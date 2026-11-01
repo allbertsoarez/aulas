@@ -52,48 +52,6 @@ date: 2026-10-10
   - [modular](https://github.com/modular/modular)
 
 
----
-
-## 📂 IA, APRENDIZADO DE MÁQUINA E LLMS
-
-- **[aaif-goose]**
-  - [goose](https://github.com/aaif-goose/goose)
-
-- **[carlosfab]**
-  - [sigmoidal_ai](https://github.com/carlosfab/sigmoidal_ai)
-
-- **[cline]**
-  - [cline](https://github.com/cline/cline)
-
-- **[datalab-to]**
-  - [marker](https://github.com/datalab-to/marker)
-
-- **[MoonshotAI]**
-  - [kimi-code](https://github.com/MoonshotAI/kimi-code)
-
-- **[open-webui]**
-  - 🏆 **[PRIORIDADE MÁXIMA]** [open-webui](https://github.com/open-webui/open-webui) *(Interface de usuário local, rica em recursos e auto-hospedável para diversos modelos LLM)*
-
-- **[QwenLM]**
-  - [Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)
-
-
-- **[RooCodeInc]**
-  - [Roo-Code](https://github.com/RooCodeInc/Roo-Code)
-
-- **[techjarves]**
-  - [ClaudeCode-Portable](https://github.com/techjarves/ClaudeCode-Portable)
- 
-  - [OpenClaude-Portable](https://github.com/techjarves/OpenClaude-Portable)
-  - [Portable-AI-USB](https://github.com/techjarves/Portable-AI-USB)
-  - [Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio)
-  - [Uncensored-Local-Studio](https://github.com/techjarves/Uncensored-Local-Studio)
-
-- **[xiaomimimo]**
-  - [mimo](https://github.com/xiaomimimo/mimo)
-
----
-
 ## 📂 PRODUTIVIDADE, UTILITÁRIOS E SISTEMAS OPERACIONAIS
 
 - **[AppFlowy-IO]**
