@@ -89,7 +89,7 @@ https://github.com/adventdevinc/kudu
 https://github.com/affaan-m/ecc
 https://github.com/amit9838/mousam
 https://github.com/andreadcsousa/alura_modelagem-bd-logica_sql
-https://github.com/caelum/apostila-python-orientacao-a-objetos/blob/master/01-como-aprender-python.md
+
 https://github.com/apurvsinghgautam/robin
 https://github.com/asgeirtj
 https://github.com/KAYOKG/BibliotecaDev/blob/main/LivrosDev/Agile%20Retrospectives%20-%20Making%20Good%20Teams%20Great%20(Pragmatic%20Programmers)%20-%20Autor%20(Esther%20Derby).pdf
@@ -113,7 +113,6 @@ https://github.com/USP-ZP/document-template/tree/main/template
 https://github.com/doguilmak/Drone-Detection-YOLOv8x
 https://github.com/BreadOnPenguins/dots/tree/master/.config/rmpc
 https://github.com/BreadOnPenguins/dots/blob/master/.config/wal/templates/pywal16.ron
-https://github.com/dunossauro
 https://github.com/affaan-m/ECC/blob/main/docs/pt-BR/README.md
 https://github.com/EddieNine
 https://github.com/carlosfab/template_portfolio/edit/master/README.md
@@ -148,10 +147,6 @@ https://github.com/Karib0u/rustinel
 https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf
 https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/toolbox/mdcode/demo
 https://github.com/Larissakich/Larissakich
-https://github.com/dunossauro/live-de-python/tree/main/codigo
-https://github.com/dunossauro/live-de-python/tree/main/codigo/Live001
-https://github.com/dunossauro/live-de-python/tree/main/codigo/Live001/BDD/features
-https://github.com/dunossauro/live-de-python/tree/main/codigo/Live242
 https://github.com/m5stack
 https://github.com/makeplane/plane
 https://github.com/microsoft/markitdown/tree/main/packages
@@ -245,7 +240,7 @@ https://heartmula.github.io/
 https://gligen.github.io/
 https://fga-eps-mds.github.io/GFour-Invext/#/
 https://ecc.tools/
-https://wilsonfreitas.github.io/python-bcb/#
+
 https://cpuvisualsimulator.github.io/
 https://justvugg.github.io/colibri/
 https://gist.github.com/tterb/982ae14a9307b80117dbf49f624ce0e8
@@ -258,7 +253,7 @@ https://ponytail.dev
 https://spatialintelligence.ai
 https://moonshotai.github.io/kimi-cli
 https://ranaroussi.github.io/yfinance
-https://wilsonfreitas.github.io/python-bcb
+
 https://stackblitz-labs.github.io/bolt.diy
 https://linux.toys/index.pt-BR.html
 https://threejs.org
