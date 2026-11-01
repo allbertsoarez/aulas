@@ -66,10 +66,12 @@ Pacote Python para validação de documentos brasileiros.
 - https://github.com/techwithtim/Python-Scripting-Project/blob/main/get_game_data.py
 - https://github.com/techwithtim/Python-Scripting-Project/blob/main/project.txt
 - https://github.com/techwithtim/Python-Slot-Machine/blob/main/main.py
-
-
+- https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-/blob/main/Analise_Carteira_Jupter.ipynb
+- https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-/blob/main/Analise_Carteira.py
+- https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-/blob/main/IA_carteira_acoes.joblib
 - https://github.com/vinta/awesome-python
 - https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-
+- https://github.com/RaphaelSampaio1/Analise-Carteira-de-Acoes-com-Inteligencia-Artificial-IA-/tree/main
 - https://github.com/codigoquant/python_para_investimentos
 - https://github.com/codigoquant/python_para_investimentos/blob/master/01_Python_para_Investimentos_com_Google_Colab_Obtendo_cota%C3%A7%C3%B5es_do_Yahoo_Finance.ipynb
 
