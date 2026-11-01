@@ -27,8 +27,6 @@ date: 2026-10-10
   - [Fundamentos-de-Matematica](https://github.com/eduardo-ono/Fundamentos-de-Matematica)
   - [Matematica](https://github.com/eduardo-ono/Matematica)
 
-- **[ManimCommunity]**
-  - 🥈 **[PRIORIDADE ALTA]** [manim](https://github.com/ManimCommunity/manim) *(A biblioteca padrão-ouro para animações matemáticas e de dados em Python)*
 
 - **[wilsonfreitas]**
   - 🥉 **[PRIORIDADE MÉDIA]** [python-bcb](https://github.com/wilsonfreitas/python-bcb) *(Ferramenta essencial e robusta para coleta de dados do Banco Central do Brasil)*
