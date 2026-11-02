@@ -3,3 +3,4 @@ Comece a usar Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma e outros modelo
 
 - https://ollama.com/download/windows
 - https://teclas.soberana.tv/ollama_deepseek.html
+- https://github.com/ollama/ollama
