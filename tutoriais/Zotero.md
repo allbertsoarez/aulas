@@ -1,4 +1,5 @@
 # [Zotero](https://www.zotero.org/)
+O Zotero é uma ferramenta gratuita e fácil de usar que ajuda você a coletar, organizar, anotar, citar e compartilhar suas fontes de pesquisa.
 
 - https://www.zotero.org/support/installation
 - https://github.com/zotero/zotero
