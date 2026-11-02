@@ -1,6 +1,7 @@
-# Zotero
+# [Zotero](https://www.zotero.org/)
 
 - https://www.zotero.org/support/installation
+- https://github.com/zotero/zotero
 - https://pt.wikipedia.org/wiki/Zotero
 - https://institucional.ufrrj.br/biblioteca/2021/08/20/voce-conhece-o-zotero/
 - https://www.ufrgs.br/bibliotecas/ferramentas/campos-basicos-abnt-zotero/
