@@ -1,4 +1,4 @@
-# EMENTA usada no Curso Técnico de Informática para disciplina de Linguagem de Programação
+# EMENTA usada no Curso Técnico de Informática para disciplina de Lógica de Programação
 
 - Definição de Algoritmo.
 - Tipos de dados.
