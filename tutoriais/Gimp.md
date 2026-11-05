@@ -5,3 +5,4 @@ Software para manipulação de imagem
 - https://pt.wikipedia.org/wiki/GIMP
 - https://github.com/Diolinux/Photogimp
 - https://diolinux.com.br/tutoriais/instalar-photogimp-gimp-photoshop.html
+- https://github.com/Diolinux/PhotoGIMP
