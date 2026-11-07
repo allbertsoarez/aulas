@@ -232,7 +232,6 @@ https://gamezonelabs.com/
 https://osirisai.live/?layers=maritime,cctv,cctv_previews,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval
 https://github.com/crosstalk-solutions/project-nomad
 https://www.projectnomad.us/
-
 https://github.com/morluto/rea/blob/main/README_pt-BR.md
 https://rea.tools/
 https://rea.tools/pt-BR/
