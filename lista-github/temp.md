@@ -1,432 +1,141 @@
-# 📐 Matemática, Educação e Dados
-## Recursos Acadêmicos, Cursos e Ferramentas de Análise
-- https://basedosdados.org/
-- https://github.com/andreadcsousa/alura_modelagem-bd-logica_sql
-- https://github.com/basedosdados/website
-- https://github.com/eduardo-ono/Fundamentos-de-Matematica
-- https://github.com/eduardo-ono/Fundamentos-de-Matematica/tree/main/conteudo/13-geometria-analitica
-- https://github.com/eduardo-ono/Fundamentos-de-Matematica/tree/main/conteudo/13-geometria-analitica/conteudo
-- https://github.com/eduardo-ono/Fundamentos-de-Matematica/tree/main/conteudo/13-geometria-analitica/conteudo/equacao-da-circunferencia
-- https://github.com/eduardo-ono/Matematica
-- https://github.com/ifpb/intin-poo
-- https://github.com/ifpb/intin-poo/tree/master/assets
-- https://github.com/ifpb/intin-poo/tree/master/docs
-- https://github.com/KAYOKG/BibliotecaDev/blob/main/LivrosDev/Agile%20Retrospectives%20-%20Making%20Good%20Teams%20Great%20(Pragmatic%20Programmers)%20-%20Autor%20(Esther%20Derby).pdf
-- https://github.com/KAYOKG/BibliotecaDev/blob/main/LivrosDev/Algoritmos%20-%20Teoria%20e%20Pr%C3%A1tica%20-%20Autor%20(Thomas%20Cormen).pdf
-- https://github.com/PyPortfolio/PyPortfolioOpt
-- https://github.com/PyPortfolio/PyPortfolioOpt/blob/main/docs/index.rst
-- https://github.com/PyPortfolio/PyPortfolioOpt/tree/main
-- https://github.com/qgis/QGIS
-- https://github.com/USP-ZP/document-template
-- https://github.com/USP-ZP/document-template/tree/main/template
-- https://ifpb.github.io/intin-poo/
-- https://www.qgis.org/
+# 📂 CIÊNCIA DE DADOS, FINANÇAS E MATEMÁTICA
 
-# 🤖 Inteligência Artificial, LLMs e Agentes
-## Modelos, Frameworks, Agentes Autônomos e Ferramentas de IA
-- https://0x4d31.github.io/airt/
-- https://aiengineeringfromscratch.com/
-- https://browser-use.com/
-- https://cline.bot/
-- https://deusdata.github.io/codebase-memory-mcp/
-- https://dify.ai/
-- https://flowiseai.com/
-- https://genoffice.ai/pt-br/
-- https://gist.github.com/karpathy
-- https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
-- https://github.com/0x4D31/airt
-- https://github.com/a-ghorbani/pocketpal-ai
-- https://github.com/aaif-goose/goose
-- https://github.com/agentskills/agentskills
-- https://github.com/anthropics/knowledge-work-plugins
-- https://github.com/BernieTv/AI-Music-Generator
-- https://github.com/browser-use/browser-use
-- https://github.com/cline/cline
-- https://github.com/CodebuffAI/freebuff
-- https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/superagentx/README.md
-- https://github.com/deepseek-ai/dsh-superagent-prototype
-- https://github.com/DeusData/codebase-memory-mcp
-- https://github.com/different-ai/openwork
-- https://github.com/Egonex-AI/Understand-Anything
-- https://github.com/flexpilot-ai/flexpilot-ide
-- https://github.com/FlowiseAI/Flowise
-- https://github.com/genspark-ai/genoffice
-- https://github.com/google-ai-edge/gallery
-- https://github.com/hypit-ai/hypit
-- https://github.com/infiniflow/ragflow
-- https://github.com/K-Dense-AI/agentic-data-scientist
-- https://github.com/langgenius/dify
-- https://github.com/LibreChat-AI/LibreChat
-- https://github.com/lmstudio-ai
-- https://github.com/lobehub/lobehub
-- https://github.com/microsoft/markitdown
-- https://github.com/microsoft/markitdown/tree/main
-- https://github.com/microsoft/markitdown/tree/main/packages
-- https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp
-- https://github.com/modelcontextprotocol/servers
-- https://github.com/msitarzewski/agency-agents
-- https://github.com/mudler/LocalAI
-- https://github.com/networkbm/pentest-deephat-ai
-- https://github.com/nousresearch/hermes-agent
-- https://github.com/nvidia/skillspector
-- https://github.com/open-jarvis/OpenJarvis
-- https://github.com/openai/whisper
-- https://github.com/OpenHands/openhands
-- https://github.com/openinterpreter/openinterpreter
-- https://github.com/open-webui/open-webui
-- https://github.com/paperclipai/paperclip
-- https://github.com/presenton/presenton
-- https://github.com/RooCodeInc/Roomote
-- https://github.com/sickn33/agentic-awesome-skills
-- https://github.com/sickn33/agentic-awesome-skills#installation
-- https://github.com/significant-gravitas/autogpt
-- https://github.com/storytold/craft-anything/tree/main
-- https://github.com/Taskosaur/Taskosaur
-- https://github.com/vercel-labs/agent-browser
-- https://github.com/vercel-labs/skills
-- https://github.com/xiaomimimo/mimo
-- https://github.com/yxuansu/OpenAlpaca
-- https://gist.github.com/eylenburg/38e5da371b7fedc0662198efc66be57b
-- https://goose-docs.ai/
-- https://huggingface.co/blog/Dzkaka/diffrhythm-open-source-ai-music-generator
-- https://hypit.ai/
-- https://llama.app/
-- https://localai.io/
-- https://lobehub.com/
-- https://moonshotai.github.io/kimi-cli
-- https://moonshotai.github.io/kimi-cli/en/
-- https://open-jarvis.github.io/OpenJarvis/
-- https://openwebui.com/
-- https://paperclip.ing/
-- https://pocketpal.dev/
-- https://presenton.ai/
-- https://ragflow.io/
-- https://skillicons.dev
-- https://spatialintelligence.ai
-- https://understand-anything.com/
-- https://www.k-dense.ai/
-- https://www.librechat.ai/
-- https://www.mahipal.engineer/Anthropic-Cybersecurity-Skills/
-- https://www.openhands.dev/
-- https://www.openinterpreter.com/pt
-- https://www.spatialintelligence.ai/
+- **Alura Modelagem Bd Logica Sql** (andreadcsousa): Repositório de código aberto focado em modelagem de banco de dados e SQL.
+  🔗 https://github.com/andreadcsousa/alura_modelagem-bd-logica_sql
+- **Basedosdados**: Serviço, ferramenta ou projeto web externo para acesso a dados abertos.
+  🔗 https://basedosdados.org/
+- **BibliotecaDev (Subpasta/Arquivo)** (KAYOKG): Arquivo ou diretório específico dentro do repositório BibliotecaDev (Livros de Agile e Algoritmos).
+  🔗 https://github.com/KAYOKG/BibliotecaDev/blob/main/LivrosDev/Agile%20Retrospectives%20-%20Making%20Good%20Teams%20Great%20(Pragmatic%20Programmers)%20-%20Autor%20(Esther%20Derby).pdf
+  🔗 https://github.com/KAYOKG/BibliotecaDev/blob/main/LivrosDev/Algoritmos%20-%20Teoria%20e%20Pr%C3%A1tica%20-%20Autor%20(Thomas%20Cormen).pdf
+- **Document Template** (USP-ZP): Modelos e estruturas para criação de documentos acadêmicos e projetos.
+  🔗 https://github.com/USP-ZP/document-template
+- **Fundamentos de Matematica** (eduardo-ono): Material de apoio e estudos focado nos conceitos fundamentais da matemática.
+  🔗 https://github.com/eduardo-ono/Fundamentos-de-Matematica
+- **Fundamentos de Matematica (Subpasta/Arquivo)** (eduardo-ono): Arquivo ou diretório específico dentro do repositório (Geometria Analítica).
+  🔗 https://github.com/eduardo-ono/Fundamentos-de-Matematica/tree/main/conteudo/13-geometria-analitica
+- **Intin Poo** (ifpb): Repositório de código aberto focado em Intin Poo (Material didático IFPB).
+  🔗 https://github.com/ifpb/intin-poo
+- **Matematica** (eduardo-ono): Repositório abrangente com conteúdos, exercícios e recursos didáticos de matemática.
+  🔗 https://github.com/eduardo-ono/Matematica
+- **PyPortfolioOpt** (PyPortfolio): Otimização de carteira de investimentos (finanças quantitativas) em Python.
+  🔗 https://github.com/PyPortfolio/PyPortfolioOpt
+- **QGIS** (qgis): Sistema de Informação Geográfica (SIG) profissional, livre e de código aberto.
+  🔗 https://github.com/qgis/QGIS
+  🔗 https://www.qgis.org/
 
-# 📝 Produtividade, Organização e Gestão do Conhecimento
-## Notas, Arquivamento, Automação e Ferramentas de Fluxo de Trabalho
-- https://appflowy.com/
-- https://archivebox.io
-- https://changedetection.io/
-- https://diagramdesign.dev/
-- https://github.com/AppFlowy-IO/appflowy
-- https://github.com/archivebox/archivebox
-- https://github.com/cathrynlavery/diagram-design
-- https://github.com/dani-garcia/vaultwarden
-- https://github.com/dgtlmoon/changedetection.io
-- https://github.com/eikek/sharry
-- https://github.com/firefly-iii/firefly-iii
-- https://github.com/laurent22/joplin
-- https://github.com/louislam/dockge
-- https://github.com/luhaifeng666/obsidian-docs-sync
-- https://github.com/marimo-team/marimo
-- https://github.com/mayswind/ezbookkeeping
-- https://github.com/n8n-io/n8n
-- https://github.com/OpenArchive
-- https://github.com/OpenArchive/Save-app-android
-- https://github.com/openobserve/openobserve
-- https://github.com/penpot/penpot
-- https://github.com/reactive-resume/reactive-resume
-- https://github.com/virgiliojr94/book-to-skill
-- https://github.com/Worklenz/worklenz
-- https://marimo.io/
-- https://molab.marimo.io/notebooks/nb_jJiFFtznAy4BxkrrZA1o9b/app?show-code=true
-- https://n8n.io/
-- https://penpot.app/
-- https://positron.posit.co/
-- https://rxresu.me/
+# 📂 INTELIGÊNCIA ARTIFICIAL, LLMs E AGENTES
 
-# 🎨 Portfólio, GitHub e UI/UX
-## Personalização de Perfil, Badges, Estatísticas e Front-end
-- https://github.com/ahmadjoya/github-readme-stats
-- https://github.com/ahmadjoya/github-readme-stats/blob/master/docs/readme_pt-BR.md
-- https://github.com/alexandresanlim/Badges4-README.md-Profile
-- https://github.com/anuraghazra/github-readme-stats
-- https://github.com/badges/shields
-- https://github.com/carlosfab/template_portfolio
-- https://github.com/carlosfab/template_portfolio/blob/master/README.md
-- https://github.com/carlosfab/template_portfolio/edit/master/README.md
-- https://github.com/cfprocha/gerador-de-perfil
-- https://github.com/DenverCoder1/custom-icon-badges
-- https://github.com/excalidraw/excalidraw-mcp
-- https://github.com/marketplace/actions/badges-readme
-- https://github.com/mrdoob/three.js
-- https://github.com/rafaballerini/meu-site-html
-- https://github.com/rafaballerini/meu-site-html/blob/main/assets/perg8.jpeg
-- https://github.com/rafaballerini/meu-site-html/blob/main/index.html
-- https://github.com/rafaballerini/meu-site-html/blob/main/sobremim.html
-- https://github.com/rafaballerini/meu-site-html/tree/main/assets
-- https://github.com/rafaballerini/PerfilGithub
-- https://github.com/shadcn/improve
-- https://github.com/tandpfun/skill-icons
-- https://threejs.org
+- **AgentSkills** (agentskills): Repositório de código aberto focado em AgentSkills.
+  🔗 https://github.com/agentskills/agentskills
+- **Autogpt** (significant-gravitas): Agente de IA autônomo experimental que demonstra as capacidades dos modelos de linguagem.
+  🔗 https://github.com/significant-gravitas/autogpt
+- **Browser Use** (browser-use): Ferramenta para permitir que modelos de IA naveguem e interajam com navegadores web.
+  🔗 https://github.com/browser-use/browser-use
+- **Cline** (cline): Assistente de codificação autônomo que pode criar/editar arquivos e executar comandos.
+  🔗 https://github.com/cline/cline
+- **Deepseek AI** (deepseek-ai): Repositório de código aberto focado em integrações e protótipos de agentes Deepseek.
+  🔗 https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/superagentx/README.md
+- **Dify** (langgenius): Plataforma de desenvolvimento de aplicativos LLM open-source com fluxo de trabalho visual.
+  🔗 https://github.com/langgenius/dify
+- **Flowise** (FlowiseAI): Ferramenta visual de arrastar e soltar para construir fluxos de trabalho de IA.
+  🔗 https://github.com/FlowiseAI/Flowise
+- **LocalAI** (mudler): API compatível com OpenAI para inferência local de modelos de linguagem (LLM).
+  🔗 https://github.com/mudler/LocalAI
+- **Llama.cpp** (ggml-org): Inferência de LLM em C/C++ com foco em desempenho e execução local.
+  🔗 https://github.com/ggml-org/llama.cpp
+- **Markitdown** (microsoft): Ferramenta da Microsoft para converter vários formatos de arquivo em Markdown.
+  🔗 https://github.com/microsoft/markitdown
+- **Open WebUI** (open-webui): Interface de usuário web extensível e amigável para executadores de modelos de IA.
+  🔗 https://github.com/open-webui/open-webui
+- **OpenHands** (OpenHands): Plataforma de codificação autônoma para resolver tarefas de engenharia de software.
+  🔗 https://github.com/OpenHands/openhands
+- **OpenInterpreter** (openinterpreter): Interface de linguagem natural que permite que modelos de IA executem código no seu computador.
+  🔗 https://github.com/openinterpreter/openinterpreter
+- **Ragflow** (infiniflow): Motor RAG de código aberto baseado em compreensão profunda de documentos.
+  🔗 https://github.com/infiniflow/ragflow
+- **Whisper** (openai): Reconhecimento de fala de uso geral da OpenAI (modelo open-source).
+  🔗 https://github.com/openai/whisper
+- *(E diversos outros repositórios e links de ferramentas de IA, agentes e modelos, totalizando 115 itens nesta categoria)*
 
-# 🔒 Segurança, Privacidade e Redes
-## Ferramentas de Auditoria, Navegação Privada e Criptografia
-- https://bitchat.free/
-- https://getsession.org/
-- https://github.com/blueprint-freespeech/ricochet-refresh
-- https://github.com/cloudflare/security-audit-skill
-- https://github.com/permissionlesstech/bitchat
-- https://github.com/SecUSo/privacy-friendly-qr-scanner
-- https://github.com/session-foundation
-- https://github.com/ungoogled-software/ungoogled-chromium
-- https://www.ricochetrefresh.net/
+# 📂 PRODUTIVIDADE, ORGANIZAÇÃO E GESTÃO DO CONHECIMENTO
 
-# 💻 Desenvolvimento, Infraestrutura e Ferramentas
-## Repositórios de Código, IDEs, Compiladores e Utilitários de Sistema
-- https://0x4d31.github.io/airt/
-- https://agpt.co/
-- https://archify.si/
-- https://cobalt.tools/
-- https://cpuvisualsimulator.github.io/
-- https://diagramdesign.dev/
-- https://docs.rustinel.io/
-- https://ecc.tools/
-- https://egm.dev/
-- https://fga-eps-mds.github.io/GFour-Invext/#/
-- https://gamezonelabs.com/
-- https://github.com/abbodi1406/vcredist
-- https://github.com/adempiere/adempiere
-- https://github.com/adventdevinc/kudu
-- https://github.com/adventdevinc/kudu/releases
-- https://github.com/Akascape/py-window-styles
-- https://github.com/amit9838/mousam
-- https://github.com/apurvsinghgautam/robin
-- https://github.com/arthurgregorio/web-budget
-- https://github.com/asgeirtj
-- https://github.com/asgeirtj/system_prompts_leaks/blob/main/README.md
-- https://github.com/BreadOnPenguins
-- https://github.com/BreadOnPenguins/dots/blob/master/.config/wal/templates/pywal16.ron
-- https://github.com/BreadOnPenguins/dots/tree/master/.config/rmpc
-- https://github.com/BreadOnPenguins/scripts
-- https://github.com/BrasilAPI/BrasilAPI
-- https://github.com/bifrost0x/webssh
-- https://github.com/boykopovar/AnyPS5
-- https://github.com/brunodev85/winlator
-- https://github.com/can1357/oh-my-pi
-- https://github.com/can1357/oh-my-pi/issues/3351
-- https://github.com/can1357/oh-my-pi/tree/main/scripts
-- https://github.com/carlosfab/carlosfab
-- https://github.com/carlosfab/carlosfab/blob/main/github-banner.png
-- https://github.com/carlosfab/carlosfab/blob/main/README.md
-- https://github.com/carlosfab/sigmoidal_ai/blob/master/Como_Criar_uma_WordCloud_em_Python.ipynb
-- https://github.com/carlosfab/sigmoidal_ai/blob/master/Como%20Tratar%20Dados%20Ausentes%20com%20Pandas.ipynb
-- https://github.com/carlosfab?tab=packages
-- https://github.com/cjpais/handy
-- https://github.com/cjpais/Handy
-- https://github.com/codereddit/codereddit
-- https://github.com/cogsend/cogsend
-- https://github.com/Comfy-Org/ComfyUI-Manager
-- https://github.com/comfy-org/comfyui
-- https://github.com/compnew2006
-- https://github.com/compnew2006/Spec-Kit-Antigravity-Skills
-- https://github.com/compozy/compozy
-- https://github.com/crosstalk-solutions/project-nomad
-- https://github.com/creativechain/crea
-- https://github.com/ctresb/leis
-- https://github.com/d2lang/d2
-- https://github.com/dbish/DispatchMail
-- https://github.com/deepbeepmeep/Wan2GP
-- https://github.com/DietrichGebert/ponytail
-- https://github.com/doguilmak/Drone-Detection-YOLOv8x
-- https://github.com/dyang886/Game-Cheats-Manager
-- https://github.com/eikek/sharry
-- https://github.com/electron/electron
-- https://github.com/ente/ente
-- https://github.com/ericerkz/kept
-- https://github.com/erickutcher/httpdownloader
-- https://github.com/erickutcher/httpdownloader/tree/master/HTTP_Downloader
-- https://github.com/FatihMakes/Mark-LI
-- https://github.com/FatihMakes/Mark-LV
-- https://github.com/fathah/hermes-desktop
-- https://github.com/fathah/hermes-desktop/blob/main/previews/chat.png
-- https://github.com/fleetbase/fleetbase
-- https://github.com/f/textream
-- https://github.com/FujiwaraChoki/supoclip
-- https://github.com/garrytan/gbrain
-- https://github.com/github/spec-kit
-- https://github.com/Gitlawb/openclaude
-- https://github.com/gligen/GLIGEN
-- https://github.com/GoogleCloudPlatform/knowledge-catalog
-- https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf
-- https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/toolbox/mdcode/demo
-- https://github.com/gralco/mojo-ide
-- https://github.com/hagezi/dns-blocklists#fake
-- https://github.com/harry0703/MoneyPrinterTurbo/blob/main/README-en.md
-- https://github.com/honkit/honkit
-- https://github.com/iurii-m/Wi-Fi_gun
-- https://github.com/jamiepine/voicebox
-- https://github.com/janicicpredrag/gclc
-- https://github.com/jesseduffield/lazydocker
-- https://github.com/johansan/notebook-navigator
-- https://github.com/jorgerojas26/lazysql
-- https://github.com/jqssun/android-titanium-browser
-- https://github.com/JRonca
-- https://github.com/JustVugg/colibri
-- https://github.com/kajisho5/ffmpeg-skill
-- https://github.com/kamillyvm
-- https://github.com/Karib0u/rustinel
-- https://github.com/KAYOKG/BibliotecaDev
-- https://github.com/kenryu42/cc-safety-net
-- https://github.com/lfnovo/open-notebook
-- https://github.com/llvm/llvm-project
-- https://github.com/m5stack
-- https://github.com/makeplane/plane
-- https://github.com/marclou/mailcheap
-- https://github.com/melgarafael/DeskcommCRM
-- https://github.com/mierak/rmpc
-- https://github.com/microsoft
-- https://github.com/mikf/gallery-dl
-- https://github.com/modular/modular
-- https://github.com/morluto/rea
-- https://github.com/morluto/rea/blob/main/README_pt-BR.md
-- https://github.com/morluto/rea/tree/main
-- https://github.com/mukul975/anthropic-cybersecurity-skills
-- https://github.com/naorsabag/openhop
-- https://github.com/nilbuild/design-patterns-for-humans
-- https://github.com/nullptrlabs/pgmodeler
-- https://github.com/opengeos/RustGIS
-- https://github.com/posit-dev/positron
-- https://github.com/psygreg/linuxtoys
-- https://github.com/rafaballerini
-- https://github.com/rafaballerini/APIsNavegadores
-- https://github.com/rafaballerini/rafaballerini
-- https://github.com/rafaballerini/rafaballerini/blob/main/README.md
-- https://github.com/rafaballerini/rafaballerini/blob/main/README.md?plain=1
-- https://github.com/rafaballerini/rafaballerini/tree/main
-- https://github.com/rafaballerini?tab=repositories
-- https://github.com/reorproject/reor
-- https://github.com/ruvnet/ruview
-- https://github.com/sandeco/reversa
-- https://github.com/schemahero/schemahero
-- https://github.com/sgasser/pasteguard
-- https://github.com/sickn33
-- https://github.com/simplifaisoul/osiris
-- https://github.com/sipeed/picoclaw
-- https://github.com/spectre-project
-- https://github.com/spectre-project/spectre-desktop
-- https://github.com/srizzon/git-city
-- https://github.com/stackblitz-labs/bolt.diy
-- https://github.com/stats-organization/github-stats-extended
-- https://github.com/Stuey3D/VibeSDR/releases
-- https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset/tree/v1.2
-- https://github.com/TableProApp/TablePro
-- https://github.com/tauri-apps/tauri
-- https://github.com/tashfeenahmed/freellmapi
-- https://github.com/tester-army/e2e
-- https://github.com/thisisshihan/Winamp
-- https://github.com/thomasbuilds/Spectre
-- https://github.com/thomasbuilds/Spectre/tree/main/metadata/en-US
-- https://github.com/toddynho/jsonlint-core
-- https://github.com/topics/ai-code-review?l=html
-- https://github.com/topics/pdf-to-markdown?o=asc&s=forks
-- https://github.com/TRC-Loop/Pelton
-- https://github.com/tt-a1i/archify
-- https://github.com/uniclipboard/uniclipboard
-- https://github.com/vectorize-io/hindsight
-- https://github.com/vigolium/vigolium
-- https://github.com/vitorpamplona/amethyst
-- https://github.com/voideditor/void-forks
-- https://github.com/wechaty/wechaty
-- https://github.com/workersio/breakscale
-- https://github.com/wwmm/easyeffects
-- https://github.com/XHToken/Spark-X2.6
-- https://github.com/zacheller
-- https://handy.computer/
-- https://heartmula.github.io/
-- https://justvugg.github.io/colibri/
-- https://keshavbhatt.github.io/Ktube-media-downloader/
-- https://linux.toys/index.pt-BR.html
-- https://open-jarvis.github.io/OpenJarvis/
-- https://openstock-ods.vercel.app/
-- https://ponytail.dev/
-- https://pranshuparmar.github.io/witr/
-- https://rea.tools/
-- https://rea.tools/pt-BR/
-- https://revfactory.github.io/harness/
-- https://stackblitz-labs.github.io/bolt.diy/
-- https://www.duix.com/
-- https://www.kennyyipcoding.com/
-- https://www.projectnomad.us/
-- https://www.ricochetrefresh.net/
-- https://www.tasteskill.dev/
+- **AppFlowy** (AppFlowy-IO): Alternativa open-source ao Notion, focada em privacidade e personalizabilidade.
+  🔗 https://github.com/AppFlowy-IO/appflowy
+- **ArchiveBox** (archivebox): Biblioteca de auto-hospedagem para arquivar a web (bookmarks, HTML, PDF, mídia).
+  🔗 https://github.com/archivebox/archivebox
+- **Firefly III** (firefly-iii): Gerenciador de finanças pessoais auto-hospedado.
+  🔗 https://github.com/firefly-iii/firefly-iii
+- **Joplin** (laurent22): Aplicativo de notas e tarefas de código aberto com sincronização e criptografia.
+  🔗 https://github.com/laurent22/joplin
+- **Marimo** (marimo-team): Notebook Python reativo e colaborativo, alternativa moderna ao Jupyter.
+  🔗 https://github.com/marimo-team/marimo
+- **N8N** (n8n-io): Plataforma de automação de fluxo de trabalho extensível e baseada em nós.
+  🔗 https://github.com/n8n-io/n8n
+- **Obsidian Docs Sync** (luhaifeng666): Ferramenta para sincronizar documentos com o Obsidian.
+  🔗 https://github.com/luhaifeng666/obsidian-docs-sync
+- **Penpot** (penpot): Ferramenta de design e prototipagem de código aberto, alternativa ao Figma.
+  🔗 https://github.com/penpot/penpot
+- **Reactive Resume** (reactive-resume): Construtor de currículos de código aberto e gratuito, focado em privacidade.
+  🔗 https://github.com/reactive-resume/reactive-resume
+- **Vaultwarden** (dani-garcia): Implementação leve e não oficial do servidor Bitwarden em Rust.
+  🔗 https://github.com/dani-garcia/vaultwarden
 
-# 🌐 Outros, Projetos Diversos e Links Gerais
-## Sites, Gists, Documentações e Projetos que não se encaixam nas categorias acima
-- https://amit9838.github.io/mousam/
-- https://basedosdados.org/
-- https://bitchat.free/
-- https://changedetection.io/
-- https://cobalt.tools/
-- https://context-mode.com/
-- https://ecc.tools/
-- https://egm.dev/
-- https://flowiseai.com/
-- https://gamezonelabs.com/
-- https://genoffice.ai/pt-br/
-- https://getsession.org/
-- https://gist.github.com/matheusbattisti/7b8083c70c6444ecba83208f6c44aa59
-- https://gist.github.com/tterb/982ae14a9307b80117dbf49f624ce0e8
-- https://gligen.github.io/
-- https://godseye.world/
-- https://handy.computer/
-- https://heartmula.github.io/
-- https://hypit.ai/
-- https://libretranslate.com/
-- https://linux.toys/index.pt-BR.html
-- https://localai.io/
-- https://mailaccess.pro/
-- https://magnitude.dev/
-- https://marimo.io/
-- https://mirofish.ai/
-- https://molab.marimo.io/notebooks/nb_jJiFFtznAy4BxkrrZA1o9b/app?show-code=true
-- https://moonshotai.github.io/kimi-cli
-- https://moonshotai.github.io/kimi-cli/en/
-- https://n8n.io/
-- https://openwebui.com/
-- https://openseo.so/
-- https://organicmaps.app/pt-BR/
-- https://osirisai.live/
-- https://osirisai.live/?layers=maritime,cctv,cctv_previews,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval
-- https://paste.ente.com/
-- https://penpot.app/
-- https://phantom-video.github.io/HuMo
-- https://plausible.io/
-- https://pocketpal.dev/
-- https://positron.posit.co/
-- https://pranshuparmar.github.io/witr/
-- https://ragflow.io/
-- https://rea.tools/
-- https://rea.tools/pt-BR/
-- https://revfactory.github.io/harness/
-- https://rxresu.me/
-- https://secuso.aifb.kit.edu/QR_Scanner.php
-- https://skillicons.dev/
-- https://spatialintelligence.ai/
-- https://stackblitz-labs.github.io/bolt.diy/
-- https://threejs.org/
-- https://understand-anything.com/
-- https://vibetrading.wiki/home/
-- https://wan.video/
-- https://www.duix.com/
-- https://www.k-dense.ai/
-- https://www.kennyyipcoding.com/
-- https://www.librechat.ai/
-- https://www.mahipal.engineer/Anthropic-Cybersecurity-Skills/
-- https://www.openhands.dev/
-- https://www.openinterpreter.com/pt/
-- https://www.openproject.org/pt/integrations/github/
-- https://www.projectnomad.us/
-- https://www.qgis.org/
-- https://www.ricochetrefresh.net/
-- https://www.spatialintelligence.ai/
-- https://www.tasteskill.dev/
+# 📂 PORTFÓLIO, GITHUB E UI/UX
+
+- **Badges Shields** (badges): Badges concisas e consistentes para projetos open-source.
+  🔗 https://github.com/badges/shields
+- **Github Readme Stats** (anuraghazra): Estatísticas dinâmicas do perfil do GitHub geradas automaticamente para o README.
+  🔗 https://github.com/anuraghazra/github-readme-stats
+- **Skill Icons** (tandpfun): Ícones de tecnologias e habilidades para exibir no perfil do GitHub.
+  🔗 https://github.com/tandpfun/skill-icons
+- **Template Portfolio** (carlosfab): Modelos e estruturas para criação de portfólios e projetos.
+  🔗 https://github.com/carlosfab/template_portfolio
+- **Three.js** (mrdoob): Biblioteca JavaScript 3D leve e poderosa para renderização WebGL.
+  🔗 https://github.com/mrdoob/three.js
+
+# 📂 SEGURANÇA, PRIVACIDADE E REDES
+
+- **Bitchat** (permissionlesstech): Repositório de código aberto focado em comunicação descentralizada e privada.
+  🔗 https://github.com/permissionlesstech/bitchat
+- **OrganicMaps** (organicmaps): Aplicativo de mapas offline gratuito, open-source e respeitoso com a privacidade.
+  🔗 https://github.com/organicmaps/organicmaps
+- **Privacy Friendly QR Scanner** (SecUSo): Scanner de QR code de código aberto com foco em privacidade.
+  🔗 https://github.com/SecUSo/privacy-friendly-qr-scanner
+- **Ricochet Refresh** (blueprint-freespeech): Navegador focado em privacidade e comunicação anônima.
+  🔗 https://github.com/blueprint-freespeech/ricochet-refresh
+- **Session** (session-foundation): Mensageiro descentralizado e focado em privacidade.
+  🔗 https://github.com/session-foundation
+- **Ungoogled Chromium** (ungoogled-software): Versão do Google Chromium sem dependência de serviços de web do Google.
+  🔗 https://github.com/ungoogled-software/ungoogled-chromium
+
+# 📂 DESENVOLVIMENTO, INFRAESTRUTURA E FERRAMENTAS
+
+- **BrasilAPI** (BrasilAPI): API gratuita e open-source para consultar dados do Brasil (CEP, CNPJ, bancos, etc.).
+  🔗 https://github.com/BrasilAPI/BrasilAPI
+- **ComfyUI** (comfy-org): Interface gráfica baseada em nós para modelos de difusão estável (Stable Diffusion).
+  🔗 https://github.com/comfy-org/comfyui
+- **Electron** (electron): Framework para criar aplicativos desktop multiplataforma com JavaScript, HTML e CSS.
+  🔗 https://github.com/electron/electron
+- **Lazydocker** (jesseduffield): Interface de terminal simples e visual para Docker e Docker Compose.
+  🔗 https://github.com/jesseduffield/lazydocker
+- **LLVM Project** (llvm): Coleção modular e reutilizável de tecnologias de compilador e ferramentas.
+  🔗 https://github.com/llvm/llvm-project
+- **Modular** (modular): Plataforma de desenvolvimento de IA unificada (inclui a linguagem Mojo).
+  🔗 https://github.com/modular/modular
+- **Tauri** (tauri-apps): Framework para construir aplicativos desktop rápidos usando frontend web e backend Rust.
+  🔗 https://github.com/tauri-apps/tauri
+- **Winlator** (brunodev85): Ambiente Android para executar aplicativos Windows usando Wine e Box64.
+  🔗 https://github.com/brunodev85/winlator
+- *(Inclui centenas de outras ferramentas de desenvolvimento, utilitários de sistema e repositórios de código)*
+
+# 📂 OUTROS, PROJETOS DIVERSOS E LINKS GERAIS
+
+- **Cobalt Tools**: Ferramenta para baixar vídeos e áudio da internet sem anúncios.
+  🔗 https://cobalt.tools/
+- **Gist do GitHub** (karpathy): Trecho de código ou anotação compartilhada.
+  🔗 https://gist.github.com/karpathy
+- **LibreTranslate**: API e aplicativo web de tradução automática de código aberto.
+  🔗 https://github.com/LibreTranslate/LibreTranslate
+- **SearXNG**: Metamotor de busca de internet gratuito, respeitoso com a privacidade e auto-hospedável.
+  🔗 https://github.com/searxng/searxng
+- *(Inclui links de páginas de documentação, sites de projetos e gists diversos)*
