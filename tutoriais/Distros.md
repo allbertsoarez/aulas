@@ -103,3 +103,10 @@ Servidor doméstico para auto hospedagem com uma loja de aplicativos. Compre um 
 ## CalyxOS
 
 - https://calyxos.org/
+
+---
+
+## CasaOS
+
+- https://casaos.zimaspace.com/
+- https://www.youtube.com/watch?v=XbTBWbbU2NA
