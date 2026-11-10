@@ -53,5 +53,3 @@ Você pode aplicar essa lógica ao seu próprio aprendizado ou ao de seus alunos
 3. **Soberania do Conhecimento**: Assim como o AnythingLLM defende que você não deve "alugar" sua inteligência na nuvem, uma boa metodologia de estudo defende que o aluno não deve apenas "alugar" a explicação do professor ou do livro, mas sim processá-la, reescrevê-la e torná-la sua (o famoso "segundo cérebro").
 
 Utilizar ferramentas como essa para estruturar o próprio material de estudo é um excelente exercício de metacognição e organização do conhecimento.
-
-- https://github.com/Mintplex-Labs/anything-llm
