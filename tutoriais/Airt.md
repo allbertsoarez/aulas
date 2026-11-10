@@ -73,5 +73,3 @@ O **AIRT** é um exemplo perfeito de uma metodologia de ensino eficaz para temas
 Observe como o curso aplica dois princípios cognitivos poderosos:
 1. **Chunking (Fragmentação)**: Um tema vasto e intimidador como "Segurança Ofensiva em IA" é dividido em 8 módulos lógicos e progressivos.
 2. **Aprendizagem Ativa (Learning by Doing)**: Cada conceito teórico é imediatamente seguido por um laboratório Docker isolado. O aluno não apenas lê sobre "injeção de prompt"; ele a executa e vê o sistema falhar em tempo real.
-
-Ao desenvolver sua própria metodologia (especialmente para matemática ou temas longos), você pode replicar essa estrutura: **Teoria Concisa → Fragmentação em Blocos → Exercício Prático Imediato (o "laboratório" do aluno)**. Isso transforma a passividade da leitura em retenção ativa de conhecimento.
