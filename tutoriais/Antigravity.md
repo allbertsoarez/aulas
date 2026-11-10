@@ -2,9 +2,9 @@
 
 ## 📌 O que é este Ecossistema?
 Este conjunto de recursos representa a nova fronteira do desenvolvimento orientado por agentes de IA ("agentic-first"). 
-- **Google Antigravity**: Uma plataforma de desenvolvimento (com App, CLI, IDE e SDK) que permite criar e gerenciar múltiplos agentes de IA locais em paralelo.
-- **AG Kit**: Um kit de engenharia de agentes projetado especificamente para o Antigravity, fornecendo regras, fluxos de trabalho, memória persistente e orquestração segura.
-- **Agentic Awesome Skills**: Uma biblioteca massiva e open-source (com mais de 2.900 "playbooks" ou `SKILL.md`) que ensina agentes de IA (como Antigravity, Claude Code, Cursor e Gemini CLI) a executar tarefas complexas com precisão, do desenvolvimento de software à segurança e design.
+- **[Google Antigravity (Plataforma Oficial)](https://antigravity.google/)**: Uma plataforma de desenvolvimento (com App, CLI, IDE e SDK) que permite criar e gerenciar múltiplos agentes de IA locais em paralelo.
+- **[AG Kit](https://github.com/vudovn/ag-kit)**: Um kit de engenharia de agentes projetado especificamente para o Antigravity, fornecendo regras, fluxos de trabalho, memória persistente e orquestração segura.
+- **[Agentic Awesome Skills (Catálogo Web)](https://sickn33.github.io/agentic-awesome-skills/)**: Uma biblioteca massiva e open-source (com mais de 2.900 "playbooks" ou `SKILL.md`) que ensina agentes de IA (como Antigravity, Claude Code, Cursor e Gemini CLI) a executar tarefas complexas com precisão, do desenvolvimento de software à segurança e design.
 
 ---
 
