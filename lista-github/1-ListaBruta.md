@@ -52,7 +52,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 https://github.com/anuraghazra/github-readme-stats
 https://github.com/badges/shields
 https://github.com/carlosfab/template_portfolio
-https://github.com/compnew2006/Spec-Kit-Antigravity-Skills
+
 https://github.com/DenverCoder1/custom-icon-badges
 https://github.com/KAYOKG/BibliotecaDev
 https://github.com/nvidia/skillspector
@@ -65,7 +65,7 @@ https://github.com/virgiliojr94/book-to-skill
 https://github.com/marketplace/actions/badges-readme
 https://github.com/topics/pdf-to-markdown?o=asc&s=forks
 https://github.com/abbodi1406/vcredist
-https://github.com/adempiere/adempiere
+
 https://github.com/adventdevinc/kudu
 https://github.com/affaan-m/ecc
 https://github.com/amit9838/mousam
@@ -332,8 +332,7 @@ https://github.com/qgis/QGIS
 https://github.com/blader/humanizer
 https://www.skills.sh/blader/humanizer
 https://github.com/cloudflare/security-audit-skill
-https://github.com/0x4D31/airt
-https://0x4d31.github.io/airt/
+
 https://github.com/penpot/penpot
 https://penpot.app/
 https://github.com/n8n-io/n8n
