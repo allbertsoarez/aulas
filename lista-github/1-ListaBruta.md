@@ -3,7 +3,8 @@ https://github.com/eduardo-ono/Matematica
 https://github.com/arthurgregorio/web-budget
 https://github.com/mrdoob/three.js
 https://github.com/rafaballerini/meu-site-html
-https://github.com/stackblitz-labs/bolt.diy
+
+
 https://github.com/toddynho/jsonlint-core
 https://github.com/cursoemvideo
 https://github.com/gralco/mojo-ide
@@ -241,9 +242,9 @@ https://github.com/mksglu/context-mode
 https://github.com/boykopovar/AnyPS5
 https://github.com/storytold/pdfcraft
 https://github.com/storytold/vectorcraft
-https://github.com/storytold/photocraft
-https://github.com/storytold/lightcraft
-https://github.com/storytold/filmcraft
+
+
+
 https://github.com/storytold/gridcraft
 https://github.com/storytold/deckcraft
 https://github.com/storytold/designcraft
@@ -283,8 +284,7 @@ https://github.com/lexmount/moli
 https://github.com/morluto/rea
 https://github.com/a-ghorbani/pocketpal-ai
 https://pocketpal.dev/
-https://github.com/permissionlesstech/bitchat
-https://bitchat.free/
+
 https://organicmaps.app/pt-BR/
 https://github.com/organicmaps/organicmaps
 https://github.com/firefly-iii/firefly-iii
