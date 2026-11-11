@@ -29,6 +29,7 @@ https://github.com/lmstudio-ai
 https://github.com/networkbm/pentest-deephat-ai
 https://github.com/nousresearch/hermes-agent
 https://github.com/sickn33/agentic-awesome-skills
+
 https://github.com/simplifaisoul/osiris
 https://github.com/tashfeenahmed/freellmapi
 https://github.com/xiaomimimo/mimo
