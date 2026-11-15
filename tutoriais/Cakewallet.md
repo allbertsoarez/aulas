@@ -3,11 +3,15 @@
 ## 📌 O que é o Cake Wallet?
 O **Cake Wallet** é uma carteira de criptomoedas multiativos, de código aberto e não custodial, projetada para priorizar a privacidade e a segurança financeira. Sua principal inovação é o foco absoluto na soberania do usuário e na transparência: em vez de confiar seus fundos a uma corretora centralizada, o Cake Wallet garante que você detenha 100% das suas chaves privadas. Ele oferece suporte nativo de primeira classe para moedas focadas em privacidade, como o Monero (XMR), além de Bitcoin, Ethereum e outras, tudo em uma interface unificada e intuitiva.
 
+- **Categoria:** Carteira de Criptomoedas (Não-custodial)
+- **Plataforma:** Windows / Linux / macOS / Android / iOS
+- **Palavras-chave:** Criptomoedas, Monero, Bitcoin, Privacidade, Código Aberto, Não-custodial, Segurança, Auto-soberania
+
 ---
 
 ## ✨ Principais Destaques
 - **100% Não-Custodial e Open-Source:** Sob a licença MIT, o código é auditável por qualquer pessoa. "Not your keys, not your coins": você tem controle total e exclusivo sobre seus ativos digitais.
-- **Privacidade em Primeiro Lugar:** Suporte nativo e otimizado para Monero, integração com a rede Tor para anonimato de tráfego e a capacidade de o usuário conectar seus próprios nós (nodes) remotos.
+- **Privacidade em Primeiro Lugar:** Suporte nativo e otimizado para Monero, integração com a rede Tor para anonimato de tráfego e a capacidade de o usuário conectar seus próprios nós (*nodes*) remotos.
 - **Multiativos com Trocas Integradas:** Gerencie XMR, BTC, ETH, LTC, SOL e outras redes em um único lugar, com funcionalidade de troca (*swap*) embutida sem a necessidade de criar contas ou passar por verificações em corretoras centralizadas (CEX).
 - **Segurança em Camadas:** Suporte a carteiras de hardware (como Ledger), autenticação biométrica, criptografia local e o recurso exclusivo "Cake 2FA" para proteção adicional.
 
