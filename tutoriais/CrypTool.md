@@ -1,12 +1,3 @@
----
-tags:
-  - tutorial/software
-  - metodologia/estudo
-category: "Educação em Criptografia e Segurança da Informação"
-platform: "Windows / Linux / macOS"
-keywords: "Criptografia, Educação, Código Aberto, Visualização de Algoritmos, Segurança da Informação, Criptoanálise"
----
-
 # 🔐 CrypTool
 
 ## 📌 O que é o CrypTool?
