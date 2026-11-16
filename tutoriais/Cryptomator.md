@@ -1,12 +1,3 @@
----
-tags:
-  - tutorial/software
-  - metodologia/estudo
-category: "Criptografia e Segurança de Dados em Nuvem"
-platform: "Windows / macOS / Linux / Android / iOS"
-keywords: "Criptografia, Nuvem, Privacidade, Código Aberto, Zero-Knowledge, Segurança de Dados"
----
-
 # 🔒 Cryptomator
 
 ## 📌 O que é o Cryptomator?
