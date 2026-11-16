@@ -1,3 +1,12 @@
+---
+tags:
+  - tutorial/software
+  - metodologia/estudo
+category: "Editor de Vídeo e Criação de Conteúdo"
+platform: "Windows / macOS / Android / iOS / Web"
+keywords: "Edição de Vídeo, Inteligência Artificial, Legendas Automáticas, Templates, Multiplataforma, Produtividade"
+---
+
 # 🎬 CapCut
 
 ## 📌 O que é o CapCut?
