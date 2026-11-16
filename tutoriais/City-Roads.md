@@ -1,12 +1,3 @@
----
-tags:
-  - tutorial/software
-  - metodologia/estudo
-category: "Visualização de Dados e Geoinformação"
-platform: "Web (Navegador) / Node.js (Desenvolvimento Local)"
-keywords: "OpenStreetMap, Visualização de Dados, Teoria dos Grafos, Topologia Urbana, WebGL, Código Aberto"
----
-
 # 🗺️ City Roads
 
 ## 📌 O que é o City Roads?
