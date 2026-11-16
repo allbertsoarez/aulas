@@ -1,12 +1,3 @@
----
-tags:
-  - tutorial/software
-  - metodologia/estudo
-category: "Utilitários de Sistema e Compressão de Dados"
-platform: "Windows / Linux / macOS / Web"
-keywords: "Compressão, Arquivos ZIP, Código Aberto, Segurança, Otimização de Espaço, Arquivamento Web"
----
-
 # 🗜️ Compactadores de Arquivos (7-Zip, PeaZip e B1)
 
 ## 📌 O que são?
