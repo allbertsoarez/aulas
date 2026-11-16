@@ -1,12 +1,3 @@
----
-tags:
-  - tutorial/software
-  - metodologia/estudo
-category: "Motor de Geração de IA e Programação Visual"
-platform: "Windows / Linux / macOS"
-keywords: "Inteligência Artificial, Geração de Imagens, Programação Visual, Nodes, Fluxos de Trabalho, Código Aberto"
----
-
 # 🧩 ComfyUI
 
 ## 📌 O que é o ComfyUI?
