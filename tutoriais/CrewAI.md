@@ -1,12 +1,3 @@
----
-tags:
-  - tutorial/software
-  - metodologia/estudo
-category: "Framework de Automação e Agentes de IA Multiagente"
-platform: "Windows / macOS / Linux (via Python)"
-keywords: "Inteligência Artificial, Agentes Autônomos, Python, Automação de Fluxos, Código Aberto, Multiagente"
----
-
 # 🤝 CrewAI
 
 ## 📌 O que é o CrewAI?
