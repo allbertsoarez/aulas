@@ -129,7 +129,6 @@ version: 2.0 (Otimizada para Estudo e Ensino)
   - 📂 *Recursos:* [Meu Site Html](https://github.com/rafaballerini/meu-site-html) | [Perfil Github](https://github.com/rafaballerini/PerfilGithub)
   - 🏷️ *Metadados:* `#status/referencia` `#nivel/iniciante`
 
-
 - [**Three.js**](https://github.com/mrdoob/three.js) & [Site](https://threejs.org)
   - 🎯 *Objetivo:* Biblioteca JavaScript 3D para renderização WebGL (potencial para visualização matemática).
   - 🏷️ *Metadados:* `#status/para-ler` `#nivel/avancado` `#tema/visualizacao`
