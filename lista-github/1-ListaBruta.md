@@ -394,7 +394,6 @@ https://dify.ai/
 https://github.com/lllyasviel/stable-diffusion-webui-forge
 https://github.com/significant-gravitas/autogpt
 https://agpt.co/
-https://github.com/storytold/craft-anything/tree/main
 https://github.com/Taskosaur/Taskosaur
 https://github.com/different-ai/openwork
 https://github.com/vercel-labs/agent-browser
