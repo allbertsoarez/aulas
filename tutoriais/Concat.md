@@ -1,12 +1,3 @@
----
-tags:
-  - tutorial/software
-  - metodologia/estudo
-category: "Editor de Vídeo e Automação de Mídia"
-platform: "Windows / macOS / Linux / Android / iOS (Beta)"
-keywords: "Edição de Vídeo, Código Aberto, Local-first, Automação, API JSON-RPC, MCP, Sem Marca D'água"
----
-
 # 🎬 Concat
 
 ## 📌 O que é o Concat?
