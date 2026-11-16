@@ -128,9 +128,7 @@ version: 2.0 (Otimizada para Estudo e Ensino)
   - 🎯 *Objetivo:* Estudo de estrutura de projetos web iniciais e perfil GitHub.
   - 📂 *Recursos:* [Meu Site Html](https://github.com/rafaballerini/meu-site-html) | [Perfil Github](https://github.com/rafaballerini/PerfilGithub)
   - 🏷️ *Metadados:* `#status/referencia` `#nivel/iniciante`
-- [**ComfyUI**](https://github.com/comfy-org/comfyui) & [Manager](https://github.com/Comfy-Org/ComfyUI-Manager)
-  - 🎯 *Objetivo:* Interface gráfica baseada em nós para modelos de difusão (Stable Diffusion).
-  - 🏷️ *Metadados:* `#status/para-testar` `#tema/ia-generativa`
+
 - [**Three.js**](https://github.com/mrdoob/three.js) & [Site](https://threejs.org)
   - 🎯 *Objetivo:* Biblioteca JavaScript 3D para renderização WebGL (potencial para visualização matemática).
   - 🏷️ *Metadados:* `#status/para-ler` `#nivel/avancado` `#tema/visualizacao`
