@@ -14,4 +14,3 @@ Ghidra é um framework de engenharia reversa de software (SRE).
 
 - [Curso de Ghidra](https://www.youtube.com/watch?v=af0kbx8KuWo&list=PLIfZMtpPYFP5orPxcOZBn5cLOu7WG8xuF)
 - [Guia de Instalação](https://seanthegeek.net/posts/ghidra-setup-guide/)
- 
