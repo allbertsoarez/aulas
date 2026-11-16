@@ -40,6 +40,7 @@ O ComfyUI oferece flexibilidade total, desde instaladores automáticos até conf
 - [Site Oficial e Download](https://comfy.org/download/)
 - [Documentação e Wiki](https://comfyui.org/)
 - [Repositório no GitHub](https://github.com/comfy-org/comfyui)
+- [ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager)
 
 ### 🎓 Cursos e Tutoriais Recomendados
 - 📺 **Playlist:** [ComfyUI Guia para Iniciante](https://www.youtube.com/playlist?list=PLmOrmSSs6gSlfnTl5KO6dhCNPs0owWaiL) (por Mundo Artificial)
