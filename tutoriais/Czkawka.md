@@ -1,12 +1,3 @@
----
-tags:
-  - tutorial/software
-  - metodologia/estudo
-category: "Utilitário de Limpeza e Organização de Disco"
-platform: "Windows / Linux / macOS / FreeBSD / Android"
-keywords: "Duplicados, Limpeza de Disco, Rust, Código Aberto, Sem Telemetria, Imagens Semelhantes, Otimização"
----
-
 # 🧹 Czkawka
 
 ## 📌 O que é o Czkawka?
