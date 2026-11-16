@@ -86,8 +86,7 @@ https://github.com/carlosfab/carlosfab/blob/main/github-banner.png
 https://github.com/carlosfab/carlosfab/blob/main/README.md
 https://github.com/cfprocha/gerador-de-perfil
 https://github.com/codereddit/codereddit
-https://github.com/Comfy-Org/ComfyUI-Manager
-https://github.com/comfy-org/comfyui
+
 https://github.com/compnew2006
 https://github.com/compozy/compozy
 https://github.com/USP-ZP/document-template/tree/main/template
