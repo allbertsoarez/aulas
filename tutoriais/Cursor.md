@@ -1,12 +1,3 @@
----
-tags:
-  - tutorial/software
-  - metodologia/estudo
-category: "Editor de Código e Agente de IA para Desenvolvimento"
-platform: "Windows / macOS / Linux"
-keywords: "Inteligência Artificial, Programação, Produtividade, Codebase Awareness, Multiagente, Automação"
----
-
 # ⚡ Cursor AI
 
 ## 📌 O que é o Cursor AI?
