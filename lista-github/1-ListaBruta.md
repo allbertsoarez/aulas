@@ -3,8 +3,6 @@ https://github.com/eduardo-ono/Matematica
 https://github.com/arthurgregorio/web-budget
 https://github.com/mrdoob/three.js
 https://github.com/rafaballerini/meu-site-html
-
-
 https://github.com/toddynho/jsonlint-core
 https://github.com/cursoemvideo
 https://github.com/gralco/mojo-ide
@@ -29,7 +27,6 @@ https://github.com/lmstudio-ai
 https://github.com/networkbm/pentest-deephat-ai
 https://github.com/nousresearch/hermes-agent
 https://github.com/sickn33/agentic-awesome-skills
-
 https://github.com/simplifaisoul/osiris
 https://github.com/tashfeenahmed/freellmapi
 https://github.com/xiaomimimo/mimo
@@ -54,7 +51,6 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 https://github.com/anuraghazra/github-readme-stats
 https://github.com/badges/shields
 https://github.com/carlosfab/template_portfolio
-
 https://github.com/DenverCoder1/custom-icon-badges
 https://github.com/KAYOKG/BibliotecaDev
 https://github.com/nvidia/skillspector
@@ -67,7 +63,6 @@ https://github.com/virgiliojr94/book-to-skill
 https://github.com/marketplace/actions/badges-readme
 https://github.com/topics/pdf-to-markdown?o=asc&s=forks
 https://github.com/abbodi1406/vcredist
-
 https://github.com/adventdevinc/kudu
 https://github.com/affaan-m/ecc
 https://github.com/amit9838/mousam
@@ -86,7 +81,6 @@ https://github.com/carlosfab/carlosfab/blob/main/github-banner.png
 https://github.com/carlosfab/carlosfab/blob/main/README.md
 https://github.com/cfprocha/gerador-de-perfil
 https://github.com/codereddit/codereddit
-
 https://github.com/compnew2006
 https://github.com/compozy/compozy
 https://github.com/USP-ZP/document-template/tree/main/template
@@ -233,18 +227,11 @@ https://gamezonelabs.com/
 https://osirisai.live/?layers=maritime,cctv,cctv_previews,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval
 https://github.com/crosstalk-solutions/project-nomad
 https://www.projectnomad.us/
-https://github.com/morluto/rea/blob/main/README_pt-BR.md
-https://rea.tools/
-https://rea.tools/pt-BR/
-https://github.com/morluto/rea/tree/main
 https://context-mode.com/
 https://github.com/mksglu/context-mode
 https://github.com/boykopovar/AnyPS5
 https://github.com/storytold/pdfcraft
 https://github.com/storytold/vectorcraft
-
-
-
 https://github.com/storytold/gridcraft
 https://github.com/storytold/deckcraft
 https://github.com/storytold/designcraft
@@ -281,10 +268,8 @@ https://github.com/cathrynlavery/diagram-design
 https://diagramdesign.dev/
 https://github.com/tester-army/e2e
 https://github.com/lexmount/moli
-https://github.com/morluto/rea
 https://github.com/a-ghorbani/pocketpal-ai
 https://pocketpal.dev/
-
 https://organicmaps.app/pt-BR/
 https://github.com/organicmaps/organicmaps
 https://github.com/firefly-iii/firefly-iii
@@ -332,7 +317,6 @@ https://github.com/qgis/QGIS
 https://github.com/blader/humanizer
 https://www.skills.sh/blader/humanizer
 https://github.com/cloudflare/security-audit-skill
-
 https://github.com/penpot/penpot
 https://penpot.app/
 https://github.com/n8n-io/n8n
