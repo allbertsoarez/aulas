@@ -47,3 +47,4 @@ Todas as ferramentas seguem o mesmo padrão de distribuição, garantindo flexib
 - [FilmCraft (Repositório no GitHub)](https://github.com/storytold/filmcraft)
 - [LightCraft (Site Oficial)](https://getartcraft.com/apps/lightcraft)
 - [LightCraft (Repositório no GitHub)](https://github.com/storytold/lightcraft)
+- https://github.com/storytold/craft-anything
