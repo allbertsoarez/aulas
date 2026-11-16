@@ -1,12 +1,3 @@
----
-tags:
-  - tutorial/software
-  - metodologia/estudo
-category: "Biblioteca de Interface Gráfica (GUI) para Python"
-platform: "Windows / macOS / Linux"
-keywords: "Python, Tkinter, Interface Gráfica, GUI, Dark Mode, Customização, Desenvolvimento de Software"
----
-
 # 🎨 CustomTkinter
 
 ## 📌 O que é o CustomTkinter?
