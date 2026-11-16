@@ -1,3 +1,12 @@
+---
+tags:
+  - tutorial/software
+  - metodologia/estudo
+category: "Gestor de Livros Eletrônicos (E-books)"
+platform: "Windows / Linux / macOS"
+keywords: "E-books, Leitura Digital, Conversão de Formatos, Metadados, Código Aberto, Organização de Biblioteca"
+---
+
 # 📚 Calibre
 
 ## 📌 O que é o Calibre?
