@@ -1,12 +1,3 @@
----
-tags:
-  - tutorial/software
-  - metodologia/estudo
-category: "Ferramenta de Modificação e Depuração de Memória"
-platform: "Windows / Linux / macOS"
-keywords: "Modding, Depuração, Engenharia Reversa, Lua, Assembly, Educação, Scanner de Memória"
----
-
 # ⚙️ Cheat Engine
 
 ## 📌 O que é o Cheat Engine?
