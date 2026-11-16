@@ -48,3 +48,4 @@ Todas as ferramentas seguem o mesmo padrão de distribuição, garantindo flexib
 - [LightCraft (Site Oficial)](https://getartcraft.com/apps/lightcraft)
 - [LightCraft (Repositório no GitHub)](https://github.com/storytold/lightcraft)
 - https://github.com/storytold/craft-anything
+- https://github.com/storytold/craft-anything/tree/main
