@@ -1,4 +1,4 @@
-# [GHidra]((https://github.com/nationalsecurityagency/ghidra))
+# [Ghidra]((https://github.com/nationalsecurityagency/ghidra))
 Ghidra é um framework de engenharia reversa de software (SRE).
 
 - https://ghidralite.com/
