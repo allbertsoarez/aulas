@@ -1,12 +1,3 @@
----
-tags:
-  - tutorial/software
-  - metodologia/estudo
-category: "IDE com Inteligência Artificial"
-platform: "Windows / macOS / Linux"
-keywords: "Inteligência Artificial, Programação, LLMs Locais, Privacidade, Código Aberto, Alternativa ao Cursor"
----
-
 # 🧠 Cortex IDE
 
 ## 📌 O que é o Cortex IDE?
