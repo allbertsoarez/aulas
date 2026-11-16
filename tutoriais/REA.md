@@ -7,3 +7,4 @@ Faça engenharia reversa de qualquer coisa com agentes, desde o comportamento do
 - https://github.com/morluto/rea
 - https://github.com/morluto/rea/tree/main
 - https://github.com/morluto/rea/blob/main/README_pt-BR.md
+- https://github.com/storytold/craft-anything
