@@ -1,12 +1,3 @@
----
-tags:
-  - tutorial/software
-  - metodologia/estudo
-category: "Cliente de Chat IRC e Comunicação Auto-hospedada"
-platform: "Web (Navegador) / Linux (Snap, Docker, Binário) / macOS / Windows (via Docker)"
-keywords: "IRC, Chat, Auto-hospedado (Self-hosted), Bouncer, Código Aberto, Privacidade, Simplicidade"
----
-
 # 💬 Convos
 
 ## 📌 O que é o Convos?
