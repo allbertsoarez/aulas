@@ -108,7 +108,3 @@ Arquivo criado por Bruno Fraga, o arquivo encontra-se na pasta Arquivos de Progr
 
 **Multiaccount Container**
 - https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/
-
-## Privacy Badger
-
-- https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/
