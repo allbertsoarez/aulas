@@ -57,10 +57,7 @@ A arquitetura e a filosofia do **Hardening do Firefox** oferecem analogias excep
 
 ---
 
-
-# Saiba como deixar seu Firefox mais seguro
-
-## Arquivo - user.js
+### Arquivo - user.js
 IMPORTANTE: Para usar, é só importar o arquivo zip. 
 Arquivo criado por Bruno Fraga, o arquivo encontra-se na pasta Arquivos de Programas, Navegadores, Firefox
 
@@ -103,8 +100,3 @@ Arquivo criado por Bruno Fraga, o arquivo encontra-se na pasta Arquivos de Progr
 - `privacy.resistFingerprinting`: Ajuda a resistir ao fingerprinting, mas pode quebrar o modo escuro e capturas de tela (false por padrão, setar como true para aumentar privacidade).
 - `privacy.resistFingerprinting.letterboxing`: Ajuda a resistir ao fingerprinting usando letterboxing (true).
 - `webgl.disabled`: Desativa WebGL (true).
-
-## Criando container
-
-**Multiaccount Container**
-- https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/
