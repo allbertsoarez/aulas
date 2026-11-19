@@ -55,13 +55,3 @@ A arquitetura e a filosofia do **Ghostfolio** oferecem analogias excepcionais pa
 1. **Dashboard Unificado e a "Visão Macro" do Conhecimento:** Assim como o Ghostfolio agrega todos os ativos para mostrar o patrimônio líquido real, o aluno precisa de um "dashboard" do seu próprio aprendizado. Muitas vezes, o aluno acha que sabe um tópico porque acertou um exercício, mas ignora lacunas em outros. Criar um mapa visual (no caderno ou no Obsidian) do que foi "dominado", "em revisão" e "não estudado" elimina a ilusão de competência e direciona o esforço para onde ele é realmente necessário.
 2. **Self-Hosting e a Internalização do Conhecimento:** Optar por auto-hospedar o Ghostfolio significa não depender de servidores de terceiros para guardar seus dados. Na matemática, isso equivale à **internalização**. O aluno não deve depender eternamente da "nuvem" (o livro aberto, a fórmula colada na mesa ou o professor ditando o passo a passo). Ele precisa construir seu próprio "servidor local" mental de conceitos e procedimentos para ter autonomia real na resolução de problemas, sem travar quando o "servidor externo" não está disponível (como na hora da prova).
 3. **Diversificação de Ativos e Múltiplas Estratégias de Resolução:** Um portfólio saudável não coloca todo o dinheiro em um único ativo de risco; ele diversifica. Da mesma forma, um aluno proficiente em matemática não depende de um único método de resolução. Se a abordagem algébrica (Ativo A) estiver muito complexa ou travada, ele deve ter a flexibilidade de diversificar e tentar uma abordagem geométrica, numérica ou gráfica (Ativos B e C) para chegar à mesma resposta. A versatilidade é um sinal de domínio.
-```
-
----
-
-### Pontos de destaque nesta formatação:
-- **Foco na Stack Tecnológica e Privacidade:** Destaquei as tecnologias (Angular, NestJS, etc.) mencionadas no seu prompt como um sinal de robustez, e conectei isso diretamente à filosofia de *self-hosting* e soberania de dados.
-- **Analogias Pedagógicas de Alto Nível:** A conexão entre o "dashboard financeiro" e o "mapa de conhecimento do aluno", e entre "diversificação de ativos" e "múltiplas estratégias de resolução de problemas", são ferramentas metacognitivas excelentes para ajudar o aluno a gerenciar seu aprendizado de forma estratégica.
-- **Consistência Total:** O template YAML, a estrutura de tópicos e o tom de voz permanecem 100% alinhados com todos os tutoriais anteriores, garantindo uma base de conhecimento homogênea no seu Obsidian.
-
-Pode enviar o próximo material quando quiser! Estou mantendo o padrão rigorosamente.
