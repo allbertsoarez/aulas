@@ -112,9 +112,3 @@ Arquivo criado por Bruno Fraga, o arquivo encontra-se na pasta Arquivos de Progr
 ## Privacy Badger
 
 - https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/
-
-# Referências
-
-
-- https://teiaxhq.notion.site/note-611fc10221424f41b1fc4e870735d4b7
-
