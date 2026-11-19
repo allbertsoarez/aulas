@@ -115,6 +115,6 @@ Arquivo criado por Bruno Fraga, o arquivo encontra-se na pasta Arquivos de Progr
 
 # Referências
 
-- https://brunofragax.notion.site/user-js-0b3b6d9505434791bb723e93fd3002ec
+
 - https://teiaxhq.notion.site/note-611fc10221424f41b1fc4e870735d4b7
 
