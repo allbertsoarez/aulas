@@ -4,3 +4,4 @@ O estúdio de IA local completo para seu computador: bate-papo, geração de ima
 
 - https://github.com/PurpleDoubleD/locally-uncensored
 - https://github.com/techjarves/Portable-Local-Studio
+- [COMO TER SUA PRÓPRIA IA NO PEN DRIVE (100% Offline e Livre) E DE GRAÇA}(https://youtu.be/AoWGlNZpZGQ)
