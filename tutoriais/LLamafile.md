@@ -61,19 +61,3 @@ A arquitetura e a filosofia do **llamafile** oferecem analogias excepcionais par
 1. **O "Arquivo Único" e a Síntese do Conhecimento:** O grande trunfo do llamafile é empacotar tudo o que é necessário para rodar um modelo em um único lugar, sem dependências externas bagunçadas. No estudo, incentive o aluno a criar suas próprias "sínteses de arquivo único": em vez de ter 10 cadernos diferentes e anotações soltas, ele deve ser capaz de condensar um tópico complexo (ex: Trigonometria) em um único mapa mental ou ficha de resumo que contenha *tudo* o que é essencial para "rodar" aquele conhecimento na mente dele.
 2. **Execução Local e a Autonomia Intelectual:** O llamafile roda sem depender de APIs na nuvem ou de ambientes de desenvolvimento pesados. Da mesma forma, o aluno deve buscar a **autonomia intelectual**. Ele não deve depender eternamente de "ambientes externos" (como consultar o livro a cada 5 segundos ou usar um resolvedor de equações). Internalizar os fundamentos permite que o aluno "execute" o raciocínio localmente, com confiança e velocidade, mesmo sob a pressão de uma prova.
 3. **O Parâmetro `-ngl` (GPU Offloading) e a Gestão de Recursos Cognitivos:** No script, `-ngl 0` significa que a CPU faz todo o trabalho pesado. Se a CPU for lenta, aumentamos esse número para usar a GPU (placa de vídeo). Na resolução de problemas, a "CPU" é a memória de trabalho do aluno (que é limitada). Se um problema for muito "pesado" para resolver apenas de cabeça, o aluno deve "descarregar" (offload) parte do processamento para a "GPU": usar o papel para fazer um diagrama, uma tabela ou escrever os passos intermediários. Saber quando e como usar ferramentas externas para aliviar a carga mental é um sinal de inteligência estratégica.
-
----
-
-## [llamafile](https://docs.mozilla.ai/llamafile)
-Distribua e execute LLMs com um único arquivo.
-
-- https://github.com/mozilla-ai/llamafile
-- https://huggingface.co/Qwen/Qwen3.8-27B
-
-**IMPORTANTE**
-Crie o Arquivo.bat com o conteúdo abaixo:
-```
-@echo off
-.\llamafile.exe --server --model "qwen3-4b-thinking-2507.Q4_K_M.gguf" -ngl 0
-pause
-```
