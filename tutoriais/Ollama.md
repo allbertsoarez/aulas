@@ -8,3 +8,4 @@ Comece a usar Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma e outros modelo
 ## Tutoriais
 
 - [Como consegui CLAUDE GRÁTIS + ILIMITADO](https://youtu.be/dKCifr4f6u8)
+- [Crie um agente de IA local em 16 minutos](https://youtu.be/urJfNeR7P78)
