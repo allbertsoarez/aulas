@@ -111,14 +111,6 @@ A arquitetura e a lógica da **Linguagem C** oferecem analogias excepcionais par
 4. **Alocação Dinâmica e Gestão de Recursos:** Funções como `malloc` e `free` ensinam que todo recurso solicitado deve ser devolvido. Isso é análogo à gestão do tempo e da energia cognitiva no estudo: o aluno deve "alocar" foco para um tópico difícil, mas também deve saber "liberar" a mente (descansar, mudar de assunto) para evitar o estouro de memória (burnout ou bloqueio mental).
 
 ---
-# VS CODE (Configurando Linguagem C no VS CODE)
-**IMPORTATE:** É necessário ter instalado o compilador para as extensões funcionarem. 
-
-- [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
-- [C/C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)
-- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
-
----
 
 Material para curso de C
 
