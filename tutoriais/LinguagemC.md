@@ -117,18 +117,6 @@ A arquitetura e a lógica da **Linguagem C** oferecem analogias excepcionais par
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 - [C/C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
----
-# Aulas e curos
-- [Aprenda Linguagem C para iniciantes em 2 horas](https://youtu.be/yKoLERQUZ1A)
-- [Curso Completo de Programação em C — Do Zero ao Domínio em 10 Horas](https://youtu.be/EIGAc5mdPpE)
-- [Material complementar para criar curso de C - Rafaela Ballerine](https://youtu.be/cliMm4L6uQs)
-
----
-
-# Repositórios
-#### Caio Reis
-- https://github.com/fromcaio
-- https://github.com/fromcaio/c-course
 
 ---
 
