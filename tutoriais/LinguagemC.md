@@ -102,19 +102,9 @@ A arquitetura e a lógica da **Linguagem C** oferecem analogias excepcionais par
 
 ---
 
-# Documentação
-- https://www.c-language.org/
-- https://www.learncpp.com/
-- https://devdocs.io/c/preprocessor/include
-- https://en.cppreference.com/c
-- https://devdocs.io/c/preprocessor/include
----  
 # Compiladores para Linguagem C
-- https://www.mingw-w64.org/
-- https://jmeubank.github.io/tdm-gcc/
 - https://github.com/llvm/llvm-project
-- https://clang.llvm.org/docs/index.html
-- https://cmake.org/
+
 ---
 # IDE
 ### Desktop
