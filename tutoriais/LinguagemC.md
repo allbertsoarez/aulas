@@ -70,9 +70,18 @@ O Visual Studio Code é o editor mais popular para C atualmente, mas requer a co
 - https://github.com/llvm/llvm-project
 
 **Ambientes de Desenvolvimento (IDEs):**
-- *Desktop:* [VS Code](https://code.visualstudio.com/), [Geany](https://www.geany.org/), [Dev-C++](https://www.dev-cpp.com/), [CLion](https://www.jetbrains.com/pt-br/clion/)
-- *Online:* [Godbolt (Compiler Explorer)](https://godbolt.org/), [Coddy Playground](https://coddy.tech/playground/pt/c), [OneCompiler](https://onecompiler.com/c), [Online-CPP](https://www.online-cpp.com/)
-
+- *Desktop:*
+  - [VS Code](https://code.visualstudio.com/),
+  - [Geany](https://www.geany.org/),
+  - [Dev-C++](https://www.dev-cpp.com/),
+  - [CLion](https://www.jetbrains.com/pt-br/clion/)
+- *Online:*
+  - [Godbolt (Compiler Explorer)](https://godbolt.org/),
+  - [Coddy Playground](https://coddy.tech/playground/pt/c),
+  - [OneCompiler](https://onecompiler.com/c),
+  - [Online-CPP](https://www.online-cpp.com/)
+  - https://c.codeutility.io/pt/
+  
 **Cursos, Aulas e Material Complementar:**
 - 📺 [Aprenda Linguagem C para iniciantes em 2 horas](https://youtu.be/yKoLERQUZ1A)
 - 📺 [Curso Completo de Programação em C — Do Zero ao Domínio em 10 Horas](https://youtu.be/EIGAc5mdPpE)
@@ -101,26 +110,6 @@ A arquitetura e a lógica da **Linguagem C** oferecem analogias excepcionais par
 3. **Loops (`for`/`while`) e Indução Matemática:** Estruturas de repetição são a materialização computacional de somatórios ($\sum$) ou provas por indução. O "caso base" da indução é a inicialização da variável no loop; o "passo indutivo" é a iteração; e a "condição de parada" é a condição do `while` ou `for`. Mostrar essa conexão ajuda o aluno a ver que a programação não é mágica, é pura lógica matemática aplicada.
 4. **Alocação Dinâmica e Gestão de Recursos:** Funções como `malloc` e `free` ensinam que todo recurso solicitado deve ser devolvido. Isso é análogo à gestão do tempo e da energia cognitiva no estudo: o aluno deve "alocar" foco para um tópico difícil, mas também deve saber "liberar" a mente (descansar, mudar de assunto) para evitar o estouro de memória (burnout ou bloqueio mental).
 
----
-
-# Compiladores para Linguagem C
-
-
----
-# IDE
-### Desktop
-- https://code.visualstudio.com/
-- https://www.dev-cpp.com/
-- https://www.geany.org/
-- https://www.jetbrains.com/pt-br/clion/
----
-### ONLINE
-- https://coddy.tech/playground/pt/c
-- https://godbolt.org/
-- https://c.codeutility.io/pt/
-- https://www.online-cpp.com/
-- https://onecompiler.com/c
-- https://www.online-cpp.com/
 ---
 # VS CODE (Configurando Linguagem C no VS CODE)
 **IMPORTATE:** É necessário ter instalado o compilador para as extensões funcionarem. 
