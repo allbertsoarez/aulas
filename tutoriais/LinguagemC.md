@@ -67,6 +67,7 @@ O Visual Studio Code é o editor mais popular para C atualmente, mas requer a co
 - [TDM-GCC](https://jmeubank.github.io/tdm-gcc/)
 - [LLVM / Clang](https://clang.llvm.org/docs/index.html)
 - [CMake](https://cmake.org/)
+- https://github.com/llvm/llvm-project
 
 **Ambientes de Desenvolvimento (IDEs):**
 - *Desktop:* [VS Code](https://code.visualstudio.com/), [Geany](https://www.geany.org/), [Dev-C++](https://www.dev-cpp.com/), [CLion](https://www.jetbrains.com/pt-br/clion/)
@@ -103,7 +104,7 @@ A arquitetura e a lógica da **Linguagem C** oferecem analogias excepcionais par
 ---
 
 # Compiladores para Linguagem C
-- https://github.com/llvm/llvm-project
+
 
 ---
 # IDE
