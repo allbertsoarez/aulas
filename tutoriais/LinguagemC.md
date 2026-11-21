@@ -31,7 +31,7 @@ Dominar o C proporciona benefícios que transcendem a própria linguagem:
 O Visual Studio Code é o editor mais popular para C atualmente, mas requer a configuração prévia de um compilador.
 
 **Passo 1: Instalar o Compilador (O Motor)**
-- Baixe e instale o **MinGW-w64** ou **TDM-GCC** no Windows. Durante a instalação, certifique-se de marcar a opção para adicionar o compilador às *Variáveis de Ambiente (PATH)* do sistema.
+- Baixe e instale o **[MinGW-w64](https://www.mingw-w64.org/)** ou **[TDM-GCC](https://jmeubank.github.io/tdm-gcc/)** no Windows. Durante a instalação, certifique-se de marcar a opção para adicionar o compilador às *Variáveis de Ambiente (PATH)* do sistema.
 
 **Passo 2: Configurar o VS Code (A Cabine de Controle)**
 1. Instale o [Visual Studio Code](https://code.visualstudio.com/).
@@ -113,7 +113,7 @@ A arquitetura e a lógica da **Linguagem C** oferecem analogias excepcionais par
 ---
 # VS CODE (Configurando Linguagem C no VS CODE)
 **IMPORTATE:** É necessário ter instalado o compilador para as extensões funcionarem. 
-- [Compilador MinGw](https://www.mingw-w64.org/)
+
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 - [C/C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
