@@ -17,3 +17,4 @@ Os planetas têm frequências associadas a eles: 
 ## Mais informações
 - https://open.spotify.com/intl-pt/album/4Uxwv2R1KFPjzAJnynbTY5
 - https://www.amazon.es/Frequ%C3%AAncias-Solfeggio-C%C3%B3smica-Vibra%C3%A7%C3%A3o-Planetas/dp/B09JFG95YX
+- https://zenmix.io/solfeggio-frequencies-generator
