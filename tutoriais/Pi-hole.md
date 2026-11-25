@@ -1,4 +1,3 @@
-Aqui está o tutorial do **Pi-hole** formatado com o mesmo padrão estrutural, tom de voz e analogias metodológicas, pronto para ser copiado diretamente para o seu template no Obsidian.
 # 🕳️ Pi-hole
 
 ## 📌 O que é o Pi-hole?
