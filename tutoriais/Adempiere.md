@@ -3,6 +3,10 @@
 ## 📌 O que é o Adempiere?
 O **Adempiere** é uma suíte empresarial de código aberto que integra **ERP, CRM, Manufatura (MFG), Cadeia de Suprimentos (SCM) e Ponto de Venda (POS)**. Desenvolvido "à maneira do Bazar" (de forma aberta, colaborativa e transparente), o projeto tem como missão eliminar a dependência de fornecedores de software únicos, evitar custos elevados de licenciamento e permitir que empresas instalem, estendam e personalizem suas soluções sem compromissos de longo prazo com terceiros.
 
+- **Categoria:** Suíte Empresarial de Código Aberto (ERP, CRM, MFG, SCM, POS)
+- **Plataforma:** Windows / macOS / Linux (via Docker)
+- **Palavras-chave:** Adempiere, ERP, CRM, Cadeia de Suprimentos, Código Aberto, Docker, PostgreSQL, Gestão Empresarial, Sem Vendor Lock-in
+
 ---
 
 ## ✨ Principais Destaques
