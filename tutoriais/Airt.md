@@ -3,6 +3,10 @@
 ## 📌 O que é o AIRT?
 O **AIRT (AI Red Team Academy)** é um curso gratuito e de código aberto focado em testes ofensivos de segurança em sistemas de Inteligência Artificial (AI Red Teaming). Desenvolvido pelo pesquisador de segurança `0x4D31` em colaboração com a Perplexity Computer, o curso oferece mais de 60 horas de conteúdo, indo desde injeção de prompt até ataques à cadeia de suprimentos de IA, tudo acompanhado de laboratórios práticos e isolados via Docker.
 
+- **Categoria:** Curso Prático e de Código Aberto de Testes Ofensivos em Sistemas de Inteligência Artificial (AI Red Teaming)
+- **Plataforma:** Windows / macOS / Linux (via Docker)
+- **Palavras-chave:** AIRT, AI Red Teaming, Segurança de IA, LLM, Prompt Injection, OWASP Top 10, Docker, garak, PyRIT, Código Aberto
+
 ---
 
 ## ✨ Principais Destaques
