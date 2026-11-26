@@ -3,6 +3,10 @@
 ## 📌 O que é o Beekeeper Studio?
 O **Beekeeper Studio** é um cliente e editor SQL moderno, elegante e de código aberto (na sua *Community Edition*). Projetado para ser uma alternativa leve e intuitiva a ferramentas tradicionais e pesadas (como pgAdmin ou MySQL Workbench), ele permite gerenciar e consultar bancos de dados como PostgreSQL, MySQL, MariaDB, SQLite, SQL Server e outros, com uma experiência de usuário fluida em Linux, macOS e Windows.
 
+- **Categoria:** Cliente e Editor SQL Moderno, Leve e de Código Aberto
+- **Plataforma:** Windows / macOS / Linux
+- **Palavras-chave:** Beekeeper Studio, SQL, PostgreSQL, MySQL, SQLite, Banco de Dados, Código Aberto, Produtividade, Desenvolvimento, Análise de Dados
+
 ---
 
 ## ✨ Principais Destaques
