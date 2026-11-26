@@ -1,37 +1,4 @@
-Perfeito! Com o caminho do repositório definido (`tutoriais/README.md`), ajustei os links da tabela para usarem **caminhos relativos** (ex: `./a-coder-ide.md`). 
-
-Isso é ideal por dois motivos:
-1. **No GitHub:** Os links funcionarão perfeitamente, navegando de um arquivo para outro dentro da pasta `tutoriais/`.
-2. **No Obsidian:** Quando você copiar esses arquivos para o seu vault, os links relativos continuarão funcionando sem precisar de ajustes, mantendo a navegação interna do seu conhecimento intacta.
-
-Aqui está a versão final e polida do `README.md`, pronta para ser salva nesse caminho:
-
----
-
-```markdown
-# 🧠 Metodologia de Estudo & Ferramentas Open-Source: O Guia Definitivo
-
-> *"A ferramenta certa, no ambiente certo, transforma a complexidade em clareza."*
-
-Bem-vindo a esta curadoria meticulosa de softwares, aplicativos e fluxos de trabalho de código aberto. Este repositório foi construído com um propósito duplo: 
-1. Fornecer guias práticos e prontos para uso (formatados para **Obsidian**).
-2. Demonstrar como a arquitetura dessas ferramentas pode ser usada como **analogia pedagógica** para o estudo de temas complexos e longos (especialmente em matemática e ciências exatas).
-
----
-
-## 📚 Como Usar Este Repositório
-
-Cada ferramenta possui seu próprio arquivo Markdown (`.md`) nesta pasta. Os arquivos seguem um padrão rigoroso de formatação, incluindo:
-- **Frontmatter YAML:** Com `category`, `platform` e `keywords` para fácil busca e organização no seu vault do Obsidian.
-- **Descrição e Destaques:** Resumo claro da filosofia e dos recursos principais.
-- **Guia de Instalação:** Passos práticos e diretos.
-- **💡 Nota sobre a Metodologia de Estudo:** Uma seção exclusiva que conecta a lógica do software a princípios cognitivos (como *active recall*, decomposição de problemas e metacognição).
-
-**Dica:** Clone este repositório ou copie os blocos de código diretamente para as suas notas no Obsidian para começar a construir sua "Caixa de Ferramentas" pessoal.
-
----
-
-## 🗂️ Tabela Mestre de Ferramentas
+# 🗂️ Tabela Mestre de Ferramentas
 
 Abaixo está o índice completo das ferramentas documentadas, organizadas por domínio de aplicação. *(Nota: Os links assumem que os arquivos `.md` estão na mesma pasta deste README).*
 
