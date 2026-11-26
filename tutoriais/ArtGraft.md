@@ -3,6 +3,10 @@
 ## 📌 O que é o Ecossistema ArtCraft?
 O **ArtCraft** e seus aplicativos irmãos ("Crafting Apps") representam uma nova geração de software criativo profissional, construído do zero em **Rust**. O objetivo do projeto é oferecer alternativas de código aberto, nativas e de alto desempenho a suítes proprietárias (como Adobe Creative Cloud), com foco absoluto em privacidade, precisão técnica e interoperabilidade com agentes de IA (sendo "agent-ready" via CLI, JSON ou MCP).
 
+- **Categoria:** Suíte de Software Criativo Profissional de Código Aberto e Alto Desempenho (Rust)
+- **Plataforma:** Windows / macOS / Linux / Web
+- **Palavras-chave:** ArtCraft, PhotoCraft, FilmCraft, LightCraft, Rust, Código Aberto, Edição de Imagem, Edição de Vídeo, IA Generativa, PSD, Privacidade
+
 ---
 
 ## ✨ Principais Destaques (Por Ferramenta)
@@ -47,5 +51,4 @@ Todas as ferramentas seguem o mesmo padrão de distribuição, garantindo flexib
 - [FilmCraft (Repositório no GitHub)](https://github.com/storytold/filmcraft)
 - [LightCraft (Site Oficial)](https://getartcraft.com/apps/lightcraft)
 - [LightCraft (Repositório no GitHub)](https://github.com/storytold/lightcraft)
-- https://github.com/storytold/craft-anything
-- https://github.com/storytold/craft-anything/tree/main
+- [Craft Anything (Repositório no GitHub)](https://github.com/storytold/craft-anything)
