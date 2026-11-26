@@ -3,6 +3,10 @@
 ## 📌 O que é o Bolt.diy?
 O **Bolt.diy** é a versão oficial de código aberto do Bolt.new, um ambiente de desenvolvimento web full-stack impulsionado por IA que roda diretamente no navegador (graças à tecnologia WebContainer). Sua principal inovação é a **agnóstica de modelo**: ele permite que você escolha e alterne livremente entre mais de 22 provedores de LLM (como OpenAI, Anthropic, Ollama, OpenRouter, Gemini, DeepSeek, Groq, LM Studio, etc.) para cada prompt, garantindo que você use a ferramenta certa para o trabalho certo, sem ficar preso a um único ecossistema.
 
+- **Categoria:** Ambiente de Desenvolvimento Web Full-Stack Impulsionado por IA e Agnóstico a Modelos
+- **Plataforma:** Web / Windows / macOS / Linux (via Node.js ou Docker)
+- **Palavras-chave:** Bolt.diy, Bolt.new, IA, WebContainer, Full-Stack, LLM, Ollama, OpenRouter, Desenvolvimento no Navegador, Código Aberto
+
 ---
 
 ## ✨ Principais Destaques
