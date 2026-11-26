@@ -53,21 +53,41 @@ Para usuários que priorizam a privacidade absoluta e o software 100% livre, o *
 - [Site Oficial do VSCodium](https://vscodium.com/)
 - [Repositório do VSCodium no GitHub](https://github.com/VSCodium/vscodium)
 
-**Extensões Recomendadas (Produtividade e Dev):**
-- 🎨 **Dracula Official:** Tema escuro de alto contraste e agradável aos olhos.
-- 📁 **Material Icon Theme:** Ícones de arquivos e pastas intuitivos e bonitos.
-- ✨ **Prettier:** Formatação automática de código ao salvar.
-- 🔍 **GitLens:** Visualização avançada de quem alterou cada linha de código (blame).
-- 🐛 **Error Lens:** Destaca erros e avisos diretamente na linha do código, não apenas no sublinhado.
-- 🤖 **GitHub Copilot / Tabnine / Continue / Cline:** Assistentes de programação com IA para autocompletar e gerar código.
-- 🌐 **Live Preview / Live Share:** Pré-visualização ao vivo e colaboração em tempo real.
-- 🐶 **Pets:** Um companheiro virtual (gato, cachorro, etc.) que anda pela sua tela enquanto você codifica (ótimo para aliviar o estresse).
+## 📦 Extensões Essenciais para VS Code / VSCodium
 
-**Extensões para Testar:**
-- *Qualidade:* ESLint, Code Spell Checker, Better Comments.
-- *Produtividade:* Auto Rename Tag, Path Intellisense, Color Highlight, Settings Sync.
-- *Ferramentas:* Thunder Client (testes de API), Dev Containers.
+### 🎨 Aparência e Interface
+- **[Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula)**: Tema escuro de alto contraste, suave para os olhos e muito popular.
+- **[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)**: Ícones de arquivos e pastas intuitivos, coloridos e modernos.
+- **[Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)**: Destaca códigos de cores (hex, rgb) no texto com a cor real de fundo.
 
+### ⚡ Produtividade e Formatação
+- **[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)**: Formatação automática e padronizada do código ao salvar o arquivo.
+- **[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)**: Renomeia automaticamente a tag HTML/XML de fechamento quando você altera a de abertura.
+- **[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)**: Autocompleta nomes de arquivos e caminhos de diretórios enquanto você digita.
+- **[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)**: Permite criar comentários coloridos e categorizados (alertas, consultas, tarefas) para melhor organização.
+
+### 🐛 Qualidade de Código e Depuração
+- **[Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)**: Melhora a experiência de depuração destacando erros e avisos diretamente na linha do código, não apenas com o sublinhado ondulado.
+- **[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)**: Identifica e relata padrões problemáticos encontrados no código JavaScript/TypeScript, promovendo boas práticas.
+- **[Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)**: Verificador ortográfico básico que funciona bem com camelCase, identificando erros de digitação em comentários e strings.
+
+### 🌐 Web, APIs e Colaboração
+- **[Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)**: Servidor de desenvolvimento local com recarregamento automático (hot reload) para HTML/CSS/JS.
+- **[Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)**: Cliente REST API leve e amigável, integrado diretamente ao VS Code (alternativa excelente ao Postman).
+- **[Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)**: Permite colaboração de programação em tempo real (pair programming), compartilhando o workspace com colegas.
+
+### 🤖 Inteligência Artificial e Autocomplete
+- **[GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)**: Seu "pair programmer" com IA, sugerindo linhas ou funções inteiras de código com base no contexto.
+- **[Tabnine AI](https://marketplace.visualstudio.com/items?itemName=tabnine.tabnine-vscode)**: Autocomplete de código impulsionado por IA, com opções de modelos locais para maior privacidade.
+- **[Continue](https://marketplace.visualstudio.com/items?itemName=Continue.continue)**: Assistente de codificação open-source que permite conectar modelos locais (como Ollama) ou da OpenAI/Anthropic diretamente no editor.
+- **[Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)**: Agente de IA autônomo que pode ler seu workspace, executar comandos no terminal e iterar sobre o código para resolver tarefas complexas.
+
+### 🔧 Ferramentas Específicas e Utilitários
+- **[GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)**: Supercarrega os recursos de Git integrados, mostrando visualmente quem alterou cada linha de código e quando (blame).
+- **[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)**: Fornece sugestões de autocompletar baseadas em IA, priorizando as opções mais prováveis no topo da lista.
+- **[Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)**: Permite abrir e desenvolver projetos dentro de um contêiner Docker, garantindo um ambiente idêntico para todos os desenvolvedores.
+- **[Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)**: Um companheiro virtual (gato, cachorro, dinossauro, etc.) que caminha pelo seu editor enquanto você trabalha (ótimo para aliviar o estresse!).
+- **[Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)**: *Nota: O VS Code agora possui sincronização nativa de configurações via conta Microsoft/GitHub. Esta extensão é útil apenas se você quiser sincronizar via Gist do GitHub de forma independente.*
 **Guia Específico (Linguagem C):**
 - 📺 [Tutorial: COMO RODAR LINGUAGEM C NO VS CODE (YouTube)](https://youtu.be/OJTLMcjK8mQ)
 
