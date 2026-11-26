@@ -1,7 +1,11 @@
-# 🧠 AnythingLLM (IA Local e Privada)
+# 🧠 AnythingLLM
 
 ## 📌 O que é o AnythingLLM?
 O **AnythingLLM** é uma aplicação de inteligência artificial completa, de código aberto e focada na privacidade, que permite criar um assistente pessoal semelhante ao ChatGPT, mas que roda inteiramente no seu computador ou servidor. Ele transforma qualquer documento (PDF, TXT, sites) em uma base de conhecimento contextual, permitindo que você "converse" com seus próprios dados. O lema do projeto é claro: *"Pare de alugar sua inteligência. Seja dono dela."*
+
+- **Categoria:** Aplicação de Inteligência Artificial Local e Privada para Gestão de Conhecimento (RAG)
+- **Plataforma:** Windows / macOS / Linux / Docker
+- **Palavras-chave:** AnythingLLM, IA Local, Privacidade, RAG, Ollama, LM Studio, Base de Conhecimento, Agentes de IA, Auto-hospedagem, Código Aberto
 
 ---
 
