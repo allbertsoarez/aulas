@@ -3,6 +3,10 @@
 ## 📌 O que é o Anytype?
 O **Anytype** é um aplicativo de produtividade e base de conhecimento pessoal que combina a flexibilidade visual do Notion com a privacidade e a soberania de dados do modelo *local-first*. Diferente de ferramentas baseadas em nuvem, o Anytype é de código aberto, funciona totalmente offline e utiliza criptografia de ponta a ponta (E2EE). Sua arquitetura é baseada em "Objetos" e "Relações" (semelhante a um banco de dados gráfico), permitindo que você conecte notas, tarefas, wikis e projetos de forma orgânica, sem depender de servidores de terceiros.
 
+- **Categoria:** Aplicativo de Produtividade e Base de Conhecimento Pessoal Local-First e P2P
+- **Plataforma:** Windows / macOS / Linux / iOS / Android
+- **Palavras-chave:** Anytype, Notion Alternative, Local-First, P2P, Criptografia E2EE, Base de Conhecimento, Código Aberto, Objetos e Relações, Graph Database
+
 ---
 
 ## ✨ Principais Destaques
