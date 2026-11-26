@@ -11,7 +11,6 @@ Bem-vindo a esta curadoria meticulosa de softwares, aplicativos e fluxos de trab
 ## 📚 Como Usar Este Repositório
 
 Cada ferramenta possui seu próprio arquivo Markdown (`.md`) nesta pasta (`tutoriais/`). Os arquivos seguem um padrão rigoroso de formatação, incluindo:
-- **Frontmatter YAML:** Com `category`, `platform` e `keywords` para fácil busca e organização no seu vault do Obsidian.
 - **Descrição e Destaques:** Resumo claro da filosofia e dos recursos principais.
 - **Guia de Instalação:** Passos práticos e diretos.
 - **💡 Nota sobre a Metodologia de Estudo:** Uma seção exclusiva que conecta a lógica do software a princípios cognitivos (como *active recall*, decomposição de problemas e metacognição).
@@ -20,9 +19,7 @@ Cada ferramenta possui seu próprio arquivo Markdown (`.md`) nesta pasta (`tutor
 
 ---
 
-## 🗂️ Tabela Mestre de Ferramentas
-
-Abaixo está o índice completo das ferramentas documentadas. *(Nota: Os links usam caminhos relativos `./`, apontando exatamente para os nomes dos arquivos na pasta `tutoriais/`)*.
+## 🗂️ Tabela de Ferramentas
 
 | Ferramenta | Categoria Principal | Plataformas |
 | :--- | :--- | :--- |
@@ -222,23 +219,6 @@ Abaixo está o índice completo das ferramentas documentadas. *(Nota: Os links u
 | **[Xournal++](./Xournal.md)** | Educação / Anotações | Win, macOS, Linux, Android |
 | **[yt-dlp](./YT-DLP.md)** | Mídia / Automação | Win, macOS, Linux |
 | **[Zotero](./Zotero.md)** | Pesquisa / Educação | Win, macOS, Linux, Web |
-
-*(Nota: O arquivo `README.md` é este índice principal e não está listado como ferramenta).*
-
----
-
-## 💡 Os 4 Pilares da Metodologia de Estudo (Inspirados nestas Ferramentas)
-
-Ao analisar estas ferramentas, quatro princípios cognitivos emergem como fundamentais para dominar temas complexos:
-
-1. **Soberania e *Local-First* (Internalização):** 
-   Assim como o *Anytype*, *Bitwarden* ou *Bitcoin Core* não dependem de servidores externos, o conhecimento verdadeiro deve ser internalizado. O objetivo não é saber "onde pesquisar", mas ter os fundamentos (a "seed phrase" ou a "senha mestra" cognitiva) gravados na memória de longo prazo através da prática deliberada.
-2. **Decomposição e Modularidade (*Chunking*):** 
-   Ferramentas como *Bruno* (arquivos `.bru`), *Xournal++* (camadas) e *Antigravity* (Skills) funcionam dividindo sistemas complexos em módulos gerenciáveis. No estudo, quebre problemas gigantes em sub-rotinas: domine o conceito base antes de tentar resolver a equação completa.
-3. **Metacognição e *Debugging*:** 
-   O *x64dbg* e o *Beekeeper Studio* ensinam a inspecionar o estado do sistema passo a passo. O aluno deve aplicar isso ao seu raciocínio: verificar a lógica a cada etapa de uma resolução, mantendo um "histórico de erros" (como o *Git*) para aprender com as falhas, em vez de apenas apagá-las.
-4. **Ambientes de Baixo Atrito (*Flow*):** 
-   O *VS Code*, *Spyder* e *Bolt.diy* eliminam barreiras para que o usuário foque na criação. O ambiente de estudo deve ser configurado da mesma forma: sem distrações, com materiais à mão e rotinas automatizadas, preservando a "RAM" mental para o pensamento de alto nível.
 
 ---
 
