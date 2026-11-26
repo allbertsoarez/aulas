@@ -3,6 +3,10 @@
 ## 📌 O que é o AFFiNE?
 O **AFFiNE** (pronuncia-se *"a-fine"*) é um espaço de trabalho "tudo-em-um" de código aberto, projetado como uma alternativa superior ao Notion e ao Miro. Ele funciona como um sistema operacional para o seu conhecimento, unindo documentos, quadros brancos (telas infinitas), bancos de dados e inteligência artificial em um único ambiente. Sua filosofia é *local-first* (seus dados ficam no seu dispositivo), garantindo privacidade, personalização e prontidão para uso imediato.
 
+- **Categoria:** Espaço de Trabalho "Tudo-em-Um" (Docs + Whiteboard) de Código Aberto e Local-First
+- **Plataforma:** Windows / macOS / Linux / Web / iOS / Android
+- **Palavras-chave:** AFFiNE, Notion Alternative, Miro Alternative, Local-First, Código Aberto, Base de Conhecimento, Whiteboard, Docker, Auto-hospedagem, IA
+
 ---
 
 ## ✨ Principais Destaques
