@@ -6,6 +6,8 @@ Este conjunto de recursos representa a nova fronteira do desenvolvimento orienta
 - **[AG Kit](https://github.com/vudovn/ag-kit)**: Um kit de engenharia de agentes projetado especificamente para o Antigravity, fornecendo regras, fluxos de trabalho, memória persistente e orquestração segura.
 - **[Agentic Awesome Skills (Catálogo Web)](https://sickn33.github.io/agentic-awesome-skills/)**: Uma biblioteca massiva e open-source (com mais de 2.900 "playbooks" ou `SKILL.md`) que ensina agentes de IA (como Antigravity, Claude Code, Cursor e Gemini CLI) a executar tarefas complexas com precisão, do desenvolvimento de software à segurança e design.
 
+---
+
 - **Categoria:** Ecossistema de Desenvolvimento Orientado por Agentes de IA (Skills e Orquestração)
 - **Plataforma:** Windows / macOS / Linux (CLI, IDE, Web)
 - **Palavras-chave:** Antigravity, Agentic Skills, AG Kit, IA Local, Automação, Prompt Engineering, Desenvolvimento de Software, Open Source, Orquestração
