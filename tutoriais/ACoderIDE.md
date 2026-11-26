@@ -3,6 +3,10 @@
 ## 📌 O que é o A-Coder IDE?
 O **A-Coder IDE** é um editor de código de código aberto e nativo de IA, construído sobre a base sólida do VS Code. Desenvolvido pela *The A-Tech Corporation*, ele transforma o ambiente de desenvolvimento de um editor passivo em um parceiro de codificação inteligente e autônomo. O projeto tem forte foco em privacidade ("local-first"), suporte a modelos de IA locais (como Ollama e vLLM) e integração avançada via Model Context Protocol (MCP).
 
+- **Categoria:** Ambiente de Desenvolvimento Integrado (IDE) com IA Nativa e Foco em Privacidade
+- **Plataforma:** Windows / Linux
+- **Palavras-chave:** A-Coder IDE, IA Local, VS Code Fork, Privacidade, Ollama, MCP, Programação, Automação, Código Aberto
+
 ---
 
 ## ✨ Principais Destaques
