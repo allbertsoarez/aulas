@@ -3,6 +3,10 @@
 ## 📌 O que é o Affinity?
 O **Affinity** é a nova geração de software profissional de design, edição de fotos e layout de páginas, agora unificado em um único aplicativo sob a égide da Canva. Diferente do modelo antigo (que exigia a compra de programas separados para vetor, foto e editoração), esta nova versão combina todas essas ferramentas em uma experiência fluida e **totalmente gratuita para uso pessoal**. Ele foi projetado para permitir que criativos trabalhem sem interrupções, podendo exportar seus ativos diretamente para o Canva para colaboração em equipe e escalonamento de projetos.
 
+- **Categoria:** Suíte Profissional Unificada de Design, Edição e Layout (Gratuita para Uso Pessoal)
+- **Plataforma:** Windows / macOS / iPad
+- **Palavras-chave:** Affinity, Design Gráfico, Edição de Imagens, Layout, Canva, Fluxo de Trabalho Não Destrutivo, Vetor, Produtividade, Criatividade
+
 ---
 
 ## ✨ Principais Destaques
@@ -35,4 +39,4 @@ O Affinity é nativo e altamente otimizado para os principais sistemas operacion
 ---
 
 ### 💡 Nota sobre a Metodologia de Estudo
-A filosofia central do novo Affinity é a **unificação**: em vez de fragmentar o trabalho em três aplicativos diferentes, ele traz tudo para um único ambiente coeso. 
+A filosofia central do novo Affinity é a **unificação**: em vez de fragmentar o trabalho em três aplicativos diferentes, ele traz tudo para um único ambiente coeso.
