@@ -3,6 +3,10 @@
 ## 📌 O que é a Proteção do SO?
 A segurança do Sistema Operacional (SO) é a primeira linha de defesa de qualquer computador ou dispositivo móvel. Ela envolve o uso de softwares dedicados (como antivírus) e boas práticas para proteger dados, privacidade e a integridade do hardware contra ameaças como malware, ransomware, spyware e acessos não autorizados. O **Panda Free Antivirus** é uma das soluções mais populares para usuários domésticos, oferecendo proteção robusta sem custo.
 
+- **Categoria:** Ferramentas de Proteção e Antivírus para Sistemas Operacionais
+- **Plataforma:** Windows (Panda Free Antivirus) / Multiplataforma (Práticas Gerais)
+- **Palavras-chave:** Panda Free Antivirus, Segurança do SO, Antivírus, Proteção contra Malware, Ransomware, Nuvem, Boas Práticas, Backup, USB
+
 ---
 
 ## ✨ Principais Destaques do Panda Free Antivirus
