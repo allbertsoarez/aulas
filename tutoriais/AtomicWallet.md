@@ -3,6 +3,10 @@
 ## 📌 O que é a Atomic Wallet?
 A **Atomic Wallet** é uma carteira de criptomoedas multiativos, descentralizada e **não custodial**. Diferente das corretoras (exchanges) centralizadas, a Atomic Wallet garante que **você é o único dono** dos seus fundos. Suas chaves privadas e frase de recuperação são criptografadas e armazenadas exclusivamente no seu dispositivo, sem que a empresa tenha acesso a elas, eliminando a necessidade de contas, senhas de servidor ou verificações de identidade (KYC) para o uso básico.
 
+- **Categoria:** Carteira de Criptomoedas Descentralizada e Não Custodial (Multiativos)
+- **Plataforma:** Windows / macOS / Linux / Android / iOS
+- **Palavras-chave:** Atomic Wallet, Criptomoedas, Non-Custodial, Seed Phrase, Privacidade, Staking, Swap, Descentralização, Segurança
+
 ---
 
 ## ✨ Principais Destaques
