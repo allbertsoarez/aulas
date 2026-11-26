@@ -3,6 +3,10 @@
 ## 📌 O que é o Aegis?
 O **Aegis Authenticator** é um aplicativo gratuito, seguro e de código aberto para Android, projetado para gerenciar tokens de verificação em duas etapas (2FA) dos seus serviços online. Ele surge como uma alternativa superior a apps como Google Authenticator ou Authy, colocando a privacidade, a criptografia robusta e o controle total dos dados nas mãos do usuário.
 
+- **Categoria:** Gerenciador de Autenticação de Dois Fatores (2FA) de Código Aberto e Seguro
+- **Plataforma:** Android
+- **Palavras-chave:** Aegis Authenticator, 2FA, TOTP, HOTP, Código Aberto, Privacidade, Criptografia, Backup, F-Droid, Segurança
+
 ---
 
 ## ✨ Principais Destaques
