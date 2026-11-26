@@ -3,6 +3,10 @@
 ## 📌 O que é o Bitcoin Core?
 O **Bitcoin Core** é a implementação de referência oficial do protocolo Bitcoin. Mais do que uma simples carteira, ele é um **nó completo (full node)** da rede. Isso significa que ele baixa, valida e armazena de forma independente todo o histórico de transações do Bitcoin, garantindo que todas as regras de consenso (como o limite de 21 milhões de moedas e a validade das assinaturas criptográficas) sejam rigorosamente respeitadas. É a forma mais soberana e segura de interagir com a rede Bitcoin.
 
+- **Categoria:** Implementação de Referência e Nó Completo (Full Node) do Protocolo Bitcoin
+- **Plataforma:** Windows / macOS / Linux
+- **Palavras-chave:** Bitcoin Core, Full Node, Blockchain, Validação Independente, Pruning, Privacidade, Código Aberto, Soberania Financeira, PGP
+
 ---
 
 ## ✨ Principais Destaques
