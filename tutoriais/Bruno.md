@@ -3,6 +3,10 @@
 ## 📌 O que é o Bruno?
 O **Bruno** é um cliente de API de código aberto, rápido e leve, projetado como uma alternativa direta e superior ao Postman e ao Insomnia. Sua principal inovação é a abordagem *"offline-first"* e *"Git-friendly"*: em vez de armazenar suas coleções em um banco de dados proprietário na nuvem, o Bruno salva cada requisição como um arquivo de texto simples (`.bru`) diretamente no sistema de arquivos do seu projeto. Isso permite que você versiona suas requisições de API no Git, junto com o código da sua aplicação.
 
+- **Categoria:** Cliente de API de Código Aberto, Leve e "Git-Friendly" (Offline-First)
+- **Plataforma:** Windows / macOS / Linux / VS Code (Extensão)
+- **Palavras-chave:** Bruno, API Client, Postman Alternative, Git-Friendly, Offline-First, Código Aberto, VS Code, Testes de API, JavaScript, .bru
+
 ---
 
 ## ✨ Principais Destaques
