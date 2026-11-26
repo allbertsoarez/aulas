@@ -3,6 +3,10 @@
 ## 📌 O que é o Bitwarden?
 O **Bitwarden** é um gerenciador de senhas e cofre digital de código aberto, seguro e multiplataforma. Diferente de soluções proprietárias, ele opera sob uma arquitetura de "conhecimento zero" (*zero-knowledge*). Isso significa que seus dados são criptografados localmente no seu dispositivo *antes* de serem sincronizados com a nuvem. Apenas você possui a "chave mestra" (sua senha principal) para desbloquear o cofre, garantindo privacidade e soberania absolutas sobre suas informações.
 
+- **Categoria:** Gerenciador de Senhas e Cofre Digital de Código Aberto com Criptografia de Conhecimento Zero
+- **Plataforma:** Windows / macOS / Linux / Android / iOS / Web / Extensões de Navegador
+- **Palavras-chave:** Bitwarden, Gerenciador de Senhas, Zero-Knowledge, Código Aberto, 2FA, TOTP, Auto-hospedagem, Segurança, Privacidade, Bitwarden Send
+
 ---
 
 ## ✨ Principais Destaques
