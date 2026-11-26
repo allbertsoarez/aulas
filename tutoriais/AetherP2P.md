@@ -3,6 +3,10 @@
 ## 📌 O que é o Aether?
 O **Aether** é um aplicativo de código aberto e rede ponto a ponto (P2P) que oferece conteúdo novo e atualizado sobre temas de seu interesse. Ele funciona como uma alternativa descentralizada a fóruns e redes sociais tradicionais, com forte foco em privacidade, sem rastreamento e com moderação comunitária.
 
+- **Categoria:** Rede Social P2P (Ponto a Ponto) Descentralizada e de Código Aberto
+- **Plataforma:** Linux / Windows / macOS
+- **Palavras-chave:** Aether P2P, Rede Social Descentralizada, Ponto a Ponto, Privacidade, Código Aberto, Snap, Linux, Fórum, Sem Rastreamento
+
 ---
 
 ## 🚀 Instalação no Linux
@@ -75,7 +79,3 @@ sudo snap install aetherp2p
 - [Aether P2P no Snapcraft](https://snapcraft.io/aetherp2p)
 - [Tutorial de Instalação (Sempre Update)](https://sempreupdate.com.br/linux/tutoriais/como-instalar-o-aether-p2p-um-uma-rede-ponto-a-ponto-no-ubuntu-linux-mint-fedora-debian/)
 - [Discussão no Reddit](https://www.reddit.com/r/RedditAlternatives/comments/143pw2a/aether_an_open_source_p2p_community_board_with/)
-
----
-
-Essa formatação minimalista nos links facilita ainda mais a varredura visual e a cópia rápida. Se precisar ajustar mais algum detalhe ou adicionar uma nova seção ao seu material, é só avisar!
